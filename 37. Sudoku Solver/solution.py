@@ -4,51 +4,87 @@ from typing import List
 class Solution:
     def solveSudoku(self, board: List[List[str]]) -> None:
         """
-        Solve a Sudoku puzzle by filling the empty cells.
-        Modifies board in-place.
-        
-        Uses backtracking with constraint checking to find the valid solution.
-        
-        Time Complexity: O(9^(empty cells)) worst case, but pruning makes it faster
-        Space Complexity: O(81) for recursion stack in worst case
+        Solve a Sudoku puzzle using optimized backtracking with:
+        1. Bitmasks for O(1) constraint checking
+        2. MRV heuristic - fill cells with fewer options first
         """
-        def is_valid(row: int, col: int, num: str) -> bool:
-            """Check if placing num at (row, col) is valid."""
-            # Check row
-            if num in board[row]:
-                return False
-            
-            # Check column
-            for i in range(9):
-                if board[i][col] == num:
-                    return False
-            
-            # Check 3x3 box
-            box_row, box_col = 3 * (row // 3), 3 * (col // 3)
-            for i in range(box_row, box_row + 3):
-                for j in range(box_col, box_col + 3):
-                    if board[i][j] == num:
-                        return False
-            
-            return True
+        # Bitmasks: bit i represents digit (i+1)
+        rows = [0] * 9
+        cols = [0] * 9
+        boxes = [0] * 9
         
-        def solve() -> bool:
-            """Recursively solve the Sudoku using backtracking."""
+        # Initialize constraints from existing numbers
+        for i in range(9):
+            for j in range(9):
+                if board[i][j] != '.':
+                    num = int(board[i][j]) - 1
+                    mask = 1 << num
+                    rows[i] |= mask
+                    cols[j] |= mask
+                    boxes[(i // 3) * 3 + j // 3] |= mask
+        
+        def get_candidates(i: int, j: int) -> int:
+            """Get available numbers as bitmask."""
+            return ~(rows[i] | cols[j] | boxes[(i // 3) * 3 + j // 3]) & 0x1FF
+        
+        def count_bits(x: int) -> int:
+            """Count number of set bits."""
+            count = 0
+            while x:
+                count += 1
+                x &= x - 1
+            return count
+        
+        def find_best_cell():
+            """Find empty cell with minimum remaining values (MRV heuristic)."""
+            min_count = 10
+            best = None
             for i in range(9):
                 for j in range(9):
                     if board[i][j] == '.':
-                        for num in '123456789':
-                            if is_valid(i, j, num):
-                                board[i][j] = num
-                                
-                                if solve():
-                                    return True
-                                
-                                # Backtrack
-                                board[i][j] = '.'
-                        
-                        return False  # No valid number found
+                        candidates = get_candidates(i, j)
+                        count = count_bits(candidates)
+                        if count == 0:
+                            return (-1, -1, 0)  # No valid options, need backtrack
+                        if count < min_count:
+                            min_count = count
+                            best = (i, j, candidates)
+                            if count == 1:
+                                return best  # Can't do better
+            return best
+        
+        def solve() -> bool:
+            cell = find_best_cell()
+            if cell is None:
+                return True  # All cells filled
             
-            return True  # All cells filled
+            i, j, candidates = cell
+            if i == -1:
+                return False  # Dead end
+            
+            box_idx = (i // 3) * 3 + j // 3
+            
+            # Try each candidate
+            while candidates:
+                # Get lowest set bit (next candidate)
+                num = candidates & (-candidates)
+                candidates &= candidates - 1
+                
+                # Place the number
+                board[i][j] = str((num.bit_length()))
+                rows[i] |= num
+                cols[j] |= num
+                boxes[box_idx] |= num
+                
+                if solve():
+                    return True
+                
+                # Backtrack
+                board[i][j] = '.'
+                rows[i] &= ~num
+                cols[j] &= ~num
+                boxes[box_idx] &= ~num
+            
+            return False
         
         solve()
