@@ -1,4 +1,5 @@
-﻿# Leet-Code-Solutions
+﻿
+# Leet-Code-Solutions
 
 This repository contains my solutions to LeetCode problems, implemented in Python.
 
@@ -57,9 +58,29 @@ graph TD
     Root --> P48["48. Rotate Image"]
     Root --> P49["49. Group Anagrams"]
     Root --> P50["50. Pow(x, n)"]
+    Root --> P51["51. N-Queens"]
+    Root --> P52["52. N-Queens II"]
+    Root --> P53["53. Maximum Subarray"]
+    Root --> P54["54. Spiral Matrix"]
+    Root --> P55["55. Jump Game"]
+    Root --> P56["56. Merge Intervals"]
+    Root --> P57["57. Insert Interval"]
+    Root --> P58["58. Length of Last Word"]
+    Root --> P59["59. Spiral Matrix II"]
+    Root --> P60["60. Permutation Sequence"]
+    Root --> P61["61. Rotate List"]
+    Root --> P62["62. Unique Paths"]
+    Root --> P63["63. Unique Paths II"]
+    Root --> P64["64. Minimum Path Sum"]
+    Root --> P65["65. Valid Number"]
     Root --> P66["66. Plus One"]
+    Root --> P67["67. Add Binary"]
+    Root --> P68["68. Text Justification"]
+    Root --> P69["69. Sqrt(x)"]
+    Root --> P70["70. Climbing Stairs"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1390["1390. Four Divisors"]
+    Root --> P1975["1975. Maximum Matrix Sum"]
 ```
 
 ## Solved Problems
@@ -114,6 +135,26 @@ graph TD
 - [48. Rotate Image](./48.%20Rotate%20Image)
 - [49. Group Anagrams](./49.%20Group%20Anagrams)
 - [50. Pow(x, n)](./50.%20Pow%28x%2C%20n%29)
+- [51. N-Queens](./51.%20N-Queens)
+- [52. N-Queens II](./52.%20N-Queens%20II)
+- [53. Maximum Subarray](./53.%20Maximum%20Subarray)
+- [54. Spiral Matrix](./54.%20Spiral%20Matrix)
+- [55. Jump Game](./55.%20Jump%20Game)
+- [56. Merge Intervals](./56.%20Merge%20Intervals)
+- [57. Insert Interval](./57.%20Insert%20Interval)
+- [58. Length of Last Word](./58.%20Length%20of%20Last%20Word)
+- [59. Spiral Matrix II](./59.%20Spiral%20Matrix%20II)
+- [60. Permutation Sequence](./60.%20Permutation%20Sequence)
+- [61. Rotate List](./61.%20Rotate%20List)
+- [62. Unique Paths](./62.%20Unique%20Paths)
+- [63. Unique Paths II](./63.%20Unique%20Paths%20II)
+- [64. Minimum Path Sum](./64.%20Minimum%20Path%20Sum)
+- [65. Valid Number](./65.%20Valid%20Number)
 - [66. Plus One](./66.%20Plus%20One)
+- [67. Add Binary](./67.%20Add%20Binary)
+- [68. Text Justification](./68.%20Text%20Justification)
+- [69. Sqrt(x)](./69.%20Sqrt%28x%29)
+- [70. Climbing Stairs](./70.%20Climbing%20Stairs)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
+- [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
