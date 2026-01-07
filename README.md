@@ -78,7 +78,18 @@ graph TD
     Root --> P68["68. Text Justification"]
     Root --> P69["69. Sqrt(x)"]
     Root --> P70["70. Climbing Stairs"]
+    Root --> P71["71. Simplify Path"]
+    Root --> P72["72. Edit Distance"]
+    Root --> P73["73. Set Matrix Zeroes"]
+    Root --> P74["74. Search a 2D Matrix"]
+    Root --> P75["75. Sort Colors"]
+    Root --> P76["76. Minimum Window Substring"]
+    Root --> P77["77. Combinations"]
+    Root --> P78["78. Subsets"]
+    Root --> P79["79. Word Search"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
+    Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
+    Root --> P1339["1339. Maximum Product of Splitted Binary Tree"]
     Root --> P1390["1390. Four Divisors"]
     Root --> P1975["1975. Maximum Matrix Sum"]
 ```
@@ -155,6 +166,17 @@ graph TD
 - [68. Text Justification](./68.%20Text%20Justification)
 - [69. Sqrt(x)](./69.%20Sqrt%28x%29)
 - [70. Climbing Stairs](./70.%20Climbing%20Stairs)
+- [71. Simplify Path](./71.%20Simplify%20Path)
+- [72. Edit Distance](./72.%20Edit%20Distance)
+- [73. Set Matrix Zeroes](./73.%20Set%20Matrix%20Zeroes)
+- [74. Search a 2D Matrix](./74.%20Search%20a%202D%20Matrix)
+- [75. Sort Colors](./75.%20Sort%20Colors)
+- [76. Minimum Window Substring](./76.%20Minimum%20Window%20Substring)
+- [77. Combinations](./77.%20Combinations)
+- [78. Subsets](./78.%20Subsets)
+- [79. Word Search](./79.%20Word%20Search)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
+- [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
+- [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
