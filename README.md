@@ -87,6 +87,16 @@ graph TD
     Root --> P77["77. Combinations"]
     Root --> P78["78. Subsets"]
     Root --> P79["79. Word Search"]
+    Root --> P80["80. Remove Duplicates from Sorted Array II"]
+    Root --> P81["81. Search in Rotated Sorted Array II"]
+    Root --> P82["82. Remove Duplicates from Sorted List II"]
+    Root --> P83["83. Remove Duplicates from Sorted List"]
+    Root --> P84["84. Largest Rectangle in Histogram"]
+    Root --> P85["85. Maximal Rectangle"]
+    Root --> P86["86. Partition List"]
+    Root --> P88["88. Merge Sorted Array"]
+    Root --> P89["89. Gray Code"]
+    Root --> P90["90. Subsets II"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
     Root --> P1339["1339. Maximum Product of Splitted Binary Tree"]
@@ -175,6 +185,16 @@ graph TD
 - [77. Combinations](./77.%20Combinations)
 - [78. Subsets](./78.%20Subsets)
 - [79. Word Search](./79.%20Word%20Search)
+- [80. Remove Duplicates from Sorted Array II](./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
+- [81. Search in Rotated Sorted Array II](./81.%20Search%20in%20Rotated%20Sorted%20Array%20II)
+- [82. Remove Duplicates from Sorted List II](./82.%20Remove%20Duplicates%20from%20Sorted%20List%20II)
+- [83. Remove Duplicates from Sorted List](./83.%20Remove%20Duplicates%20from%20Sorted%20List)
+- [84. Largest Rectangle in Histogram](./84.%20Largest%20Rectangle%20in%20Histogram)
+- [85. Maximal Rectangle](./85.%20Maximal%20Rectangle)
+- [86. Partition List](./86.%20Partition%20List)
+- [88. Merge Sorted Array](./88.%20Merge%20Sorted%20Array)
+- [89. Gray Code](./89.%20Gray%20Code)
+- [90. Subsets II](./90.%20Subsets%20II)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
