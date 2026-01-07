@@ -94,6 +94,7 @@ graph TD
     Root --> P84["84. Largest Rectangle in Histogram"]
     Root --> P85["85. Maximal Rectangle"]
     Root --> P86["86. Partition List"]
+    Root --> P87["87. Scramble String"]
     Root --> P88["88. Merge Sorted Array"]
     Root --> P89["89. Gray Code"]
     Root --> P90["90. Subsets II"]
@@ -192,6 +193,7 @@ graph TD
 - [84. Largest Rectangle in Histogram](./84.%20Largest%20Rectangle%20in%20Histogram)
 - [85. Maximal Rectangle](./85.%20Maximal%20Rectangle)
 - [86. Partition List](./86.%20Partition%20List)
+- [87. Scramble String](./87.%20Scramble%20String)
 - [88. Merge Sorted Array](./88.%20Merge%20Sorted%20Array)
 - [89. Gray Code](./89.%20Gray%20Code)
 - [90. Subsets II](./90.%20Subsets%20II)
