@@ -103,10 +103,21 @@ graph TD
     Root --> P93["93. Restore IP Addresses"]
     Root --> P94["94. Binary Tree Inorder Traversal"]
     Root --> P95["95. Unique Binary Search Trees II"]
+    Root --> P96["96. Unique Binary Search Trees"]
     Root --> P97["97. Interleaving String"]
     Root --> P98["98. Validate Binary Search Tree"]
     Root --> P99["99. Recover Binary Search Tree"]
     Root --> P100["100. Same Tree"]
+    Root --> P101["101. Symmetric Tree"]
+    Root --> P102["102. Binary Tree Level Order Traversal"]
+    Root --> P103["103. Binary Tree Zigzag Level Order Traversal"]
+    Root --> P104["104. Maximum Depth of Binary Tree"]
+    Root --> P105["105. Construct Binary Tree from Preorder and Inorder Traversal"]
+    Root --> P106["106. Construct Binary Tree from Inorder and Postorder Traversal"]
+    Root --> P107["107. Binary Tree Level Order Traversal II"]
+    Root --> P108["108. Convert Sorted Array to Binary Search Tree"]
+    Root --> P109["109. Convert Sorted List to Binary Search Tree"]
+    Root --> P110["110. Balanced Binary Tree"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
     Root --> P1339["1339. Maximum Product of Splitted Binary Tree"]
@@ -211,10 +222,21 @@ graph TD
 - [93. Restore IP Addresses](./93.%20Restore%20IP%20Addresses)
 - [94. Binary Tree Inorder Traversal](./94.%20Binary%20Tree%20Inorder%20Traversal)
 - [95. Unique Binary Search Trees II](./95.%20Unique%20Binary%20Search%20Trees%20II)
+- [96. Unique Binary Search Trees](./96.%20Unique%20Binary%20Search%20Trees)
 - [97. Interleaving String](./97.%20Interleaving%20String)
 - [98. Validate Binary Search Tree](./98.%20Validate%20Binary%20Search%20Tree)
 - [99. Recover Binary Search Tree](./99.%20Recover%20Binary%20Search%20Tree)
 - [100. Same Tree](./100.%20Same%20Tree)
+- [101. Symmetric Tree](./101.%20Symmetric%20Tree)
+- [102. Binary Tree Level Order Traversal](./102.%20Binary%20Tree%20Level%20Order%20Traversal)
+- [103. Binary Tree Zigzag Level Order Traversal](./103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
+- [104. Maximum Depth of Binary Tree](./104.%20Maximum%20Depth%20of%20Binary%20Tree)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](./105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](./106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal)
+- [107. Binary Tree Level Order Traversal II](./107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)
+- [108. Convert Sorted Array to Binary Search Tree](./108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
+- [109. Convert Sorted List to Binary Search Tree](./109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree)
+- [110. Balanced Binary Tree](./110.%20Balanced%20Binary%20Tree)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
