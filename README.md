@@ -128,6 +128,16 @@ graph TD
     Root --> P118["118. Pascal's Triangle"]
     Root --> P119["119. Pascal's Triangle II"]
     Root --> P120["120. Triangle"]
+    Root --> P121["121. Best Time to Buy and Sell Stock"]
+    Root --> P122["122. Best Time to Buy and Sell Stock II"]
+    Root --> P123["123. Best Time to Buy and Sell Stock III"]
+    Root --> P124["124. Binary Tree Maximum Path Sum"]
+    Root --> P125["125. Valid Palindrome"]
+    Root --> P126["126. Word Ladder II"]
+    Root --> P127["127. Word Ladder"]
+    Root --> P128["128. Longest Consecutive Sequence"]
+    Root --> P129["129. Sum Root to Leaf Numbers"]
+    Root --> P130["130. Surrounded Regions"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
     Root --> P1339["1339. Maximum Product of Splitted Binary Tree"]
@@ -257,6 +267,16 @@ graph TD
 - [118. Pascal's Triangle](./118.%20Pascal%27s%20Triangle)
 - [119. Pascal's Triangle II](./119.%20Pascal%27s%20Triangle%20II)
 - [120. Triangle](./120.%20Triangle)
+- [121. Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+- [122. Best Time to Buy and Sell Stock II](./122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
+- [123. Best Time to Buy and Sell Stock III](./123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
+- [124. Binary Tree Maximum Path Sum](./124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+- [125. Valid Palindrome](./125.%20Valid%20Palindrome)
+- [126. Word Ladder II](./126.%20Word%20Ladder%20II)
+- [127. Word Ladder](./127.%20Word%20Ladder)
+- [128. Longest Consecutive Sequence](./128.%20Longest%20Consecutive%20Sequence)
+- [129. Sum Root to Leaf Numbers](./129.%20Sum%20Root%20to%20Leaf%20Numbers)
+- [130. Surrounded Regions](./130.%20Surrounded%20Regions)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
