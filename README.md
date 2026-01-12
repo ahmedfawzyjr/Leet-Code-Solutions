@@ -138,6 +138,16 @@ graph TD
     Root --> P128["128. Longest Consecutive Sequence"]
     Root --> P129["129. Sum Root to Leaf Numbers"]
     Root --> P130["130. Surrounded Regions"]
+    Root --> P131["131. Palindrome Partitioning"]
+    Root --> P132["132. Palindrome Partitioning II"]
+    Root --> P133["133. Clone Graph"]
+    Root --> P134["134. Gas Station"]
+    Root --> P135["135. Candy"]
+    Root --> P136["136. Single Number"]
+    Root --> P137["137. Single Number II"]
+    Root --> P138["138. Copy List with Random Pointer"]
+    Root --> P139["139. Word Break"]
+    Root --> P140["140. Word Break II"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
     Root --> P1339["1339. Maximum Product of Splitted Binary Tree"]
@@ -277,6 +287,16 @@ graph TD
 - [128. Longest Consecutive Sequence](./128.%20Longest%20Consecutive%20Sequence)
 - [129. Sum Root to Leaf Numbers](./129.%20Sum%20Root%20to%20Leaf%20Numbers)
 - [130. Surrounded Regions](./130.%20Surrounded%20Regions)
+- [131. Palindrome Partitioning](./131.%20Palindrome%20Partitioning)
+- [132. Palindrome Partitioning II](./132.%20Palindrome%20Partitioning%20II)
+- [133. Clone Graph](./133.%20Clone%20Graph)
+- [134. Gas Station](./134.%20Gas%20Station)
+- [135. Candy](./135.%20Candy)
+- [136. Single Number](./136.%20Single%20Number)
+- [137. Single Number II](./137.%20Single%20Number%20II)
+- [138. Copy List with Random Pointer](./138.%20Copy%20List%20with%20Random%20Pointer)
+- [139. Word Break](./139.%20Word%20Break)
+- [140. Word Break II](./140.%20Word%20Break%20II)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
