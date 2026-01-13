@@ -148,6 +148,16 @@ graph TD
     Root --> P138["138. Copy List with Random Pointer"]
     Root --> P139["139. Word Break"]
     Root --> P140["140. Word Break II"]
+    Root --> P141["141. Linked List Cycle"]
+    Root --> P142["142. Linked List Cycle II"]
+    Root --> P143["143. Reorder List"]
+    Root --> P144["144. Binary Tree Preorder Traversal"]
+    Root --> P145["145. Binary Tree Postorder Traversal"]
+    Root --> P146["146. LRU Cache"]
+    Root --> P147["147. Insertion Sort List"]
+    Root --> P148["148. Sort List"]
+    Root --> P149["149. Max Points on a Line"]
+    Root --> P150["150. Evaluate Reverse Polish Notation"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
     Root --> P1339["1339. Maximum Product of Splitted Binary Tree"]
@@ -297,6 +307,16 @@ graph TD
 - [138. Copy List with Random Pointer](./138.%20Copy%20List%20with%20Random%20Pointer)
 - [139. Word Break](./139.%20Word%20Break)
 - [140. Word Break II](./140.%20Word%20Break%20II)
+- [141. Linked List Cycle](./141.%20Linked%20List%20Cycle)
+- [142. Linked List Cycle II](./142.%20Linked%20List%20Cycle%20II)
+- [143. Reorder List](./143.%20Reorder%20List)
+- [144. Binary Tree Preorder Traversal](./144.%20Binary%20Tree%20Preorder%20Traversal)
+- [145. Binary Tree Postorder Traversal](./145.%20Binary%20Tree%20Postorder%20Traversal)
+- [146. LRU Cache](./146.%20LRU%20Cache)
+- [147. Insertion Sort List](./147.%20Insertion%20Sort%20List)
+- [148. Sort List](./148.%20Sort%20List)
+- [149. Max Points on a Line](./149.%20Max%20Points%20on%20a%20Line)
+- [150. Evaluate Reverse Polish Notation](./150.%20Evaluate%20Reverse%20Polish%20Notation)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
