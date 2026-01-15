@@ -168,6 +168,26 @@ graph TD
     Root --> P164["164. Maximum Gap"]
     Root --> P165["165. Compare Version Numbers"]
     Root --> P166["166. Fraction to Recurring Decimal"]
+    Root --> P167["167. Two Sum II - Input Array Is Sorted"]
+    Root --> P168["168. Excel Sheet Column Title"]
+    Root --> P169["169. Majority Element"]
+    Root --> P170["170. Two Sum III - Data structure design"]
+    Root --> P171["171. Excel Sheet Column Number"]
+    Root --> P172["172. Factorial Trailing Zeroes"]
+    Root --> P173["173. Binary Search Tree Iterator"]
+    Root --> P174["174. Dungeon Game"]
+    Root --> P175["175. Combine Two Tables"]
+    Root --> P176["176. Second Highest Salary"]
+    Root --> P167["177. Nth Highest Salary"]
+    Root --> P178["178. Rank Scores"]
+    Root --> P179["179. Largest Number"]
+    Root --> P180["180. Consecutive Numbers"]
+    Root --> P181["181. Employees Earning More Than Their Managers"]
+    Root --> P182["182. Duplicate Emails"]
+    Root --> P183["183. Customers Who Never Order"]
+    Root --> P184["184. Department Highest Salary"]
+    Root --> P185["185. Department Top Three Salaries"]
+    Root --> P187["187. Repeated DNA Sequences"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
     Root --> P1339["1339. Maximum Product of Splitted Binary Tree"]
@@ -337,6 +357,26 @@ graph TD
 - [164. Maximum Gap](./164.%20Maximum%20Gap)
 - [165. Compare Version Numbers](./165.%20Compare%20Version%20Numbers)
 - [166. Fraction to Recurring Decimal](./166.%20Fraction%20to%20Recurring%20Decimal)
+- [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
+- [168. Excel Sheet Column Title](./168.%20Excel%20Sheet%20Column%20Title)
+- [169. Majority Element](./169.%20Majority%20Element)
+- [170. Two Sum III - Data structure design](./170.%20Two%20Sum%20III%20-%20Data%20structure%20design)
+- [171. Excel Sheet Column Number](./171.%20Excel%20Sheet%20Column%20Number)
+- [172. Factorial Trailing Zeroes](./172.%20Factorial%20Trailing%20Zeroes)
+- [173. Binary Search Tree Iterator](./173.%20Binary%20Search%20Tree%20Iterator)
+- [174. Dungeon Game](./174.%20Dungeon%20Game)
+- [175. Combine Two Tables](./175.%20Combine%20Two%20Tables)
+- [176. Second Highest Salary](./176.%20Second%20Highest%20Salary)
+- [177. Nth Highest Salary](./177.%20Nth%20Highest%20Salary)
+- [178. Rank Scores](./178.%20Rank%20Scores)
+- [179. Largest Number](./179.%20Largest%20Number)
+- [180. Consecutive Numbers](./180.%20Consecutive%20Numbers)
+- [181. Employees Earning More Than Their Managers](./181.%20Employees%20Earning%20More%20Than%20Their%20Managers)
+- [182. Duplicate Emails](./182.%20Duplicate%20Emails)
+- [183. Customers Who Never Order](./183.%20Customers%20Who%20Never%20Order)
+- [184. Department Highest Salary](./184.%20Department%20Highest%20Salary)
+- [185. Department Top Three Salaries](./185.%20Department%20Top%20Three%20Salaries)
+- [187. Repeated DNA Sequences](./187.%20Repeated%20DNA%20Sequences)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
