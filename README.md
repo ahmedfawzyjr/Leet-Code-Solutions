@@ -187,6 +187,10 @@ graph TD
     Root --> P183["183. Customers Who Never Order"]
     Root --> P184["184. Department Highest Salary"]
     Root --> P185["185. Department Top Three Salaries"]
+    Root --> P188["188. Best Time to Buy and Sell Stock IV"]
+    Root --> P189["189. Rotate Array"]
+    Root --> P190["190. Reverse Bits"]
+    Root --> P191["191. Number of 1 Bits"]
     Root --> P187["187. Repeated DNA Sequences"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
@@ -376,6 +380,10 @@ graph TD
 - [183. Customers Who Never Order](./183.%20Customers%20Who%20Never%20Order)
 - [184. Department Highest Salary](./184.%20Department%20Highest%20Salary)
 - [185. Department Top Three Salaries](./185.%20Department%20Top%20Three%20Salaries)
+- [188. Best Time to Buy and Sell Stock IV](./188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
+- [189. Rotate Array](./189.%20Rotate%20Array)
+- [190. Reverse Bits](./190.%20Reverse%20Bits)
+- [191. Number of 1 Bits](./191.%20Number%20of%201%20Bits)
 - [187. Repeated DNA Sequences](./187.%20Repeated%20DNA%20Sequences)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
