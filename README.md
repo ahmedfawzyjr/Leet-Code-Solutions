@@ -187,11 +187,22 @@ graph TD
     Root --> P183["183. Customers Who Never Order"]
     Root --> P184["184. Department Highest Salary"]
     Root --> P185["185. Department Top Three Salaries"]
+    Root --> P187["187. Repeated DNA Sequences"]
     Root --> P188["188. Best Time to Buy and Sell Stock IV"]
     Root --> P189["189. Rotate Array"]
     Root --> P190["190. Reverse Bits"]
     Root --> P191["191. Number of 1 Bits"]
-    Root --> P187["187. Repeated DNA Sequences"]
+    Root --> P192["192. Word Frequency"]
+    Root --> P193["193. Valid Phone Numbers"]
+    Root --> P194["194. Transpose File"]
+    Root --> P195["195. Tenth Line"]
+    Root --> P196["196. Delete Duplicate Emails"]
+    Root --> P197["197. Rising Temperature"]
+    Root --> P198["198. House Robber"]
+    Root --> P199["199. Binary Tree Right Side View"]
+    Root --> P200["200. Number of Islands"]
+    Root --> P201["201. Bitwise AND of Numbers Range"]
+    Root --> P202["202. Happy Number"]
     Root --> P961["961. N-Repeated Element in Size 2N Array"]
     Root --> P1161["1161. Maximum Level Sum of a Binary Tree"]
     Root --> P1339["1339. Maximum Product of Splitted Binary Tree"]
@@ -380,11 +391,22 @@ graph TD
 - [183. Customers Who Never Order](./183.%20Customers%20Who%20Never%20Order)
 - [184. Department Highest Salary](./184.%20Department%20Highest%20Salary)
 - [185. Department Top Three Salaries](./185.%20Department%20Top%20Three%20Salaries)
+- [187. Repeated DNA Sequences](./187.%20Repeated%20DNA%20Sequences)
 - [188. Best Time to Buy and Sell Stock IV](./188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
 - [189. Rotate Array](./189.%20Rotate%20Array)
 - [190. Reverse Bits](./190.%20Reverse%20Bits)
 - [191. Number of 1 Bits](./191.%20Number%20of%201%20Bits)
-- [187. Repeated DNA Sequences](./187.%20Repeated%20DNA%20Sequences)
+- [192. Word Frequency](./192.%20Word%20Frequency)
+- [193. Valid Phone Numbers](./193.%20Valid%20Phone%20Numbers)
+- [194. Transpose File](./194.%20Transpose%20File)
+- [195. Tenth Line](./195.%20Tenth%20Line)
+- [196. Delete Duplicate Emails](./196.%20Delete%20Duplicate%20Emails)
+- [197. Rising Temperature](./197.%20Rising%20Temperature)
+- [198. House Robber](./198.%20House%20Robber)
+- [199. Binary Tree Right Side View](./199.%20Binary%20Tree%20Right%20Side%20View)
+- [200. Number of Islands](./200.%20Number%20of%20Islands)
+- [201. Bitwise AND of Numbers Range](./201.%20Bitwise%20AND%20of%20Numbers%20Range)
+- [202. Happy Number](./202.%20Happy%20Number)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
