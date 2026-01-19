@@ -1,4 +1,4 @@
-﻿
+
 # Leet-Code-Solutions
 
 This repository contains my solutions to LeetCode problems, implemented in Python.
@@ -219,10 +219,17 @@ graph TD
     Root --> P211["211. Design Add and Search Words Data Structure"]
     Root --> P212["212. Word Search II"]
     Root --> P213["213. House Robber II"]
-    Root --> P209["209. Minimum Size Subarray Sum"]
-    Root --> P210["210. Course Schedule II"]
-    Root --> P211["211. Design Add and Search Words Data Structure"]
-    Root --> P212["212. Word Search II"]
+    Root --> P214["214. Shortest Palindrome"]
+    Root --> P215["215. Kth Largest Element in an Array"]
+    Root --> P216["216. Combination Sum III"]
+    Root --> P217["217. Contains Duplicate"]
+    Root --> P218["218. The Skyline Problem"]
+    Root --> P219["219. Contains Duplicate II"]
+    Root --> P220["220. Contains Duplicate III"]
+    Root --> P221["221. Maximal Square"]
+    Root --> P222["222. Count Complete Tree Nodes"]
+    Root --> P223["223. Rectangle Area"]
+    Root --> P224["224. Basic Calculator"]
 ```
 
 ## Solved Problems
@@ -433,13 +440,30 @@ graph TD
 - [211. Design Add and Search Words Data Structure](./211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure)
 - [212. Word Search II](./212.%20Word%20Search%20II)
 - [213. House Robber II](./213.%20House%20Robber%20II)
-- [208. Implement Trie (Prefix Tree)](./208.%20Implement%20Trie%20%28Prefix%20Tree%29)
-- [209. Minimum Size Subarray Sum](./209.%20Minimum%20Size%20Subarray%20Sum)
-- [210. Course Schedule II](./210.%20Course%20Schedule%20II)
-- [211. Design Add and Search Words Data Structure](./211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure)
-- [212. Word Search II](./212.%20Word%20Search%20II)
+- [214. Shortest Palindrome](./214.%20Shortest%20Palindrome)
+- [215. Kth Largest Element in an Array](./215.%20Kth%20Largest%20Element%20in%20an%20Array)
+- [216. Combination Sum III](./216.%20Combination%20Sum%20III)
+- [217. Contains Duplicate](./217.%20Contains%20Duplicate)
+- [218. The Skyline Problem](./218.%20The%20Skyline%20Problem)
+- [219. Contains Duplicate II](./219.%20Contains%20Duplicate%20II)
+- [220. Contains Duplicate III](./220.%20Contains%20Duplicate%20III)
+- [221. Maximal Square](./221.%20Maximal%20Square)
+- [222. Count Complete Tree Nodes](./222.%20Count%20Complete%20Tree%20Nodes)
+- [223. Rectangle Area](./223.%20Rectangle%20Area)
+- [224. Basic Calculator](./224.%20Basic%20Calculator)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
+- [214. Shortest Palindrome](./214.%20Shortest%20Palindrome)
+- [215. Kth Largest Element in an Array](./215.%20Kth%20Largest%20Element%20in%20an%20Array)
+- [216. Combination Sum III](./216.%20Combination%20Sum%20III)
+- [217. Contains Duplicate](./217.%20Contains%20Duplicate)
+- [218. The Skyline Problem](./218.%20The%20Skyline%20Problem)
+- [219. Contains Duplicate II](./219.%20Contains%20Duplicate%20II)
+- [220. Contains Duplicate III](./220.%20Contains%20Duplicate%20III)
+- [221. Maximal Square](./221.%20Maximal%20Square)
+- [222. Count Complete Tree Nodes](./222.%20Count%20Complete%20Tree%20Nodes)
+- [223. Rectangle Area](./223.%20Rectangle%20Area)
+- [224. Basic Calculator](./224.%20Basic%20Calculator)
