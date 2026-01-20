@@ -230,6 +230,16 @@ graph TD
     Root --> P222["222. Count Complete Tree Nodes"]
     Root --> P223["223. Rectangle Area"]
     Root --> P224["224. Basic Calculator"]
+    Root --> P225["225. Implement Stack using Queues"]
+    Root --> P226["226. Invert Binary Tree"]
+    Root --> P227["227. Basic Calculator II"]
+    Root --> P228["228. Summary Ranges"]
+    Root --> P229["229. Majority Element II"]
+    Root --> P230["230. Kth Smallest Element in a BST"]
+    Root --> P231["231. Power of Two"]
+    Root --> P232["232. Implement Queue using Stacks"]
+    Root --> P233["233. Number of Digit One"]
+    Root --> P234["234. Palindrome Linked List"]
 ```
 
 ## Solved Problems
@@ -467,3 +477,13 @@ graph TD
 - [222. Count Complete Tree Nodes](./222.%20Count%20Complete%20Tree%20Nodes)
 - [223. Rectangle Area](./223.%20Rectangle%20Area)
 - [224. Basic Calculator](./224.%20Basic%20Calculator)
+- [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
+- [226. Invert Binary Tree](./226.%20Invert%20Binary%20Tree)
+- [227. Basic Calculator II](./227.%20Basic%20Calculator%20II)
+- [228. Summary Ranges](./228.%20Summary%20Ranges)
+- [229. Majority Element II](./229.%20Majority%20Element%20II)
+- [230. Kth Smallest Element in a BST](./230.%20Kth%20Smallest%20Element%20in%20a%20BST)
+- [231. Power of Two](./231.%20Power%20of%20Two)
+- [232. Implement Queue using Stacks](./232.%20Implement%20Queue%20using%20Stacks)
+- [233. Number of Digit One](./233.%20Number%20of%20Digit%20One)
+- [234. Palindrome Linked List](./234.%20Palindrome%20Linked%20List)
