@@ -248,6 +248,8 @@ graph TD
     Root --> P240["240. Search a 2D Matrix II"]
     Root --> P241["241. Different Ways to Add Parentheses"]
     Root --> P242["242. Valid Anagram"]
+    Root --> P257["257. Binary Tree Paths"]
+    Root --> P258["258. Add Digits"]
 ```
 
 ## Solved Problems
@@ -503,3 +505,5 @@ graph TD
 - [240. Search a 2D Matrix II](./240.%20Search%20a%202D%20Matrix%20II)
 - [241. Different Ways to Add Parentheses](./241.%20Different%20Ways%20to%20Add%20Parentheses)
 - [242. Valid Anagram](./242.%20Valid%20Anagram)
+- [257. Binary Tree Paths](./257.%20Binary%20Tree%20Paths)
+- [258. Add Digits](./258.%20Add%20Digits)
