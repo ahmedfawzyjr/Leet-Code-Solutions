@@ -240,6 +240,14 @@ graph TD
     Root --> P232["232. Implement Queue using Stacks"]
     Root --> P233["233. Number of Digit One"]
     Root --> P234["234. Palindrome Linked List"]
+    Root --> P235["235. Lowest Common Ancestor of a Binary Search Tree"]
+    Root --> P236["236. Lowest Common Ancestor of a Binary Tree"]
+    Root --> P237["237. Delete Node in a Linked List"]
+    Root --> P238["238. Product of Array Except Self"]
+    Root --> P239["239. Sliding Window Maximum"]
+    Root --> P240["240. Search a 2D Matrix II"]
+    Root --> P241["241. Different Ways to Add Parentheses"]
+    Root --> P242["242. Valid Anagram"]
 ```
 
 ## Solved Problems
@@ -354,16 +362,16 @@ graph TD
 - [108. Convert Sorted Array to Binary Search Tree](./108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 - [109. Convert Sorted List to Binary Search Tree](./109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree)
 - [110. Balanced Binary Tree](./110.%20Balanced%20Binary%20Tree)
-- [111. Minimum Depth of Binary Tree](./111.%20Minimum%20Depth%20of%20Binary%20Tree)
-- [112. Path Sum](./112.%20Path%20Sum)
-- [113. Path Sum II](./113.%20Path%20Sum%20II)
-- [114. Flatten Binary Tree to Linked List](./114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
-- [115. Distinct Subsequences](./115.%20Distinct%20Subsequences)
-- [116. Populating Next Right Pointers in Each Node](./116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node)
-- [117. Populating Next Right Pointers in Each Node II](./117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II)
-- [118. Pascal's Triangle](./118.%20Pascal%27s%20Triangle)
-- [119. Pascal's Triangle II](./119.%20Pascal%27s%20Triangle%20II)
-- [120. Triangle](./120.%20Triangle)
+- [111. Minimum Depth of Binary Tree](./111-Minimum-Depth-of-Binary-Tree)
+- [112. Path Sum](./112-Path-Sum)
+- [113. Path Sum II](./113-Path-Sum-II)
+- [114. Flatten Binary Tree to Linked List](./114-Flatten-Binary-Tree-to-Linked-List)
+- [115. Distinct Subsequences](./115-Distinct-Subsequences)
+- [116. Populating Next Right Pointers in Each Node](./116-Populating-Next-Right-Pointers-in-Each-Node)
+- [117. Populating Next Right Pointers in Each Node II](./117-Populating-Next-Right-Pointers-in-Each-Node-II)
+- [118. Pascal's Triangle](./118-Pascals-Triangle)
+- [119. Pascal's Triangle II](./119-Pascals-Triangle-II)
+- [120. Triangle](./120-Triangle)
 - [121. Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 - [122. Best Time to Buy and Sell Stock II](./122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 - [123. Best Time to Buy and Sell Stock III](./123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
@@ -487,3 +495,11 @@ graph TD
 - [232. Implement Queue using Stacks](./232.%20Implement%20Queue%20using%20Stacks)
 - [233. Number of Digit One](./233.%20Number%20of%20Digit%20One)
 - [234. Palindrome Linked List](./234.%20Palindrome%20Linked%20List)
+- [235. Lowest Common Ancestor of a Binary Search Tree](./235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
+- [236. Lowest Common Ancestor of a Binary Tree](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
+- [237. Delete Node in a Linked List](./237.%20Delete%20Node%20in%20a%20Linked%20List)
+- [238. Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self)
+- [239. Sliding Window Maximum](./239.%20Sliding%20Window%20Maximum)
+- [240. Search a 2D Matrix II](./240.%20Search%20a%202D%20Matrix%20II)
+- [241. Different Ways to Add Parentheses](./241.%20Different%20Ways%20to%20Add%20Parentheses)
+- [242. Valid Anagram](./242.%20Valid%20Anagram)
