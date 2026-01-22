@@ -250,6 +250,16 @@ graph TD
     Root --> P242["242. Valid Anagram"]
     Root --> P257["257. Binary Tree Paths"]
     Root --> P258["258. Add Digits"]
+    Root --> P260["260. Single Number III"]
+    Root --> P262["262. Trips and Users"]
+    Root --> P263["263. Ugly Number"]
+    Root --> P264["264. Ugly Number II"]
+    Root --> P268["268. Missing Number"]
+    Root --> P273["273. Integer to English Words"]
+    Root --> P274["274. H-Index"]
+    Root --> P275["275. H-Index II"]
+    Root --> P278["278. First Bad Version"]
+    Root --> P279["279. Perfect Squares"]
 ```
 
 ## Solved Problems
@@ -507,3 +517,13 @@ graph TD
 - [242. Valid Anagram](./242.%20Valid%20Anagram)
 - [257. Binary Tree Paths](./257.%20Binary%20Tree%20Paths)
 - [258. Add Digits](./258.%20Add%20Digits)
+- [260. Single Number III](./260.%20Single%20Number%20III)
+- [262. Trips and Users](./262.%20Trips%20and%20Users)
+- [263. Ugly Number](./263.%20Ugly%20Number)
+- [264. Ugly Number II](./264.%20Ugly%20Number%20II)
+- [268. Missing Number](./268.%20Missing%20Number)
+- [273. Integer to English Words](./273.%20Integer%20to%20English%20Words)
+- [274. H-Index](./274.%20H-Index)
+- [275. H-Index II](./275.%20H-Index%20II)
+- [278. First Bad Version](./278.%20First%20Bad%20Version)
+- [279. Perfect Squares](./279.%20Perfect%20Squares)
