@@ -178,7 +178,7 @@ graph TD
     Root --> P174["174. Dungeon Game"]
     Root --> P175["175. Combine Two Tables"]
     Root --> P176["176. Second Highest Salary"]
-    Root --> P167["177. Nth Highest Salary"]
+    Root --> P177["177. Nth Highest Salary"]
     Root --> P178["178. Rank Scores"]
     Root --> P179["179. Largest Number"]
     Root --> P180["180. Consecutive Numbers"]
@@ -260,6 +260,16 @@ graph TD
     Root --> P275["275. H-Index II"]
     Root --> P278["278. First Bad Version"]
     Root --> P279["279. Perfect Squares"]
+    Root --> P282["282. Expression Add Operators"]
+    Root --> P283["283. Move Zeroes"]
+    Root --> P284["284. Peeking Iterator"]
+    Root --> P287["287. Find the Duplicate Number"]
+    Root --> P289["289. Game of Life"]
+    Root --> P290["290. Word Pattern"]
+    Root --> P292["292. Nim Game"]
+    Root --> P295["295. Find Median from Data Stream"]
+    Root --> P297["297. Serialize and Deserialize Binary Tree"]
+    Root --> P299["299. Bulls and Cows"]
 ```
 
 ## Solved Problems
@@ -486,17 +496,6 @@ graph TD
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
-- [214. Shortest Palindrome](./214.%20Shortest%20Palindrome)
-- [215. Kth Largest Element in an Array](./215.%20Kth%20Largest%20Element%20in%20an%20Array)
-- [216. Combination Sum III](./216.%20Combination%20Sum%20III)
-- [217. Contains Duplicate](./217.%20Contains%20Duplicate)
-- [218. The Skyline Problem](./218.%20The%20Skyline%20Problem)
-- [219. Contains Duplicate II](./219.%20Contains%20Duplicate%20II)
-- [220. Contains Duplicate III](./220.%20Contains%20Duplicate%20III)
-- [221. Maximal Square](./221.%20Maximal%20Square)
-- [222. Count Complete Tree Nodes](./222.%20Count%20Complete%20Tree%20Nodes)
-- [223. Rectangle Area](./223.%20Rectangle%20Area)
-- [224. Basic Calculator](./224.%20Basic%20Calculator)
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
 - [226. Invert Binary Tree](./226.%20Invert%20Binary%20Tree)
 - [227. Basic Calculator II](./227.%20Basic%20Calculator%20II)
@@ -527,3 +526,13 @@ graph TD
 - [275. H-Index II](./275.%20H-Index%20II)
 - [278. First Bad Version](./278.%20First%20Bad%20Version)
 - [279. Perfect Squares](./279.%20Perfect%20Squares)
+- [282. Expression Add Operators](./282.%20Expression%20Add%20Operators)
+- [283. Move Zeroes](./283.%20Move%20Zeroes)
+- [284. Peeking Iterator](./284.%20Peeking%20Iterator)
+- [287. Find the Duplicate Number](./287.%20Find%20the%20Duplicate%20Number)
+- [289. Game of Life](./289.%20Game%20of%20Life)
+- [290. Word Pattern](./290.%20Word%20Pattern)
+- [292. Nim Game](./292.%20Nim%20Game)
+- [295. Find Median from Data Stream](./295.%20Find%20Median%20from%20Data%20Stream)
+- [297. Serialize and Deserialize Binary Tree](./297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
+- [299. Bulls and Cows](./299.%20Bulls%20and%20Cows)
