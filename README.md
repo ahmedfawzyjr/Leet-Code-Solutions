@@ -270,6 +270,23 @@ graph TD
     Root --> P295["295. Find Median from Data Stream"]
     Root --> P297["297. Serialize and Deserialize Binary Tree"]
     Root --> P299["299. Bulls and Cows"]
+    Root --> P300["300. Longest Increasing Subsequence"]
+    Root --> P301["301. Remove Invalid Parentheses"]
+    Root --> P302["302. Smallest Rectangle Enclosing Black Pixels"]
+    Root --> P303["303. Range Sum Query - Immutable"]
+    Root --> P304["304. Range Sum Query 2D - Immutable"]
+    Root --> P305["305. Number of Islands II"]
+    Root --> P306["306. Additive Number"]
+    Root --> P307["307. Range Sum Query - Mutable"]
+    Root --> P308["308. Range Sum Query 2D - Mutable"]
+    Root --> P309["309. Best Time to Buy and Sell Stock with Cooldown"]
+    Root --> P310["310. Minimum Height Trees"]
+    Root --> P311["311. Sparse Matrix Multiplication"]
+    Root --> P312["312. Burst Balloons"]
+    Root --> P313["313. Super Ugly Number"]
+    Root --> P314["314. Binary Tree Vertical Order Traversal"]
+    Root --> P315["315. Count of Smaller Numbers After Self"]
+    Root --> P316["316. Remove Duplicate Letters"]
 ```
 
 ## Solved Problems
@@ -536,3 +553,20 @@ graph TD
 - [295. Find Median from Data Stream](./295.%20Find%20Median%20from%20Data%20Stream)
 - [297. Serialize and Deserialize Binary Tree](./297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 - [299. Bulls and Cows](./299.%20Bulls%20and%20Cows)
+- [300. Longest Increasing Subsequence](./300.%20Longest%20Increasing%20Subsequence)
+- [301. Remove Invalid Parentheses](./301.%20Remove%20Invalid%20Parentheses)
+- [302. Smallest Rectangle Enclosing Black Pixels](./302.%20Smallest%20Rectangle%20Enclosing%20Black%20Pixels)
+- [303. Range Sum Query - Immutable](./303.%20Range%20Sum%20Query%20-%20Immutable)
+- [304. Range Sum Query 2D - Immutable](./304.%20Range%20Sum%20Query%202D%20-%20Immutable)
+- [305. Number of Islands II](./305.%20Number%20of%20Islands%20II)
+- [306. Additive Number](./306.%20Additive%20Number)
+- [307. Range Sum Query - Mutable](./307.%20Range%20Sum%20Query%20-%20Mutable)
+- [308. Range Sum Query 2D - Mutable](./308.%20Range%20Sum%20Query%202D%20-%20Mutable)
+- [309. Best Time to Buy and Sell Stock with Cooldown](./309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
+- [310. Minimum Height Trees](./310.%20Minimum%20Height%20Trees)
+- [311. Sparse Matrix Multiplication](./311.%20Sparse%20Matrix%20Multiplication)
+- [312. Burst Balloons](./312.%20Burst%20Balloons)
+- [313. Super Ugly Number](./313.%20Super%20Ugly%20Number)
+- [314. Binary Tree Vertical Order Traversal](./314.%20Binary%20Tree%20Vertical%20Order%20Traversal)
+- [315. Count of Smaller Numbers After Self](./315.%20Count%20of%20Smaller%20Numbers%20After%20Self)
+- [316. Remove Duplicate Letters](./316.%20Remove%20Duplicate%20Letters)
