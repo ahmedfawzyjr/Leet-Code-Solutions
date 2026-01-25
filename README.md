@@ -287,6 +287,10 @@ graph TD
     Root --> P314["314. Binary Tree Vertical Order Traversal"]
     Root --> P315["315. Count of Smaller Numbers After Self"]
     Root --> P316["316. Remove Duplicate Letters"]
+    Root --> P324["324. Wiggle Sort II"]
+    Root --> P326["326. Power of Three"]
+    Root --> P327["327. Count of Range Sum"]
+    Root --> P328["328. Odd Even Linked List"]
 ```
 
 ## Solved Problems
@@ -570,3 +574,7 @@ graph TD
 - [314. Binary Tree Vertical Order Traversal](./314.%20Binary%20Tree%20Vertical%20Order%20Traversal)
 - [315. Count of Smaller Numbers After Self](./315.%20Count%20of%20Smaller%20Numbers%20After%20Self)
 - [316. Remove Duplicate Letters](./316.%20Remove%20Duplicate%20Letters)
+- [324. Wiggle Sort II](./324.%20Wiggle%20Sort%20II)
+- [326. Power of Three](./326.%20Power%20of%20Three)
+- [327. Count of Range Sum](./327.%20Count%20of%20Range%20Sum)
+- [328. Odd Even Linked List](./328.%20Odd%20Even%20Linked%20List)
