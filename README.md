@@ -301,8 +301,17 @@ graph TD
     Root --> P337["337. House Robber III"]
     Root --> P338["338. Counting Bits"]
     Root --> P341["341. Flatten Nested List Iterator"]
+    Root --> P342["342. Power of Four"]
+    Root --> P343["343. Integer Break"]
+    Root --> P344["344. Reverse String"]
+    Root --> P345["345. Reverse Vowels of a String"]
+    Root --> P347["347. Top K Frequent Elements"]
+    Root --> P349["349. Intersection of Two Arrays"]
+    Root --> P350["350. Intersection of Two Arrays II"]
+    Root --> P352["352. Data Stream as Disjoint Intervals"]
+    Root --> P354["354. Russian Doll Envelopes"]
+    Root --> P355["355. Design Twitter"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
-```
 
 ## Solved Problems
 
@@ -599,4 +608,14 @@ graph TD
 - [337. House Robber III](./337.%20House%20Robber%20III)
 - [338. Counting Bits](./338.%20Counting%20Bits)
 - [341. Flatten Nested List Iterator](./341.%20Flatten%20Nested%20List%20Iterator)
+- [342. Power of Four](./342.%20Power%20of%20Four)
+- [343. Integer Break](./343.%20Integer%20Break)
+- [344. Reverse String](./344.%20Reverse%20String)
+- [345. Reverse Vowels of a String](./345.%20Reverse%20Vowels%20of%20a%20String)
+- [347. Top K Frequent Elements](./347.%20Top%20K%20Frequent%20Elements)
+- [349. Intersection of Two Arrays](./349.%20Intersection%20of%20Two%20Arrays)
+- [350. Intersection of Two Arrays II](./350.%20Intersection%20of%20Two%20Arrays%20II)
+- [352. Data Stream as Disjoint Intervals](./352.%20Data%20Stream%20as%20Disjoint%20Intervals)
+- [354. Russian Doll Envelopes](./354.%20Russian%20Doll%20Envelopes)
+- [355. Design Twitter](./355.%20Design%20Twitter)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
