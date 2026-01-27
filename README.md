@@ -291,6 +291,17 @@ graph TD
     Root --> P326["326. Power of Three"]
     Root --> P327["327. Count of Range Sum"]
     Root --> P328["328. Odd Even Linked List"]
+    Root --> P329["329. Longest Increasing Path in a Matrix"]
+    Root --> P330["330. Patching Array"]
+    Root --> P331["331. Verify Preorder Serialization of a Binary Tree"]
+    Root --> P332["332. Reconstruct Itinerary"]
+    Root --> P334["334. Increasing Triplet Subsequence"]
+    Root --> P335["335. Self Crossing"]
+    Root --> P336["336. Palindrome Pairs"]
+    Root --> P337["337. House Robber III"]
+    Root --> P338["338. Counting Bits"]
+    Root --> P341["341. Flatten Nested List Iterator"]
+    Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 ```
 
 ## Solved Problems
@@ -578,3 +589,14 @@ graph TD
 - [326. Power of Three](./326.%20Power%20of%20Three)
 - [327. Count of Range Sum](./327.%20Count%20of%20Range%20Sum)
 - [328. Odd Even Linked List](./328.%20Odd%20Even%20Linked%20List)
+- [329. Longest Increasing Path in a Matrix](./329.%20Longest%20Increasing%20Path%20in%20a%20Matrix)
+- [330. Patching Array](./330.%20Patching%20Array)
+- [331. Verify Preorder Serialization of a Binary Tree](./331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree)
+- [332. Reconstruct Itinerary](./332.%20Reconstruct%20Itinerary)
+- [334. Increasing Triplet Subsequence](./334.%20Increasing%20Triplet%20Subsequence)
+- [335. Self Crossing](./335.%20Self%20Crossing)
+- [336. Palindrome Pairs](./336.%20Palindrome%20Pairs)
+- [337. House Robber III](./337.%20House%20Robber%20III)
+- [338. Counting Bits](./338.%20Counting%20Bits)
+- [341. Flatten Nested List Iterator](./341.%20Flatten%20Nested%20List%20Iterator)
+- [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
