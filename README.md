@@ -311,6 +311,16 @@ graph TD
     Root --> P352["352. Data Stream as Disjoint Intervals"]
     Root --> P354["354. Russian Doll Envelopes"]
     Root --> P355["355. Design Twitter"]
+    Root --> P357["357. Count Numbers with Unique Digits"]
+    Root --> P363["363. Max Sum of Rectangle No Larger Than K"]
+    Root --> P365["365. Water and Jug Problem"]
+    Root --> P367["367. Valid Perfect Square"]
+    Root --> P368["368. Largest Divisible Subset"]
+    Root --> P371["371. Sum of Two Integers"]
+    Root --> P372["372. Super Pow"]
+    Root --> P373["373. Find K Pairs with Smallest Sums"]
+    Root --> P374["374. Guess Number Higher or Lower"]
+    Root --> P375["375. Guess Number Higher or Lower II"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 
 ## Solved Problems
@@ -618,4 +628,14 @@ graph TD
 - [352. Data Stream as Disjoint Intervals](./352.%20Data%20Stream%20as%20Disjoint%20Intervals)
 - [354. Russian Doll Envelopes](./354.%20Russian%20Doll%20Envelopes)
 - [355. Design Twitter](./355.%20Design%20Twitter)
+- [357. Count Numbers with Unique Digits](./357.%20Count%20Numbers%20with%20Unique%20Digits)
+- [363. Max Sum of Rectangle No Larger Than K](./363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K)
+- [365. Water and Jug Problem](./365.%20Water%20and%20Jug%20Problem)
+- [367. Valid Perfect Square](./367.%20Valid%20Perfect%20Square)
+- [368. Largest Divisible Subset](./368.%20Largest%20Divisible%20Subset)
+- [371. Sum of Two Integers](./371.%20Sum%20of%20Two%20Integers)
+- [372. Super Pow](./372.%20Super%20Pow)
+- [373. Find K Pairs with Smallest Sums](./373.%20Find%20K%20Pairs%20with%20Smallest%20Sums)
+- [374. Guess Number Higher or Lower](./374.%20Guess%20Number%20Higher%20or%20Lower)
+- [375. Guess Number Higher or Lower II](./375.%20Guess%20Number%20Higher%20or%20Lower%20II)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
