@@ -321,6 +321,15 @@ graph TD
     Root --> P373["373. Find K Pairs with Smallest Sums"]
     Root --> P374["374. Guess Number Higher or Lower"]
     Root --> P375["375. Guess Number Higher or Lower II"]
+    Root --> P376["376. Wiggle Subsequence"]
+    Root --> P377["377. Combination Sum IV"]
+    Root --> P378["378. Kth Smallest Element in a Sorted Matrix"]
+    Root --> P382["382. Linked List Random Node"]
+    Root --> P383["383. Ransom Note"]
+    Root --> P384["384. Shuffle an Array"]
+    Root --> P385["385. Mini Parser"]
+    Root --> P386["386. Lexicographical Numbers"]
+    Root --> P387["387. First Unique Character in a String"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 
 ## Solved Problems
@@ -638,4 +647,25 @@ graph TD
 - [373. Find K Pairs with Smallest Sums](./373.%20Find%20K%20Pairs%20with%20Smallest%20Sums)
 - [374. Guess Number Higher or Lower](./374.%20Guess%20Number%20Higher%20or%20Lower)
 - [375. Guess Number Higher or Lower II](./375.%20Guess%20Number%20Higher%20or%20Lower%20II)
+- [376. Wiggle Subsequence](./376.%20Wiggle%20Subsequence)
+- [377. Combination Sum IV](./377.%20Combination%20Sum%20IV)
+- [378. Kth Smallest Element in a Sorted Matrix](./378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
+- [382. Linked List Random Node](./382.%20Linked%20List%20Random%20Node)
+- [383. Ransom Note](./383.%20Ransom%20Note)
+- [384. Shuffle an Array](./384.%20Shuffle%20an%20Array)
+- [385. Mini Parser](./385.%20Mini%20Parser)
+- [386. Lexicographical Numbers](./386.%20Lexicographical%20Numbers)
+- [387. First Unique Character in a String](./387.%20First%20Unique%20Character%20in%20a%20String)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
+
+## Day 30: 2026-01-30
+- [376. Wiggle Subsequence](./376.%20Wiggle%20Subsequence)
+- [377. Combination Sum IV](./377.%20Combination%20Sum%20IV)
+- [378. Kth Smallest Element in a Sorted Matrix](./378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
+- [382. Linked List Random Node](./382.%20Linked%20List%20Random%20Node)
+- [383. Ransom Note](./383.%20Ransom%20Note)
+- [384. Shuffle an Array](./384.%20Shuffle%20an%20Array)
+- [385. Mini Parser](./385.%20Mini%20Parser)
+- [386. Lexicographical Numbers](./386.%20Lexicographical%20Numbers)
+- [387. First Unique Character in a String](./387.%20First%20Unique%20Character%20in%20a%20String)
+
