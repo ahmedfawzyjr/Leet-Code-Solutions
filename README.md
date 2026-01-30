@@ -669,3 +669,7 @@ graph TD
 - [386. Lexicographical Numbers](./386.%20Lexicographical%20Numbers)
 - [387. First Unique Character in a String](./387.%20First%20Unique%20Character%20in%20a%20String)
 
+## Day 30 Part 2: 2026-01-30
+- [2977. Minimum Cost to Convert String II](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II)
+- [385. Mini Parser (Fixed)](./385.%20Mini%20Parser)
+

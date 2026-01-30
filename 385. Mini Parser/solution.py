@@ -1,36 +1,3 @@
-# Mocking NestedInteger for testing
-class NestedInteger:
-    def __init__(self, value=None):
-        if value is None:
-            self.list = []
-            self.val = None
-        else:
-            self.val = value
-            self.list = None
-
-    def isInteger(self):
-        return self.val is not None
-
-    def getInteger(self):
-        return self.val
-
-    def setInteger(self, value):
-        self.val = value
-        self.list = None
-
-    def add(self, ni):
-        if self.list is None:
-            self.list = []
-        self.list.append(ni)
-
-    def getList(self):
-        return self.list
-    
-    def __repr__(self):
-        if self.isInteger():
-            return str(self.val)
-        return "[" + ",".join([repr(x) for x in self.list]) + "]"
-
 class Solution:
     def deserialize(self, s: str) -> NestedInteger:
         if not s:
