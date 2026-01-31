@@ -335,6 +335,11 @@ graph TD
     Root --> P390["390. Elimination Game"]
     Root --> P391["391. Perfect Rectangle"]
     Root --> P392["392. Is Subsequence"]
+    Root --> P393["393. UTF-8 Validation"]
+    Root --> P394["394. Decode String"]
+    Root --> P395["395. Longest Substring with At Least K Repeating Characters"]
+    Root --> P396["396. Rotate Function"]
+    Root --> P397["397. Integer Replacement"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 
 ## Solved Problems
@@ -666,6 +671,11 @@ graph TD
 - [390. Elimination Game](./390.%20Elimination%20Game)
 - [391. Perfect Rectangle](./391.%20Perfect%20Rectangle)
 - [392. Is Subsequence](./392.%20Is%20Subsequence)
+- [393. UTF-8 Validation](./393.%20UTF-8%20Validation)
+- [394. Decode String](./394.%20Decode%20String)
+- [395. Longest Substring with At Least K Repeating Characters](./395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
+- [396. Rotate Function](./396.%20Rotate%20Function)
+- [397. Integer Replacement](./397.%20Integer%20Replacement)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 
 ## Day 30: 2026-01-30
@@ -689,4 +699,10 @@ graph TD
 - [390. Elimination Game](./390.%20Elimination%20Game)
 - [391. Perfect Rectangle](./391.%20Perfect%20Rectangle)
 - [392. Is Subsequence](./392.%20Is%20Subsequence)
+- [393. UTF-8 Validation](./393.%20UTF-8%20Validation)
+- [394. Decode String](./394.%20Decode%20String)
+- [395. Longest Substring with At Least K Repeating Characters](./395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
+- [396. Rotate Function](./396.%20Rotate%20Function)
+- [397. Integer Replacement](./397.%20Integer%20Replacement)
+
 
