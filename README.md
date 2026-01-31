@@ -330,6 +330,11 @@ graph TD
     Root --> P385["385. Mini Parser"]
     Root --> P386["386. Lexicographical Numbers"]
     Root --> P387["387. First Unique Character in a String"]
+    Root --> P388["388. Longest Absolute File Path"]
+    Root --> P389["389. Find the Difference"]
+    Root --> P390["390. Elimination Game"]
+    Root --> P391["391. Perfect Rectangle"]
+    Root --> P392["392. Is Subsequence"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 
 ## Solved Problems
@@ -656,6 +661,11 @@ graph TD
 - [385. Mini Parser](./385.%20Mini%20Parser)
 - [386. Lexicographical Numbers](./386.%20Lexicographical%20Numbers)
 - [387. First Unique Character in a String](./387.%20First%20Unique%20Character%20in%20a%20String)
+- [388. Longest Absolute File Path](./388.%20Longest%20Absolute%20File%20Path)
+- [389. Find the Difference](./389.%20Find%20the%20Difference)
+- [390. Elimination Game](./390.%20Elimination%20Game)
+- [391. Perfect Rectangle](./391.%20Perfect%20Rectangle)
+- [392. Is Subsequence](./392.%20Is%20Subsequence)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 
 ## Day 30: 2026-01-30
@@ -672,4 +682,11 @@ graph TD
 ## Day 30 Part 2: 2026-01-30
 - [2977. Minimum Cost to Convert String II](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II)
 - [385. Mini Parser (Fixed)](./385.%20Mini%20Parser)
+
+## Day 31: 2026-01-31
+- [388. Longest Absolute File Path](./388.%20Longest%20Absolute%20File%20Path)
+- [389. Find the Difference](./389.%20Find%20the%20Difference)
+- [390. Elimination Game](./390.%20Elimination%20Game)
+- [391. Perfect Rectangle](./391.%20Perfect%20Rectangle)
+- [392. Is Subsequence](./392.%20Is%20Subsequence)
 
