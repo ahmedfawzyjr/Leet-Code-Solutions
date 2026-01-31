@@ -340,6 +340,16 @@ graph TD
     Root --> P395["395. Longest Substring with At Least K Repeating Characters"]
     Root --> P396["396. Rotate Function"]
     Root --> P397["397. Integer Replacement"]
+    Root --> P398["398. Random Pick Index"]
+    Root --> P399["399. Evaluate Division"]
+    Root --> P400["400. Nth Digit"]
+    Root --> P401["401. Binary Watch"]
+    Root --> P402["402. Remove K Digits"]
+    Root --> P403["403. Frog Jump"]
+    Root --> P404["404. Sum of Left Leaves"]
+    Root --> P405["405. Convert a Number to Hexadecimal"]
+    Root --> P406["406. Queue Reconstruction by Height"]
+    Root --> P407["407. Trapping Rain Water II"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 
 ## Solved Problems
@@ -676,6 +686,16 @@ graph TD
 - [395. Longest Substring with At Least K Repeating Characters](./395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
 - [396. Rotate Function](./396.%20Rotate%20Function)
 - [397. Integer Replacement](./397.%20Integer%20Replacement)
+- [398. Random Pick Index](./398.%20Random%20Pick%20Index)
+- [399. Evaluate Division](./399.%20Evaluate%20Division)
+- [400. Nth Digit](./400.%20Nth%20Digit)
+- [401. Binary Watch](./401.%20Binary%20Watch)
+- [402. Remove K Digits](./402.%20Remove%20K%20Digits)
+- [403. Frog Jump](./403.%20Frog%20Jump)
+- [404. Sum of Left Leaves](./404.%20Sum%20of%20Left%20Leaves)
+- [405. Convert a Number to Hexadecimal](./405.%20Convert%20a%20Number%20to%20Hexadecimal)
+- [406. Queue Reconstruction by Height](./406.%20Queue%20Reconstruction%20by%20Height)
+- [407. Trapping Rain Water II](./407.%20Trapping%20Rain%20Water%20II)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 
 ## Day 30: 2026-01-30
@@ -705,4 +725,15 @@ graph TD
 - [396. Rotate Function](./396.%20Rotate%20Function)
 - [397. Integer Replacement](./397.%20Integer%20Replacement)
 
+## Day 32: 2026-02-01
+- [398. Random Pick Index](./398.%20Random%20Pick%20Index)
+- [399. Evaluate Division](./399.%20Evaluate%20Division)
+- [400. Nth Digit](./400.%20Nth%20Digit)
+- [401. Binary Watch](./401.%20Binary%20Watch)
+- [402. Remove K Digits](./402.%20Remove%20K%20Digits)
+- [403. Frog Jump](./403.%20Frog%20Jump)
+- [404. Sum of Left Leaves](./404.%20Sum%20of%20Left%20Leaves)
+- [405. Convert a Number to Hexadecimal](./405.%20Convert%20a%20Number%20to%20Hexadecimal)
+- [406. Queue Reconstruction by Height](./406.%20Queue%20Reconstruction%20by%20Height)
+- [407. Trapping Rain Water II](./407.%20Trapping%20Rain%20Water%20II)
 
