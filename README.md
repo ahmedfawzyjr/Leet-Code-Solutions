@@ -350,6 +350,17 @@ graph TD
     Root --> P405["405. Convert a Number to Hexadecimal"]
     Root --> P406["406. Queue Reconstruction by Height"]
     Root --> P407["407. Trapping Rain Water II"]
+    Root --> P409["409. Longest Palindrome"]
+    Root --> P410["410. Split Array Largest Sum"]
+    Root --> P412["412. Fizz Buzz"]
+    Root --> P413["413. Arithmetic Slices"]
+    Root --> P414["414. Third Maximum Number"]
+    Root --> P415["415. Add Strings"]
+    Root --> P416["416. Partition Equal Subset Sum"]
+    Root --> P417["417. Pacific Atlantic Water Flow"]
+    Root --> P419["419. Battleships in a Board"]
+    Root --> P420["420. Strong Password Checker"]
+    Root --> P3013["3013. Divide an Array Into Subarrays With Minimum Cost II"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 
 ## Solved Problems
@@ -696,6 +707,17 @@ graph TD
 - [405. Convert a Number to Hexadecimal](./405.%20Convert%20a%20Number%20to%20Hexadecimal)
 - [406. Queue Reconstruction by Height](./406.%20Queue%20Reconstruction%20by%20Height)
 - [407. Trapping Rain Water II](./407.%20Trapping%20Rain%20Water%20II)
+- [409. Longest Palindrome](./409.%20Longest%20Palindrome)
+- [410. Split Array Largest Sum](./410.%20Split%20Array%20Largest%20Sum)
+- [412. Fizz Buzz](./412.%20Fizz%20Buzz)
+- [413. Arithmetic Slices](./413.%20Arithmetic%20Slices)
+- [414. Third Maximum Number](./414.%20Third%20Maximum%20Number)
+- [415. Add Strings](./415.%20Add%20Strings)
+- [416. Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum)
+- [417. Pacific Atlantic Water Flow](./417.%20Pacific%20Atlantic%20Water%20Flow)
+- [419. Battleships in a Board](./419.%20Battleships%20in%20a%20Board)
+- [420. Strong Password Checker](./420.%20Strong%20Password%20Checker)
+- [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 
 ## Day 30: 2026-01-30
@@ -737,3 +759,15 @@ graph TD
 - [406. Queue Reconstruction by Height](./406.%20Queue%20Reconstruction%20by%20Height)
 - [407. Trapping Rain Water II](./407.%20Trapping%20Rain%20Water%20II)
 
+## Day 33: 2026-02-02
+- [409. Longest Palindrome](./409.%20Longest%20Palindrome)
+- [410. Split Array Largest Sum](./410.%20Split%20Array%20Largest%20Sum)
+- [412. Fizz Buzz](./412.%20Fizz%20Buzz)
+- [413. Arithmetic Slices](./413.%20Arithmetic%20Slices)
+- [414. Third Maximum Number](./414.%20Third%20Maximum%20Number)
+- [415. Add Strings](./415.%20Add%20Strings)
+- [416. Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum)
+- [417. Pacific Atlantic Water Flow](./417.%20Pacific%20Atlantic%20Water%20Flow)
+- [419. Battleships in a Board](./419.%20Battleships%20in%20a%20Board)
+- [420. Strong Password Checker](./420.%20Strong%20Password%20Checker)
+- [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
