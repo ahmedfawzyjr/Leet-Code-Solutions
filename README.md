@@ -360,6 +360,18 @@ graph TD
     Root --> P417["417. Pacific Atlantic Water Flow"]
     Root --> P419["419. Battleships in a Board"]
     Root --> P420["420. Strong Password Checker"]
+    Root --> P421["421. Maximum XOR of Two Numbers in an Array"]
+    Root --> P423["423. Reconstruct Original Digits from English"]
+    Root --> P424["424. Longest Repeating Character Replacement"]
+    Root --> P427["427. Construct Quad Tree"]
+    Root --> P429["429. N-ary Tree Level Order Traversal"]
+    Root --> P430["430. Flatten a Multilevel Doubly Linked List"]
+    Root --> P433["433. Minimum Genetic Mutation"]
+    Root --> P434["434. Number of Segments in a String"]
+    Root --> P435["435. Non-overlapping Intervals"]
+    Root --> P436["436. Find Right Interval"]
+    Root --> P437["437. Path Sum III"]
+    Root --> P438["438. Find All Anagrams in a String"]
     Root --> P3013["3013. Divide an Array Into Subarrays With Minimum Cost II"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 
@@ -717,6 +729,18 @@ graph TD
 - [417. Pacific Atlantic Water Flow](./417.%20Pacific%20Atlantic%20Water%20Flow)
 - [419. Battleships in a Board](./419.%20Battleships%20in%20a%20Board)
 - [420. Strong Password Checker](./420.%20Strong%20Password%20Checker)
+- [421. Maximum XOR of Two Numbers in an Array](./421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)
+- [423. Reconstruct Original Digits from English](./423.%20Reconstruct%20Original%20Digits%20from%20English)
+- [424. Longest Repeating Character Replacement](./424.%20Longest%20Repeating%20Character%20Replacement)
+- [427. Construct Quad Tree](./427.%20Construct%20Quad%20Tree)
+- [429. N-ary Tree Level Order Traversal](./429.%20N-ary%20Tree%20Level%20Order%20Traversal)
+- [430. Flatten a Multilevel Doubly Linked List](./430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List)
+- [433. Minimum Genetic Mutation](./433.%20Minimum%20Genetic%20Mutation)
+- [434. Number of Segments in a String](./434.%20Number%20of%20Segments%20in%20a%20String)
+- [435. Non-overlapping Intervals](./435.%20Non-overlapping%20Intervals)
+- [436. Find Right Interval](./436.%20Find%20Right%20Interval)
+- [437. Path Sum III](./437.%20Path%20Sum%20III)
+- [438. Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 
@@ -771,3 +795,17 @@ graph TD
 - [419. Battleships in a Board](./419.%20Battleships%20in%20a%20Board)
 - [420. Strong Password Checker](./420.%20Strong%20Password%20Checker)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
+
+## Day 34: 2026-02-03
+- [421. Maximum XOR of Two Numbers in an Array](./421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)
+- [423. Reconstruct Original Digits from English](./423.%20Reconstruct%20Original%20Digits%20from%20English)
+- [424. Longest Repeating Character Replacement](./424.%20Longest%20Repeating%20Character%20Replacement)
+- [427. Construct Quad Tree](./427.%20Construct%20Quad%20Tree)
+- [429. N-ary Tree Level Order Traversal](./429.%20N-ary%20Tree%20Level%20Order%20Traversal)
+- [433. Minimum Genetic Mutation](./433.%20Minimum%20Genetic%20Mutation)
+- [434. Number of Segments in a String](./434.%20Number%20of%20Segments%20in%20a%20String)
+- [435. Non-overlapping Intervals](./435.%20Non-overlapping%20Intervals)
+- [436. Find Right Interval](./436.%20Find%20Right%20Interval)
+- [437. Path Sum III](./437.%20Path%20Sum%20III)
+- [430. Flatten a Multilevel Doubly Linked List](./430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List)
+- [438. Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String)

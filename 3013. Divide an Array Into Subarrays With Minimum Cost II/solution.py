@@ -9,18 +9,19 @@ class Solution:
         
         low = [] # max-heap
         high = [] # min-heap
-        to_delete = Counter()
+        to_delete_low = Counter()
+        to_delete_high = Counter()
         sum_low = 0
         count_low = 0
         count_high = 0
         
         def clean_low():
-            while low and to_delete[-low[0]] > 0:
-                to_delete[-heapq.heappop(low)] -= 1
+            while low and to_delete_low[-low[0]] > 0:
+                to_delete_low[-heapq.heappop(low)] -= 1
                 
         def clean_high():
-            while high and to_delete[high[0]] > 0:
-                to_delete[heapq.heappop(high)] -= 1
+            while high and to_delete_high[high[0]] > 0:
+                to_delete_high[heapq.heappop(high)] -= 1
                 
         def balance():
             nonlocal sum_low, count_low, count_high
@@ -63,9 +64,10 @@ class Solution:
             if val <= -low[0]:
                 sum_low -= val
                 count_low -= 1
+                to_delete_low[val] += 1
             else:
                 count_high -= 1
-            to_delete[val] += 1
+                to_delete_high[val] += 1
             balance()
 
         # Initialize first window [1, dist+1]
