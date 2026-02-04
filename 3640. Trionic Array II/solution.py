@@ -6,29 +6,30 @@ class Solution:
         if n < 4:
             return 0
             
-        # inc[i]: max sum of strictly increasing subarray ending at i
-        inc = [0] * n
-        # mountain[i]: max sum of nums[j...i] such that j < p < i
-        # where nums[j...p] is strictly increasing and nums[p...i] is strictly decreasing
+        # inc1[i]: max sum of strictly increasing subarray ending at i (length >= 1)
+        inc1 = [0.0] * n
+        # inc2[i]: max sum of strictly increasing subarray ending at i (length >= 2)
+        inc2 = [float('-inf')] * n
+        # mountain[i]: max sum of nums[j...i] such that j < p < i (length >= 3)
         mountain = [float('-inf')] * n
-        # trionic[i]: max sum of nums[j...i] such that j < p < q < i
-        # where nums[j...p] inc, nums[p...q] dec, nums[q...i] inc
+        # trionic[i]: max sum of nums[j...i] such that j < p < q < i (length >= 4)
         trionic = [float('-inf')] * n
         
-        inc[0] = nums[0]
+        inc1[0] = float(nums[0])
         
         for i in range(1, n):
             # Strictly increasing
             if nums[i] > nums[i-1]:
-                inc[i] = inc[i-1] + nums[i]
+                inc1[i] = max(float(nums[i]), inc1[i-1] + nums[i])
+                inc2[i] = inc1[i-1] + nums[i]
             else:
-                inc[i] = nums[i]
+                inc1[i] = float(nums[i])
                 
             # Strictly decreasing (mountain)
             if nums[i] < nums[i-1]:
-                # Start from peak at i-1: we need nums[i-1] > nums[i-2]
-                if i >= 2 and nums[i-1] > nums[i-2]:
-                    mountain[i] = max(mountain[i], inc[i-1] + nums[i])
+                # Start dec from some inc2 at i-1
+                if inc2[i-1] != float('-inf'):
+                    mountain[i] = max(mountain[i], inc2[i-1] + nums[i])
                 # Extend existing mountain
                 if mountain[i-1] != float('-inf'):
                     mountain[i] = max(mountain[i], mountain[i-1] + nums[i])
