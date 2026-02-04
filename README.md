@@ -372,7 +372,12 @@ graph TD
     Root --> P436["436. Find Right Interval"]
     Root --> P437["437. Path Sum III"]
     Root --> P438["438. Find All Anagrams in a String"]
+    Root --> P440["440. K-th Smallest in Lexicographical Order"]
+    Root --> P441["441. Arranging Coins"]
+    Root --> P442["442. Find All Duplicates in an Array"]
+    Root --> P443["443. String Compression"]
     Root --> P3013["3013. Divide an Array Into Subarrays With Minimum Cost II"]
+    Root --> P3640["3640. Trionic Array II"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
 
 ## Solved Problems
@@ -741,7 +746,12 @@ graph TD
 - [436. Find Right Interval](./436.%20Find%20Right%20Interval)
 - [437. Path Sum III](./437.%20Path%20Sum%20III)
 - [438. Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String)
+- [440. K-th Smallest in Lexicographical Order](./440.%20K-th%20Smallest%20in%20Lexicographical%20Order)
+- [441. Arranging Coins](./441.%20Arranging%20Coins)
+- [442. Find All Duplicates in an Array](./442.%20Find%20All%20Duplicates%20in%20an%20Array)
+- [443. String Compression](./443.%20String%20Compression)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
+- [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 
 ## Day 30: 2026-01-30
@@ -809,3 +819,10 @@ graph TD
 - [437. Path Sum III](./437.%20Path%20Sum%20III)
 - [430. Flatten a Multilevel Doubly Linked List](./430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List)
 - [438. Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String)
+
+## Day 35: 2026-02-04
+- [440. K-th Smallest in Lexicographical Order](./440.%20K-th%20Smallest%20in%20Lexicographical%20Order)
+- [441. Arranging Coins](./441.%20Arranging%20Coins)
+- [442. Find All Duplicates in an Array](./442.%20Find%20All%20Duplicates%20in%20an%20Array)
+- [443. String Compression](./443.%20String%20Compression)
+- [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
