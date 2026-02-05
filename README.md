@@ -385,6 +385,12 @@ graph TD
     Root --> P451["451. Sort Characters By Frequency"]
     Root --> P452["452. Minimum Number of Arrows to Burst Balloons"]
     Root --> P453["453. Minimum Moves to Equal Array Elements"]
+    Root --> P454["454. 4Sum II"]
+    Root --> P455["455. Assign Cookies"]
+    Root --> P456["456. 132 Pattern"]
+    Root --> P457["457. Circular Array Loop"]
+    Root --> P458["458. Poor Pigs"]
+    Root --> P459["459. Repeated Substring Pattern"]
     Root --> P3379["3379. Transformed Array"]
     Root --> P3013["3013. Divide an Array Into Subarrays With Minimum Cost II"]
     Root --> P3640["3640. Trionic Array II"]
@@ -769,6 +775,12 @@ graph TD
 - [451. Sort Characters By Frequency](./451.%20Sort%20Characters%20By%20Frequency)
 - [452. Minimum Number of Arrows to Burst Balloons](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)
 - [453. Minimum Moves to Equal Array Elements](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements)
+- [454. 4Sum II](./454.%204Sum%20II)
+- [455. Assign Cookies](./455.%20Assign%20Cookies)
+- [456. 132 Pattern](./456.%20132%20Pattern)
+- [457. Circular Array Loop](./457.%20Circular%20Array%20Loop)
+- [458. Poor Pigs](./458.%20Poor%20Pigs)
+- [459. Repeated Substring Pattern](./459.%20Repeated%20Substring%20Pattern)
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
@@ -857,4 +869,10 @@ graph TD
 - [451. Sort Characters By Frequency](./451.%20Sort%20Characters%20By%20Frequency)
 - [452. Minimum Number of Arrows to Burst Balloons](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)
 - [453. Minimum Moves to Equal Array Elements](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements)
+- [454. 4Sum II](./454.%204Sum%20II)
+- [455. Assign Cookies](./455.%20Assign%20Cookies)
+- [456. 132 Pattern](./456.%20132%20Pattern)
+- [457. Circular Array Loop](./457.%20Circular%20Array%20Loop)
+- [458. Poor Pigs](./458.%20Poor%20Pigs)
+- [459. Repeated Substring Pattern](./459.%20Repeated%20Substring%20Pattern)
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
