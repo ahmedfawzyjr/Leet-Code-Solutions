@@ -1,5 +1,5 @@
 class Solution:
-    def findSubstringInWraparoundString(self, s: str) -> int:
+    def findSubstringInWraproundString(self, s: str) -> int:
         if not s:
             return 0
         
