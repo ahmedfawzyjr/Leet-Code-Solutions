@@ -381,6 +381,11 @@ graph TD
     Root --> P447["447. Number of Boomerangs"]
     Root --> P448["448. Find All Numbers Disappeared in an Array"]
     Root --> P449["449. Serialize and Deserialize BST"]
+    Root --> P450["450. Delete Node in a BST"]
+    Root --> P451["451. Sort Characters By Frequency"]
+    Root --> P452["452. Minimum Number of Arrows to Burst Balloons"]
+    Root --> P453["453. Minimum Moves to Equal Array Elements"]
+    Root --> P3379["3379. Transformed Array"]
     Root --> P3013["3013. Divide an Array Into Subarrays With Minimum Cost II"]
     Root --> P3640["3640. Trionic Array II"]
     Root --> P3650["3650. Minimum Cost Path with Edge Reversals"]
@@ -760,6 +765,11 @@ graph TD
 - [447. Number of Boomerangs](./447.%20Number%20of%20Boomerangs)
 - [448. Find All Numbers Disappeared in an Array](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 - [449. Serialize and Deserialize BST](./449.%20Serialize%20and%20Deserialize%20BST)
+- [450. Delete Node in a BST](./450.%20Delete%20Node%20in%20a%20BST)
+- [451. Sort Characters By Frequency](./451.%20Sort%20Characters%20By%20Frequency)
+- [452. Minimum Number of Arrows to Burst Balloons](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)
+- [453. Minimum Moves to Equal Array Elements](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements)
+- [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
@@ -841,3 +851,10 @@ graph TD
 - [448. Find All Numbers Disappeared in an Array](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 - [449. Serialize and Deserialize BST](./449.%20Serialize%20and%20Deserialize%20BST)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
+
+## Day 36: 2026-02-05
+- [450. Delete Node in a BST](./450.%20Delete%20Node%20in%20a%20BST)
+- [451. Sort Characters By Frequency](./451.%20Sort%20Characters%20By%20Frequency)
+- [452. Minimum Number of Arrows to Burst Balloons](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)
+- [453. Minimum Moves to Equal Array Elements](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements)
+- [3379. Transformed Array](./3379.%20Transformed%20Array)
