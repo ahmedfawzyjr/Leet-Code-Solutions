@@ -401,6 +401,16 @@ graph TD
     Root --> P470["470. Implement Rand10() Using Rand7()"]
     Root --> P472["472. Concatenated Words"]
     Root --> P473["473. Matchsticks to Square"]
+    Root --> P474["474. Ones and Zeroes"]
+    Root --> P475["475. Heaters"]
+    Root --> P476["476. Number Complement"]
+    Root --> P477["477. Total Hamming Distance"]
+    Root --> P478["478. Generate Random Point in a Circle"]
+    Root --> P479["479. Largest Palindrome Product"]
+    Root --> P480["480. Sliding Window Median"]
+    Root --> P481["481. Magical String"]
+    Root --> P482["482. License Key Formatting"]
+    Root --> P483["483. Smallest Good Base"]
     Root --> P3379["3379. Transformed Array"]
     Root --> P3013["3013. Divide an Array Into Subarrays With Minimum Cost II"]
     Root --> P3640["3640. Trionic Array II"]
@@ -801,6 +811,16 @@ graph TD
 - [470. Implement Rand10() Using Rand7()](./470.%20Implement%20Rand10%28%29%20Using%20Rand7%28%29)
 - [472. Concatenated Words](./472.%20Concatenated%20Words)
 - [473. Matchsticks to Square](./473.%20Matchsticks%20to%20Square)
+- [474. Ones and Zeroes](./474.%20Ones%20and%20Zeroes)
+- [475. Heaters](./475.%20Heaters)
+- [476. Number Complement](./476.%20Number%20Complement)
+- [477. Total Hamming Distance](./477.%20Total%20Hamming%20Distance)
+- [478. Generate Random Point in a Circle](./478.%20Generate%20Random%20Point%20in%20a%20Circle)
+- [479. Largest Palindrome Product](./479.%20Largest%20Palindrome%20Product)
+- [480. Sliding Window Median](./480.%20Sliding%20Window%20Median)
+- [481. Magical String](./481.%20Magical%20String)
+- [482. License Key Formatting](./482.%20License%20Key%20Formatting)
+- [483. Smallest Good Base](./483.%20Smallest%20Good%20Base)
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
@@ -908,3 +928,15 @@ graph TD
 - [470. Implement Rand10() Using Rand7()](./470.%20Implement%20Rand10%28%29%20Using%20Rand7%28%29)
 - [472. Concatenated Words](./472.%20Concatenated%20Words)
 - [473. Matchsticks to Square](./473.%20Matchsticks%20to%20Square)
+
+## Day 38: 2026-02-07
+- [474. Ones and Zeroes](./474.%20Ones%20and%20Zeroes)
+- [475. Heaters](./475.%20Heaters)
+- [476. Number Complement](./476.%20Number%20Complement)
+- [477. Total Hamming Distance](./477.%20Total%20Hamming%20Distance)
+- [478. Generate Random Point in a Circle](./478.%20Generate%20Random%20Point%20in%20a%20Circle)
+- [479. Largest Palindrome Product](./479.%20Largest%20Palindrome%20Product)
+- [480. Sliding Window Median](./480.%20Sliding%20Window%20Median)
+- [481. Magical String](./481.%20Magical%20String)
+- [482. License Key Formatting](./482.%20License%20Key%20Formatting)
+- [483. Smallest Good Base](./483.%20Smallest%20Good%20Base)
