@@ -287,6 +287,12 @@ graph TD
     Root --> P314["314. Binary Tree Vertical Order Traversal"]
     Root --> P315["315. Count of Smaller Numbers After Self"]
     Root --> P316["316. Remove Duplicate Letters"]
+    Root --> P317["317. Shortest Distance from All Buildings"]
+    Root --> P318["318. Maximum Product of Word Lengths"]
+    Root --> P319["319. Bulb Switcher"]
+    Root --> P320["320. Generalized Abbreviation"]
+    Root --> P321["321. Create Maximum Number"]
+    Root --> P322["322. Coin Change"]
     Root --> P324["324. Wiggle Sort II"]
     Root --> P326["326. Power of Three"]
     Root --> P327["327. Count of Range Sum"]
@@ -697,6 +703,12 @@ graph TD
 - [314. Binary Tree Vertical Order Traversal](./314.%20Binary%20Tree%20Vertical%20Order%20Traversal)
 - [315. Count of Smaller Numbers After Self](./315.%20Count%20of%20Smaller%20Numbers%20After%20Self)
 - [316. Remove Duplicate Letters](./316.%20Remove%20Duplicate%20Letters)
+- [317. Shortest Distance from All Buildings](./317.%20Shortest%20Distance%20from%20All%20Buildings)
+- [318. Maximum Product of Word Lengths](./318.%20Maximum%20Product%20of%20Word%20Lengths)
+- [319. Bulb Switcher](./319.%20Bulb%20Switcher)
+- [320. Generalized Abbreviation](./320.%20Generalized%20Abbreviation)
+- [321. Create Maximum Number](./321.%20Create%20Maximum%20Number)
+- [322. Coin Change](./322.%20Coin%20Change)
 - [324. Wiggle Sort II](./324.%20Wiggle%20Sort%20II)
 - [326. Power of Three](./326.%20Power%20of%20Three)
 - [327. Count of Range Sum](./327.%20Count%20of%20Range%20Sum)
