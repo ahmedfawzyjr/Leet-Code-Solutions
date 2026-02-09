@@ -206,6 +206,7 @@ graph TD
     Cat4 --> P117["117-Populating-Next-Right-Pointers-in-Each-Node-II"]
     Cat4 --> P124["124. Binary Tree Maximum Path Sum"]
     Cat4 --> P1339["1339. Maximum Product of Splitted Binary Tree"]
+    Cat4 --> P1382["1382. Balance a Binary Search Tree"]
     Cat4 --> P173["173. Binary Search Tree Iterator"]
     Cat4 --> P19["19. Remove Nth Node From End of List"]
     Cat4 --> P199["199. Binary Tree Right Side View"]
@@ -662,6 +663,7 @@ graph TD
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
+- [1382. Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
@@ -970,3 +972,6 @@ graph TD
 - [481. Magical String](./481.%20Magical%20String)
 - [482. License Key Formatting](./482.%20License%20Key%20Formatting)
 - [483. Smallest Good Base](./483.%20Smallest%20Good%20Base)
+
+## Day 40: 2026-02-09
+- [1382. Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree)
