@@ -50,6 +50,7 @@ graph TD
     Cat0 --> P352["352. Data Stream as Disjoint Intervals"]
     Cat0 --> P3640["3640. Trionic Array II"]
     Cat0 --> P3719["3719. Longest Balanced Subarray I"]
+    Cat0 --> P3721["3721. Longest Balanced Subarray II"]
     Cat0 --> P384["384. Shuffle an Array"]
     Cat0 --> P404["404. Sum of Left Leaves"]
     Cat0 --> P410["410. Split Array Largest Sum"]
@@ -859,6 +860,7 @@ graph TD
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 - [3719. Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Subarray%20I)
+- [3721. Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II)
 
 ## Day 30: 2026-01-30
 - [376. Wiggle Subsequence](./376.%20Wiggle%20Subsequence)
@@ -980,3 +982,6 @@ graph TD
 
 ## Day 41: 2026-02-10
 - [3719. Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Subarray%20I)
+
+## Day 42: 2026-02-11
+- [3721. Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II)
