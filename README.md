@@ -109,6 +109,7 @@ graph TD
     Cat1 --> P87["87. Scramble String"]
     Cat1 --> P9["9. Palindrome Number"]
     Cat1 --> P97["97. Interleaving String"]
+    Cat1 --> P3713["3713. Longest Balanced Substring I"]
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
     Cat2 --> P13["13. Roman to Integer"]
@@ -861,6 +862,7 @@ graph TD
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 - [3719. Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Subarray%20I)
 - [3721. Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II)
+- [3713. Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I)
 
 ## Day 30: 2026-01-30
 - [376. Wiggle Subsequence](./376.%20Wiggle%20Subsequence)
@@ -985,3 +987,7 @@ graph TD
 
 ## Day 42: 2026-02-11
 - [3721. Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II)
+
+## Day 43: 2026-02-12
+- [3713. Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I)
+
