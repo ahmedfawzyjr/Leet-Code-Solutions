@@ -277,6 +277,7 @@ graph TD
     Cat6 --> P71["71. Simplify Path"]
     Cat6 --> P72["72. Edit Distance"]
     Cat6 --> P91["91. Decode Ways"]
+    Cat6 --> P799["799. Champagne Tower"]
     Cat7 --> P216["216. Combination Sum III"]
     Cat7 --> P282["282. Expression Add Operators"]
     Cat7 --> P31["31. Next Permutation"]
@@ -857,6 +858,7 @@ graph TD
 - [481. Magical String](./481.%20Magical%20String)
 - [482. License Key Formatting](./482.%20License%20Key%20Formatting)
 - [483. Smallest Good Base](./483.%20Smallest%20Good%20Base)
+- [799. Champagne Tower](./799.%20Champagne%20Tower)
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
@@ -995,3 +997,6 @@ graph TD
 
 ## Day 44: 2026-02-13
 - [3714. Longest Balanced Substring II](./3714.%20Longest%20Balanced%20Substring%20II)
+
+## Day 45: 2026-02-14
+- [799. Champagne Tower](./799.%20Champagne%20Tower)
