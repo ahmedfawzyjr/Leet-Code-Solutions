@@ -1000,3 +1000,6 @@ graph TD
 
 ## Day 45: 2026-02-14
 - [799. Champagne Tower](./799.%20Champagne%20Tower)
+
+## Day 46: 2026-02-15
+- [67. Add Binary](./67.%20Add%20Binary)
