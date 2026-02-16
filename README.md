@@ -1003,3 +1003,6 @@ graph TD
 
 ## Day 46: 2026-02-15
 - [67. Add Binary](./67.%20Add%20Binary)
+
+## Day 47: 2026-02-16
+- [190. Reverse Bits](./190.%20Reverse%20Bits)
