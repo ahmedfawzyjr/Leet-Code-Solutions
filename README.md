@@ -1006,3 +1006,6 @@ graph TD
 
 ## Day 47: 2026-02-16
 - [190. Reverse Bits](./190.%20Reverse%20Bits)
+
+## Day 48: 2026-02-17
+- [191. Number of 1 Bits](./191.%20Number%20of%201%20Bits)
