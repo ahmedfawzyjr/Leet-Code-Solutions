@@ -859,6 +859,7 @@ graph TD
 - [482. License Key Formatting](./482.%20License%20Key%20Formatting)
 - [483. Smallest Good Base](./483.%20Smallest%20Good%20Base)
 - [693. Binary Number with Alternating Bits](./693.%20Binary%20Number%20with%20Alternating%20Bits)
+- [696. Count Binary Substrings](./696.%20Count%20Binary%20Substrings)
 - [799. Champagne Tower](./799.%20Champagne%20Tower)
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
@@ -1013,3 +1014,6 @@ graph TD
 
 ## Day 49: 2026-02-18
 - [693. Binary Number with Alternating Bits](./693.%20Binary%20Number%20with%20Alternating%20Bits)
+
+## Day 50: 2026-02-19
+- [696. Count Binary Substrings](./696.%20Count%20Binary%20Substrings)
