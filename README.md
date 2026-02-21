@@ -175,6 +175,7 @@ graph TD
     Cat2 --> P65["65. Valid Number"]
     Cat2 --> P69["69. Sqrtx"]
     Cat2 --> P7["7. Reverse Integer"]
+    Cat2 --> P762["762. Prime Number of Set Bits in Binary Representation"]
     Cat2 --> P84["84. Largest Rectangle in Histogram"]
     Cat2 --> P85["85. Maximal Rectangle"]
     Cat3 --> P138["138. Copy List with Random Pointer"]
@@ -862,6 +863,7 @@ graph TD
 - [693. Binary Number with Alternating Bits](./693.%20Binary%20Number%20with%20Alternating%20Bits)
 - [696. Count Binary Substrings](./696.%20Count%20Binary%20Substrings)
 - [761. Special Binary String](./761.%20Special%20Binary%20String)
+- [762. Prime Number of Set Bits in Binary Representation](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 - [799. Champagne Tower](./799.%20Champagne%20Tower)
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
@@ -1022,3 +1024,6 @@ graph TD
 
 ## Day 51: 2026-02-20
 - [761. Special Binary String](./761.%20Special%20Binary%20String)
+
+## Day 52: 2026-02-21
+- [762. Prime Number of Set Bits in Binary Representation](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
