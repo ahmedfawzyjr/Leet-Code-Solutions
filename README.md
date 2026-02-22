@@ -178,6 +178,7 @@ graph TD
     Cat2 --> P762["762. Prime Number of Set Bits in Binary Representation"]
     Cat2 --> P84["84. Largest Rectangle in Histogram"]
     Cat2 --> P85["85. Maximal Rectangle"]
+    Cat2 --> P868["868. Binary Gap"]
     Cat3 --> P138["138. Copy List with Random Pointer"]
     Cat3 --> P141["141. Linked List Cycle"]
     Cat3 --> P142["142. Linked List Cycle II"]
@@ -865,6 +866,7 @@ graph TD
 - [761. Special Binary String](./761.%20Special%20Binary%20String)
 - [762. Prime Number of Set Bits in Binary Representation](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 - [799. Champagne Tower](./799.%20Champagne%20Tower)
+- [868. Binary Gap](./868.%20Binary%20Gap)
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
@@ -1027,3 +1029,6 @@ graph TD
 
 ## Day 52: 2026-02-21
 - [762. Prime Number of Set Bits in Binary Representation](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
+
+## Day 53: 2026-02-22
+- [868. Binary Gap](./868.%20Binary%20Gap)
