@@ -242,6 +242,7 @@ graph TD
     Cat4 --> P96["96. Unique Binary Search Trees"]
     Cat4 --> P98["98. Validate Binary Search Tree"]
     Cat4 --> P99["99. Recover Binary Search Tree"]
+    Cat4 --> P1022["1022. Sum of Root To Leaf Binary Numbers"]
     Cat5 --> P130["130. Surrounded Regions"]
     Cat5 --> P133["133. Clone Graph"]
     Cat5 --> P207["207. Course Schedule"]
@@ -669,6 +670,7 @@ graph TD
 - [223. Rectangle Area](./223.%20Rectangle%20Area)
 - [224. Basic Calculator](./224.%20Basic%20Calculator)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
+- [1022. Sum of Root To Leaf Binary Numbers](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
 - [1382. Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree)
@@ -1032,3 +1034,7 @@ graph TD
 
 ## Day 53: 2026-02-22
 - [868. Binary Gap](./868.%20Binary%20Gap)
+
+## Day 55: 2026-02-24
+- [1022. Sum of Root To Leaf Binary Numbers](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
+
