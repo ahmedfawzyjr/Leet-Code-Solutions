@@ -327,6 +327,7 @@ graph TD
     Cat8 --> P80["80. Remove Duplicates from Sorted Array II"]
     Cat8 --> P81["81. Search in Rotated Sorted Array II"]
     Cat8 --> P88["88. Merge Sorted Array"]
+    Cat8 --> P1356["1356. Sort Integers by The Number of 1 Bits"]
     Cat9 --> P102["102. Binary Tree Level Order Traversal"]
     Cat9 --> P103["103. Binary Tree Zigzag Level Order Traversal"]
     Cat9 --> P105["105. Construct Binary Tree from Preorder and Inorder Traversal"]
@@ -673,6 +674,7 @@ graph TD
 - [1022. Sum of Root To Leaf Binary Numbers](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
+- [1356. Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 - [1382. Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
@@ -1037,4 +1039,7 @@ graph TD
 
 ## Day 55: 2026-02-24
 - [1022. Sum of Root To Leaf Binary Numbers](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
+
+## Day 56: 2026-02-25
+- [1356. Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 
