@@ -179,6 +179,8 @@ graph TD
     Cat2 --> P84["84. Largest Rectangle in Histogram"]
     Cat2 --> P85["85. Maximal Rectangle"]
     Cat2 --> P868["868. Binary Gap"]
+    Cat2 --> P1404["1404. Number of Steps to Reduce a Number in Binary Representation to One"]
+
     Cat3 --> P138["138. Copy List with Random Pointer"]
     Cat3 --> P141["141. Linked List Cycle"]
     Cat3 --> P142["142. Linked List Cycle II"]
@@ -677,7 +679,9 @@ graph TD
 - [1356. Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 - [1382. Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
+- [1404. Number of Steps to Reduce a Number in Binary Representation to One](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
+
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
 - [226. Invert Binary Tree](./226.%20Invert%20Binary%20Tree)
 - [227. Basic Calculator II](./227.%20Basic%20Calculator%20II)
