@@ -1047,3 +1047,6 @@ graph TD
 ## Day 56: 2026-02-25
 - [1356. Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 
+## Day 57: 2026-02-27
+- [3666. Minimum Operations to Equalize Binary String](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String)
+
