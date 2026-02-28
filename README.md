@@ -180,6 +180,7 @@ graph TD
     Cat2 --> P85["85. Maximal Rectangle"]
     Cat2 --> P868["868. Binary Gap"]
     Cat2 --> P1404["1404. Number of Steps to Reduce a Number in Binary Representation to One"]
+    Cat2 --> P1680["1680. Concatenation of Consecutive Binary Numbers"]
 
     Cat3 --> P138["138. Copy List with Random Pointer"]
     Cat3 --> P141["141. Linked List Cycle"]
@@ -617,6 +618,7 @@ graph TD
 - [166. Fraction to Recurring Decimal](./166.%20Fraction%20to%20Recurring%20Decimal)
 - [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
 - [168. Excel Sheet Column Title](./168.%20Excel%20Sheet%20Column%20Title)
+- [1680. Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers)
 - [169. Majority Element](./169.%20Majority%20Element)
 - [170. Two Sum III - Data structure design](./170.%20Two%20Sum%20III%20-%20Data%20structure%20design)
 - [171. Excel Sheet Column Number](./171.%20Excel%20Sheet%20Column%20Number)
@@ -1049,4 +1051,7 @@ graph TD
 
 ## Day 57: 2026-02-27
 - [3666. Minimum Operations to Equalize Binary String](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String)
+
+## Day 58: 2026-02-28
+- [1680. Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers)
 
