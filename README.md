@@ -181,6 +181,7 @@ graph TD
     Cat2 --> P868["868. Binary Gap"]
     Cat2 --> P1404["1404. Number of Steps to Reduce a Number in Binary Representation to One"]
     Cat2 --> P1680["1680. Concatenation of Consecutive Binary Numbers"]
+    Cat2 --> P1689["1689. Partitioning Into Minimum Number Of Deci-Binary Numbers"]
 
     Cat3 --> P138["138. Copy List with Random Pointer"]
     Cat3 --> P141["141. Linked List Cycle"]
@@ -619,6 +620,7 @@ graph TD
 - [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
 - [168. Excel Sheet Column Title](./168.%20Excel%20Sheet%20Column%20Title)
 - [1680. Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
 - [169. Majority Element](./169.%20Majority%20Element)
 - [170. Two Sum III - Data structure design](./170.%20Two%20Sum%20III%20-%20Data%20structure%20design)
 - [171. Excel Sheet Column Number](./171.%20Excel%20Sheet%20Column%20Number)
