@@ -112,6 +112,7 @@ graph TD
     Cat1 --> P97["97. Interleaving String"]
     Cat1 --> P3713["3713. Longest Balanced Substring I"]
     Cat1 --> P3714["3714. Longest Balanced Substring II"]
+    Cat1 --> P1545["1545. Find Kth Bit in Nth Binary String"]
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
     Cat2 --> P13["13. Roman to Integer"]
@@ -684,6 +685,7 @@ graph TD
 - [1382. Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One)
+- [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
 
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
@@ -1056,4 +1058,7 @@ graph TD
 
 ## Day 58: 2026-02-28
 - [1680. Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers)
+
+## Day 59: 2026-03-03
+- [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 
