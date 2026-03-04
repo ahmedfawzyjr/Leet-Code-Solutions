@@ -28,6 +28,7 @@ graph TD
     Cat0 --> P1["﻿1. Two Sum"]
     Cat0 --> P15["15. 3Sum"]
     Cat0 --> P152["152. Maximum Product Subarray"]
+    Cat0 --> P1582["1582. Special Positions in a Binary Matrix"]
     Cat0 --> P16["16. 3Sum Closest"]
     Cat0 --> P170["170. Two Sum III - Data structure design"]
     Cat0 --> P18["18. 4Sum"]
@@ -686,6 +687,7 @@ graph TD
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One)
 - [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
+- [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
 
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
@@ -1061,4 +1063,7 @@ graph TD
 
 ## Day 59: 2026-03-03
 - [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
+
+## Day 60: 2026-03-04
+- [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
 
