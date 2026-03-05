@@ -114,6 +114,7 @@ graph TD
     Cat1 --> P3713["3713. Longest Balanced Substring I"]
     Cat1 --> P3714["3714. Longest Balanced Substring II"]
     Cat1 --> P1545["1545. Find Kth Bit in Nth Binary String"]
+    Cat1 --> P1758["1758. Minimum Changes To Make Alternating Binary String"]
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
     Cat2 --> P13["13. Roman to Integer"]
@@ -688,6 +689,7 @@ graph TD
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One)
 - [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
+- [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
 
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
@@ -1066,4 +1068,7 @@ graph TD
 
 ## Day 60: 2026-03-04
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
+
+## Day 61: 2026-03-05
+- [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
 
