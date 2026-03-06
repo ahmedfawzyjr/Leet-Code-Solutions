@@ -115,6 +115,7 @@ graph TD
     Cat1 --> P3714["3714. Longest Balanced Substring II"]
     Cat1 --> P1545["1545. Find Kth Bit in Nth Binary String"]
     Cat1 --> P1758["1758. Minimum Changes To Make Alternating Binary String"]
+    Cat1 --> P1784["1784. Check if Binary String Has at Most One Segment of Ones"]
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
     Cat2 --> P13["13. Roman to Integer"]
@@ -690,6 +691,7 @@ graph TD
 - [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
 - [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
+- [1784. Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
 
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
@@ -1071,4 +1073,7 @@ graph TD
 
 ## Day 61: 2026-03-05
 - [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
+
+## Day 62: 2026-03-06
+- [1784. Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
 
