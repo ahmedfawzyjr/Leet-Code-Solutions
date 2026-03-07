@@ -116,6 +116,7 @@ graph TD
     Cat1 --> P1545["1545. Find Kth Bit in Nth Binary String"]
     Cat1 --> P1758["1758. Minimum Changes To Make Alternating Binary String"]
     Cat1 --> P1784["1784. Check if Binary String Has at Most One Segment of Ones"]
+    Cat1 --> P1888["1888. Minimum Number of Flips to Make the Binary String Alternating"]
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
     Cat2 --> P13["13. Roman to Integer"]
@@ -693,6 +694,7 @@ graph TD
 - [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
 - [1784. Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
+- [1888. Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating)
 
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
 - [226. Invert Binary Tree](./226.%20Invert%20Binary%20Tree)
@@ -1076,4 +1078,7 @@ graph TD
 
 ## Day 62: 2026-03-06
 - [1784. Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
+
+## Day 63: 2026-03-07
+- [1888. Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating)
 
