@@ -117,6 +117,7 @@ graph TD
     Cat1 --> P1758["1758. Minimum Changes To Make Alternating Binary String"]
     Cat1 --> P1784["1784. Check if Binary String Has at Most One Segment of Ones"]
     Cat1 --> P1888["1888. Minimum Number of Flips to Make the Binary String Alternating"]
+    Cat1 --> P1980["1980. Find Unique Binary String"]
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
     Cat2 --> P13["13. Roman to Integer"]
@@ -682,6 +683,7 @@ graph TD
 - [223. Rectangle Area](./223.%20Rectangle%20Area)
 - [224. Basic Calculator](./224.%20Basic%20Calculator)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
+- [1980. Find Unique Binary String](./1980.%20Find%20Unique%20Binary%20String)
 - [1022. Sum of Root To Leaf Binary Numbers](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
@@ -1081,4 +1083,7 @@ graph TD
 
 ## Day 63: 2026-03-07
 - [1888. Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating)
+
+## Day 64: 2026-03-08
+- [1980. Find Unique Binary String](./1980.%20Find%20Unique%20Binary%20String)
 
