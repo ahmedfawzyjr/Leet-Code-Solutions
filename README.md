@@ -23,9 +23,8 @@ graph TD
     Cat4 -.-> Cat5
     Cat7 -.-> Cat4
     Cat7 -.-> Cat6
-    Cat8 --> Cat0
-    Cat1 -.-> Cat0
     Cat0 --> P1["﻿1. Two Sum"]
+    Cat6 --> P3129["3129. Find All Possible Stable Binary Arrays I"]
     Cat0 --> P15["15. 3Sum"]
     Cat0 --> P152["152. Maximum Product Subarray"]
     Cat0 --> P1582["1582. Special Positions in a Binary Matrix"]
@@ -696,6 +695,7 @@ graph TD
 - [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
 - [1784. Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
+- [3129. Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I)
 - [1888. Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating)
 
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
@@ -1087,3 +1087,5 @@ graph TD
 ## Day 64: 2026-03-08
 - [1980. Find Unique Binary String](./1980.%20Find%20Unique%20Binary%20String)
 
+## Day 65: 2026-03-09
+- [3129. Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I)
