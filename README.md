@@ -177,6 +177,7 @@ graph TD
     Cat2 --> P448["448. Find All Numbers Disappeared in an Array"]
     Cat2 --> P452["452. Minimum Number of Arrows to Burst Balloons"]
     Cat2 --> P476["476. Number Complement"]
+    Cat2 --> P1009["1009. Complement of Base 10 Integer"]
     Cat2 --> P50["50. Powx, n"]
     Cat2 --> P65["65. Valid Number"]
     Cat2 --> P69["69. Sqrtx"]
@@ -901,6 +902,7 @@ graph TD
 - [3721. Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II)
 - [3713. Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I)
 - [3714. Longest Balanced Substring II](./3714.%20Longest%20Balanced%20Substring%20II)
+- [1009. Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer)
 
 ## Day 30: 2026-01-30
 - [376. Wiggle Subsequence](./376.%20Wiggle%20Subsequence)
@@ -1091,3 +1093,9 @@ graph TD
 
 ## Day 65: 2026-03-09
 - [3129. Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I)
+
+## Day 66: 2026-03-10
+- [3130. Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II)
+
+## Day 67: 2026-03-11
+- [1009. Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer)
