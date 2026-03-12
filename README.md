@@ -258,7 +258,9 @@ graph TD
     Cat5 --> P133["133. Clone Graph"]
     Cat5 --> P207["207. Course Schedule"]
     Cat5 --> P210["210. Course Schedule II"]
+    Cat5 --> P3600["3600. Maximize Spanning Tree Stability with Upgrades"]
     Cat6 --> P112["112-Path-Sum"]
+
     Cat6 --> P113["113-Path-Sum-II"]
     Cat6 --> P115["115-Distinct-Subsequences"]
     Cat6 --> P118["118-Pascals-Triangle"]
@@ -903,8 +905,10 @@ graph TD
 - [3713. Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I)
 - [3714. Longest Balanced Substring II](./3714.%20Longest%20Balanced%20Substring%20II)
 - [1009. Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer)
+- [3600. Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades)
 
 ## Day 30: 2026-01-30
+
 - [376. Wiggle Subsequence](./376.%20Wiggle%20Subsequence)
 - [377. Combination Sum IV](./377.%20Combination%20Sum%20IV)
 - [378. Kth Smallest Element in a Sorted Matrix](./378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
@@ -1099,3 +1103,7 @@ graph TD
 
 ## Day 67: 2026-03-11
 - [1009. Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer)
+
+## Day 68: 2026-03-12
+- [3600. Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades)
+
