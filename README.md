@@ -20,9 +20,11 @@ graph TD
     Root --> Cat9(Database)
     Root --> Cat10(Shell)
     Root --> Cat11(Others)
+    Root --> Cat12(Binary Search)
     Cat4 -.-> Cat5
     Cat7 -.-> Cat4
     Cat7 -.-> Cat6
+    Cat12 --> P3296["3296. Minimum Number of Seconds to Make Mountain Height Zero"]
     Cat0 --> P1["﻿1. Two Sum"]
     Cat6 --> P3129["3129. Find All Possible Stable Binary Arrays I"]
     Cat6 --> P3130["3130. Find All Possible Stable Binary Arrays II"]
@@ -906,6 +908,8 @@ graph TD
 - [3714. Longest Balanced Substring II](./3714.%20Longest%20Balanced%20Substring%20II)
 - [1009. Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer)
 - [3600. Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades)
+- [3296. Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero)
+
 
 ## Day 30: 2026-01-30
 
@@ -1107,3 +1111,5 @@ graph TD
 ## Day 68: 2026-03-12
 - [3600. Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades)
 
+## Day 69: 2026-03-13
+- [3296. Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero)
