@@ -315,6 +315,7 @@ graph TD
     Cat7 --> P77["77. Combinations"]
     Cat7 --> P78["78. Subsets"]
     Cat7 --> P90["90. Subsets II"]
+    Cat7 --> P1415["1415. The k-th Lexicographical String of All Happy Strings of Length n"]
     Cat8 --> P153["153. Find Minimum in Rotated Sorted Array"]
     Cat8 --> P154["154. Find Minimum in Rotated Sorted Array II"]
     Cat8 --> P162["162. Find Peak Element"]
@@ -696,6 +697,7 @@ graph TD
 - [1382. Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree)
 - [1390. Four Divisors](./1390.%20Four%20Divisors)
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One)
+- [1415. The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n)
 - [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
 - [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
@@ -1112,4 +1114,9 @@ graph TD
 - [3600. Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades)
 
 ## Day 69: 2026-03-13
-- [3296. Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero)
+- [3296. Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make mountain height Zero)
+- [1415. The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n)
+
+## Day 70: 2026-03-14
+
+- [1415. The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n)
