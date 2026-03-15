@@ -21,6 +21,7 @@ graph TD
     Root --> Cat10(Shell)
     Root --> Cat11(Others)
     Root --> Cat12(Binary Search)
+    Root --> Cat13(Design)
     Cat4 -.-> Cat5
     Cat7 -.-> Cat4
     Cat7 -.-> Cat6
@@ -465,7 +466,9 @@ graph TD
     Cat11 --> P66["66. Plus One"]
     Cat11 --> P70["70. Climbing Stairs"]
     Cat11 --> P89["89. Gray Code"]
-    Cat11 --> P93["93. Restore IP Addresses"]```
+    Cat11 --> P93["93. Restore IP Addresses"]
+    Cat13 --> P1622["1622. Fancy Sequence"]
+```
 
 ## Solved Problems
 
@@ -638,6 +641,7 @@ graph TD
 - [171. Excel Sheet Column Number](./171.%20Excel%20Sheet%20Column%20Number)
 - [172. Factorial Trailing Zeroes](./172.%20Factorial%20Trailing%20Zeroes)
 - [173. Binary Search Tree Iterator](./173.%20Binary%20Search%20Tree%20Iterator)
+- [1622. Fancy Sequence](./1622.%20Fancy%20Sequence)
 - [174. Dungeon Game](./174.%20Dungeon%20Game)
 - [175. Combine Two Tables](./175.%20Combine%20Two%20Tables)
 - [176. Second Highest Salary](./176.%20Second%20Highest%20Salary)
@@ -1117,6 +1121,5 @@ graph TD
 - [3296. Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero)
 - [1415. The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n)
 
-## Day 70: 2026-03-14
-
-- [1415. The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n)
+## Day 71: 2026-03-15
+- [1622. Fancy Sequence](./1622.%20Fancy%20Sequence)
