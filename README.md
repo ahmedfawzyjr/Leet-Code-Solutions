@@ -36,6 +36,7 @@ graph TD
     Cat0 --> P170["170. Two Sum III - Data structure design"]
     Cat0 --> P18["18. 4Sum"]
     Cat0 --> P189["189. Rotate Array"]
+    Cat0 --> P1878["1878. Get Biggest Three Rhombus Sums in a Grid"]
     Cat0 --> P1975["1975. Maximum Matrix Sum"]
     Cat0 --> P209["209. Minimum Size Subarray Sum"]
     Cat0 --> P215["215. Kth Largest Element in an Array"]
@@ -915,6 +916,7 @@ graph TD
 - [1009. Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer)
 - [3600. Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades)
 - [3296. Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero)
+- [1878. Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid)
 
 
 ## Day 30: 2026-01-30
@@ -1123,3 +1125,6 @@ graph TD
 
 ## Day 71: 2026-03-15
 - [1622. Fancy Sequence](./1622.%20Fancy%20Sequence)
+
+## Day 72: 2026-03-16
+- [1878. Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid)
