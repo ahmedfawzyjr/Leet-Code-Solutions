@@ -22,6 +22,7 @@ graph TD
     Root --> Cat11(Others)
     Root --> Cat12(Binary Search)
     Root --> Cat13(Design)
+    Cat0 --> P1727["1727. Largest Submatrix With Rearrangements"]
     Cat4 -.-> Cat5
     Cat7 -.-> Cat4
     Cat7 -.-> Cat6
@@ -649,6 +650,7 @@ graph TD
 - [177. Nth Highest Salary](./177.%20Nth%20Highest%20Salary)
 - [178. Rank Scores](./178.%20Rank%20Scores)
 - [179. Largest Number](./179.%20Largest%20Number)
+- [1727. Largest Submatrix With Rearrangements](./1727.%20Largest%20Submatrix%20With%20Rearrangements)
 - [180. Consecutive Numbers](./180.%20Consecutive%20Numbers)
 - [181. Employees Earning More Than Their Managers](./181.%20Employees%20Earning%20More%20Than%20Their%20Managers)
 - [182. Duplicate Emails](./182.%20Duplicate%20Emails)
@@ -1128,3 +1130,6 @@ graph TD
 
 ## Day 72: 2026-03-16
 - [1878. Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid)
+
+## Day 73: 2026-03-17
+- [1727. Largest Submatrix With Rearrangements](./1727.%20Largest%20Submatrix%20With%20Rearrangements)
