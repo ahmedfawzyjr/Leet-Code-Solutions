@@ -33,6 +33,7 @@ graph TD
     Cat0 --> P15["15. 3Sum"]
     Cat0 --> P152["152. Maximum Product Subarray"]
     Cat0 --> P1582["1582. Special Positions in a Binary Matrix"]
+    Cat0 --> P3070["3070. Count Submatrices with Top Left Element and Sum Less Than k"]
     Cat0 --> P16["16. 3Sum Closest"]
     Cat0 --> P170["170. Two Sum III - Data structure design"]
     Cat0 --> P18["18. 4Sum"]
@@ -919,6 +920,7 @@ graph TD
 - [3600. Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades)
 - [3296. Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero)
 - [1878. Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid)
+- [3070. Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k)
 
 
 ## Day 30: 2026-01-30
@@ -999,6 +1001,7 @@ graph TD
 - [448. Find All Numbers Disappeared in an Array](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 - [449. Serialize and Deserialize BST](./449.%20Serialize%20and%20Deserialize%20BST)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
+- [3070. Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k)
 
 ## Day 36: 2026-02-05
 - [450. Delete Node in a BST](./450.%20Delete%20Node%20in%20a%20BST)
@@ -1133,3 +1136,7 @@ graph TD
 
 ## Day 73: 2026-03-17
 - [1727. Largest Submatrix With Rearrangements](./1727.%20Largest%20Submatrix%20With%20Rearrangements)
+
+## Day 74: 2026-03-18
+- [3070. Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k)
+
