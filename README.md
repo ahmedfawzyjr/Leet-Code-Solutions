@@ -71,6 +71,7 @@ graph TD
     Cat0 --> P59["59. Spiral Matrix II"]
     Cat0 --> P73["73. Set Matrix Zeroes"]
     Cat0 --> P961["961. N-Repeated Element in Size 2N Array"]
+    Cat0 --> P3212["3212. Count Submatrices With Equal Frequency of X and Y"]
     Cat1 --> P125["125. Valid Palindrome"]
     Cat1 --> P126["126. Word Ladder II"]
     Cat1 --> P127["127. Word Ladder"]
@@ -777,6 +778,7 @@ graph TD
 - [319. Bulb Switcher](./319.%20Bulb%20Switcher)
 - [320. Generalized Abbreviation](./320.%20Generalized%20Abbreviation)
 - [321. Create Maximum Number](./321.%20Create%20Maximum%20Number)
+- [3212. Count Submatrices With Equal Frequency of X and Y](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y)
 - [322. Coin Change](./322.%20Coin%20Change)
 - [324. Wiggle Sort II](./324.%20Wiggle%20Sort%20II)
 - [326. Power of Three](./326.%20Power%20of%20Three)
@@ -1140,3 +1142,5 @@ graph TD
 ## Day 74: 2026-03-18
 - [3070. Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k)
 
+## Day 75: 2026-03-19
+- [3212. Count Submatrices With Equal Frequency of X and Y](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y)
