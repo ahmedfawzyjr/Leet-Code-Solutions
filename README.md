@@ -66,12 +66,14 @@ graph TD
     Cat0 --> P454["454. 4Sum II"]
     Cat0 --> P457["457. Circular Array Loop"]
     Cat0 --> P462["462. Minimum Moves to Equal Array Elements II"]
+    Cat0 --> P1536["1536. Minimum Swaps to Arrange a Binary Grid"]
     Cat0 --> P54["54. Spiral Matrix"]
     Cat0 --> P56["56. Merge Intervals"]
     Cat0 --> P59["59. Spiral Matrix II"]
     Cat0 --> P73["73. Set Matrix Zeroes"]
     Cat0 --> P961["961. N-Repeated Element in Size 2N Array"]
     Cat0 --> P3212["3212. Count Submatrices With Equal Frequency of X and Y"]
+    Cat0 --> P3567["3567. Minimum Absolute Difference in Sliding Submatrix"]
     Cat1 --> P125["125. Valid Palindrome"]
     Cat1 --> P126["126. Word Ladder II"]
     Cat1 --> P127["127. Word Ladder"]
@@ -120,6 +122,7 @@ graph TD
     Cat1 --> P97["97. Interleaving String"]
     Cat1 --> P3713["3713. Longest Balanced Substring I"]
     Cat1 --> P3714["3714. Longest Balanced Substring II"]
+    Cat1 --> P1461["1461. Check If a String Contains All Binary Codes of Size K"]
     Cat1 --> P1545["1545. Find Kth Bit in Nth Binary String"]
     Cat1 --> P1758["1758. Minimum Changes To Make Alternating Binary String"]
     Cat1 --> P1784["1784. Check if Binary String Has at Most One Segment of Ones"]
@@ -622,6 +625,7 @@ graph TD
 - [144. Binary Tree Preorder Traversal](./144.%20Binary%20Tree%20Preorder%20Traversal)
 - [145. Binary Tree Postorder Traversal](./145.%20Binary%20Tree%20Postorder%20Traversal)
 - [146. LRU Cache](./146.%20LRU%20Cache)
+- [1461. Check If a String Contains All Binary Codes of Size K](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)
 - [147. Insertion Sort List](./147.%20Insertion%20Sort%20List)
 - [148. Sort List](./148.%20Sort%20List)
 - [149. Max Points on a Line](./149.%20Max%20Points%20on%20a%20Line)
@@ -629,6 +633,7 @@ graph TD
 - [151. Reverse Words in a String](./151.%20Reverse%20Words%20in%20a%20String)
 - [152. Maximum Product Subarray](./152.%20Maximum%20Product%20Subarray)
 - [153. Find Minimum in Rotated Sorted Array](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
+- [1536. Minimum Swaps to Arrange a Binary Grid](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid)
 - [154. Find Minimum in Rotated Sorted Array II](./154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)
 - [155. Min Stack](./155.%20Min%20Stack)
 - [160. Intersection of Two Linked Lists](./160.%20Intersection%20of%20Two%20Linked%20Lists)
@@ -804,6 +809,7 @@ graph TD
 - [352. Data Stream as Disjoint Intervals](./352.%20Data%20Stream%20as%20Disjoint%20Intervals)
 - [354. Russian Doll Envelopes](./354.%20Russian%20Doll%20Envelopes)
 - [355. Design Twitter](./355.%20Design%20Twitter)
+- [3567. Minimum Absolute Difference in Sliding Submatrix](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix)
 - [357. Count Numbers with Unique Digits](./357.%20Count%20Numbers%20with%20Unique%20Digits)
 - [363. Max Sum of Rectangle No Larger Than K](./363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K)
 - [365. Water and Jug Problem](./365.%20Water%20and%20Jug%20Problem)
@@ -1144,3 +1150,8 @@ graph TD
 
 ## Day 75: 2026-03-19
 - [3212. Count Submatrices With Equal Frequency of X and Y](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y)
+
+## Day 76: 2026-03-20
+- [3567. Minimum Absolute Difference in Sliding Submatrix](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix)
+- [1461. Check If a String Contains All Binary Codes of Size K](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)
+- [1536. Minimum Swaps to Arrange a Binary Grid](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid)
