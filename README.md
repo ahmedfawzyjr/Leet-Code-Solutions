@@ -74,6 +74,7 @@ graph TD
     Cat0 --> P961["961. N-Repeated Element in Size 2N Array"]
     Cat0 --> P3212["3212. Count Submatrices With Equal Frequency of X and Y"]
     Cat0 --> P3567["3567. Minimum Absolute Difference in Sliding Submatrix"]
+    Cat0 --> P3643["3643. Flip Square Submatrix Vertically"]
     Cat1 --> P125["125. Valid Palindrome"]
     Cat1 --> P126["126. Word Ladder II"]
     Cat1 --> P127["127. Word Ladder"]
@@ -919,6 +920,7 @@ graph TD
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
+- [3643. Flip Square Submatrix Vertically](./3643.%20Flip%20Square%20Submatrix%20Vertically)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
 - [3719. Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Subarray%20I)
 - [3721. Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II)
@@ -1155,3 +1157,6 @@ graph TD
 - [3567. Minimum Absolute Difference in Sliding Submatrix](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix)
 - [1461. Check If a String Contains All Binary Codes of Size K](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)
 - [1536. Minimum Swaps to Arrange a Binary Grid](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid)
+
+## Day 77: 2026-03-21
+- [3643. Flip Square Submatrix Vertically](./3643.%20Flip%20Square%20Submatrix%20Vertically)
