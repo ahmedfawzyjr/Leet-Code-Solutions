@@ -1,7 +1,7 @@
 
 # Leet-Code-Solutions
 
-This repository contains my solutions to LeetCode problems, implemented in Python.
+This repository contains my solutions to LeetCode problems, implemented in Python and JavaScript.
 
 ## Problem Tree
 
@@ -41,6 +41,7 @@ graph TD
     Cat0 --> P1886["1886. Determine Whether Matrix Can Be Obtained By Rotation"]
     Cat0 --> P1878["1878. Get Biggest Three Rhombus Sums in a Grid"]
     Cat0 --> P1975["1975. Maximum Matrix Sum"]
+    Cat0 --> P2619["2619. Array Prototype Last"]
     Cat0 --> P209["209. Minimum Size Subarray Sum"]
     Cat0 --> P215["215. Kth Largest Element in an Array"]
     Cat0 --> P217["217. Contains Duplicate"]
@@ -706,6 +707,7 @@ graph TD
 - [224. Basic Calculator](./224.%20Basic%20Calculator)
 - [961. N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array)
 - [1980. Find Unique Binary String](./1980.%20Find%20Unique%20Binary%20String)
+- [2619. Array Prototype Last](./2619.%20Array%20Prototype%20Last)
 - [1022. Sum of Root To Leaf Binary Numbers](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
@@ -1165,3 +1167,4 @@ graph TD
 
 ## Day 78: 2026-03-22
 - [1886. Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation)
+- [2619. Array Prototype Last](./2619.%20Array%20Prototype%20Last)
