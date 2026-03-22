@@ -38,6 +38,7 @@ graph TD
     Cat0 --> P170["170. Two Sum III - Data structure design"]
     Cat0 --> P18["18. 4Sum"]
     Cat0 --> P189["189. Rotate Array"]
+    Cat0 --> P1886["1886. Determine Whether Matrix Can Be Obtained By Rotation"]
     Cat0 --> P1878["1878. Get Biggest Three Rhombus Sums in a Grid"]
     Cat0 --> P1975["1975. Maximum Matrix Sum"]
     Cat0 --> P209["209. Minimum Size Subarray Sum"]
@@ -717,6 +718,7 @@ graph TD
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
 - [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
 - [1784. Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
+- [1886. Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation)
 - [1975. Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum)
 - [3129. Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I)
 - [3130. Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II)
@@ -1160,3 +1162,6 @@ graph TD
 
 ## Day 77: 2026-03-21
 - [3643. Flip Square Submatrix Vertically](./3643.%20Flip%20Square%20Submatrix%20Vertically)
+
+## Day 78: 2026-03-22
+- [1886. Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation)
