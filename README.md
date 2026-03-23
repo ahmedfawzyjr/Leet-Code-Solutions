@@ -308,6 +308,8 @@ graph TD
     Cat6 --> P72["72. Edit Distance"]
     Cat6 --> P91["91. Decode Ways"]
     Cat6 --> P799["799. Champagne Tower"]
+    Cat6 --> P1594["1594. Maximum Non Negative Product in a Matrix"]
+
     Cat7 --> P216["216. Combination Sum III"]
     Cat7 --> P282["282. Expression Add Operators"]
     Cat7 --> P31["31. Next Permutation"]
@@ -718,6 +720,8 @@ graph TD
 - [1415. The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n)
 - [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
+- [1594. Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix)
+
 - [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
 - [1784. Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
 - [1886. Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation)
@@ -1168,3 +1172,7 @@ graph TD
 ## Day 78: 2026-03-22
 - [1886. Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation)
 - [2619. Array Prototype Last](./2619.%20Array%20Prototype%20Last)
+
+## Day 79: 2026-03-23
+- [1594. Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix)
+
