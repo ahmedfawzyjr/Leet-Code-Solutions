@@ -79,6 +79,7 @@ graph TD
     Cat0 --> P3643["3643. Flip Square Submatrix Vertically"]
     Cat0 --> P2906["2906. Construct Product Matrix"]
     Cat0 --> P3546["3546. Equal Sum Grid Partition I"]
+    Cat0 --> P3548["3548. Equal Sum Grid Partition II"]
     Cat1 --> P125["125. Valid Palindrome"]
     Cat1 --> P126["126. Word Ladder II"]
     Cat1 --> P127["127. Word Ladder"]
@@ -725,6 +726,7 @@ graph TD
 - [1594. Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix)
 - [2906. Construct Product Matrix](./2906.%20Construct%20Product%20Matrix)
 - [3546. Equal Sum Grid Partition I](./3546.%20Equal%20Sum%20Grid%20Partition%20I)
+- [3548. Equal Sum Grid Partition II](./3548.%20Equal%20Sum%20Grid%20Partition%20II)
 
 - [1758. Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String)
 - [1784. Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones)
@@ -1185,3 +1187,6 @@ graph TD
 
 ## Day 81: 2026-03-25
 - [3546. Equal Sum Grid Partition I](./3546.%20Equal%20Sum%20Grid%20Partition%20I)
+
+## Day 82: 2026-03-26
+- [3548. Equal Sum Grid Partition II](./3548.%20Equal%20Sum%20Grid%20Partition%20II)
