@@ -78,6 +78,7 @@ graph TD
     Cat0 --> P3567["3567. Minimum Absolute Difference in Sliding Submatrix"]
     Cat0 --> P3643["3643. Flip Square Submatrix Vertically"]
     Cat0 --> P2906["2906. Construct Product Matrix"]
+    Cat0 --> P2946["2946. Matrix Similarity After Cyclic Shifts"]
     Cat0 --> P3546["3546. Equal Sum Grid Partition I"]
     Cat0 --> P3548["3548. Equal Sum Grid Partition II"]
     Cat1 --> P125["125. Valid Palindrome"]
@@ -725,6 +726,7 @@ graph TD
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
 - [1594. Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix)
 - [2906. Construct Product Matrix](./2906.%20Construct%20Product%20Matrix)
+- [2946. Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts)
 - [3546. Equal Sum Grid Partition I](./3546.%20Equal%20Sum%20Grid%20Partition%20I)
 - [3548. Equal Sum Grid Partition II](./3548.%20Equal%20Sum%20Grid%20Partition%20II)
 
@@ -1190,3 +1192,6 @@ graph TD
 
 ## Day 82: 2026-03-26
 - [3548. Equal Sum Grid Partition II](./3548.%20Equal%20Sum%20Grid%20Partition%20II)
+
+## Day 83: 2026-03-27
+- [2946. Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts)
