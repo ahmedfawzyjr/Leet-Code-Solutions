@@ -135,6 +135,8 @@ graph TD
     Cat1 --> P1784["1784. Check if Binary String Has at Most One Segment of Ones"]
     Cat1 --> P1888["1888. Minimum Number of Flips to Make the Binary String Alternating"]
     Cat1 --> P1980["1980. Find Unique Binary String"]
+    Cat1 --> P2573["2573. Find the String with LCP"]
+
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
     Cat2 --> P13["13. Roman to Integer"]
@@ -947,6 +949,8 @@ graph TD
 - [3296. Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero)
 - [1878. Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid)
 - [3070. Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k)
+- [2573. Find the String with LCP](./2573.%20Find%20the%20String%20with%20LCP)
+
 
 
 ## Day 30: 2026-01-30
@@ -1195,3 +1199,7 @@ graph TD
 
 ## Day 83: 2026-03-27
 - [2946. Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts)
+
+## Day 84: 2026-03-28
+- [2573. Find the String with LCP](./2573.%20Find%20the%20String%20with%20LCP)
+
