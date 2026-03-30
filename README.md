@@ -136,6 +136,7 @@ graph TD
     Cat1 --> P1888["1888. Minimum Number of Flips to Make the Binary String Alternating"]
     Cat1 --> P1980["1980. Find Unique Binary String"]
     Cat1 --> P2573["2573. Find the String with LCP"]
+    Cat1 --> P2840["2840. Check if Strings Can Be Made Equal With Operations II"]
 
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
@@ -727,6 +728,7 @@ graph TD
 - [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
 - [1594. Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix)
+- [2840. Check if Strings Can Be Made Equal With Operations II](./2840.%20Check%20if%20Strings%20Can%20Be%20Made%20Equal%20With%20Operations%20II)
 - [2906. Construct Product Matrix](./2906.%20Construct%20Product%20Matrix)
 - [2946. Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts)
 - [3546. Equal Sum Grid Partition I](./3546.%20Equal%20Sum%20Grid%20Partition%20I)
@@ -1202,4 +1204,7 @@ graph TD
 
 ## Day 84: 2026-03-28
 - [2573. Find the String with LCP](./2573.%20Find%20the%20String%20with%20LCP)
+
+## Day 86: 2026-03-30
+- [2840. Check if Strings Can Be Made Equal With Operations II](./2840.%20Check%20if%20Strings%20Can%20Be%20Made%20Equal%20With%20Operations%20II)
 
