@@ -137,6 +137,7 @@ graph TD
     Cat1 --> P1980["1980. Find Unique Binary String"]
     Cat1 --> P2573["2573. Find the String with LCP"]
     Cat1 --> P2840["2840. Check if Strings Can Be Made Equal With Operations II"]
+    Cat1 --> P3474["3474. Lexicographically Smallest Generated String"]
 
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
@@ -952,6 +953,7 @@ graph TD
 - [1878. Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid)
 - [3070. Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k)
 - [2573. Find the String with LCP](./2573.%20Find%20the%20String%20with%20LCP)
+- [3474. Lexicographically Smallest Generated String](./3474.%20Lexicographically%20Smallest%20Generated%20String)
 
 
 
@@ -1207,4 +1209,7 @@ graph TD
 
 ## Day 86: 2026-03-30
 - [2840. Check if Strings Can Be Made Equal With Operations II](./2840.%20Check%20if%20Strings%20Can%20Be%20Made%20Equal%20With%20Operations%20II)
+
+## Day 87: 2026-03-31
+- [3474. Lexicographically Smallest Generated String](./3474.%20Lexicographically%20Smallest%20Generated%20String)
 
