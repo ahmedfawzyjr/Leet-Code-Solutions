@@ -81,6 +81,7 @@ graph TD
     Cat0 --> P2946["2946. Matrix Similarity After Cyclic Shifts"]
     Cat0 --> P3546["3546. Equal Sum Grid Partition I"]
     Cat0 --> P3548["3548. Equal Sum Grid Partition II"]
+    Cat0 --> P2751["2751. Robot Collisions"]
     Cat1 --> P125["125. Valid Palindrome"]
     Cat1 --> P126["126. Word Ladder II"]
     Cat1 --> P127["127. Word Ladder"]
@@ -771,6 +772,7 @@ graph TD
 - [273. Integer to English Words](./273.%20Integer%20to%20English%20Words)
 - [274. H-Index](./274.%20H-Index)
 - [275. H-Index II](./275.%20H-Index%20II)
+- [2751. Robot Collisions](./2751.%20Robot%20Collisions)
 - [278. First Bad Version](./278.%20First%20Bad%20Version)
 - [279. Perfect Squares](./279.%20Perfect%20Squares)
 - [282. Expression Add Operators](./282.%20Expression%20Add%20Operators)
@@ -1212,4 +1214,8 @@ graph TD
 
 ## Day 87: 2026-03-31
 - [3474. Lexicographically Smallest Generated String](./3474.%20Lexicographically%20Smallest%20Generated%20String)
+
+## Day 88: 2026-04-01
+
+- [2751. Robot Collisions](./2751.%20Robot%20Collisions)
 
