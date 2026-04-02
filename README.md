@@ -318,6 +318,7 @@ graph TD
     Cat6 --> P91["91. Decode Ways"]
     Cat6 --> P799["799. Champagne Tower"]
     Cat6 --> P1594["1594. Maximum Non Negative Product in a Matrix"]
+    Cat6 --> P3418["3418. Maximum Amount of Money Robot Can Earn"]
 
     Cat7 --> P216["216. Combination Sum III"]
     Cat7 --> P282["282. Expression Add Operators"]
@@ -956,6 +957,7 @@ graph TD
 - [3070. Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k)
 - [2573. Find the String with LCP](./2573.%20Find%20the%20String%20with%20LCP)
 - [3474. Lexicographically Smallest Generated String](./3474.%20Lexicographically%20Smallest%20Generated%20String)
+- [3418. Maximum Amount of Money Robot Can Earn](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn)
 
 
 
@@ -1218,4 +1220,10 @@ graph TD
 ## Day 88: 2026-04-01
 
 - [2751. Robot Collisions](./2751.%20Robot%20Collisions)
+- [3418. Maximum Amount of Money Robot Can Earn](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn)
+
+## Day 89: 2026-04-02
+
+- [3418. Maximum Amount of Money Robot Can Earn](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn)
+
 
