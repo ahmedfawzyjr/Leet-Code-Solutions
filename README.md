@@ -139,6 +139,7 @@ graph TD
     Cat1 --> P2573["2573. Find the String with LCP"]
     Cat1 --> P2840["2840. Check if Strings Can Be Made Equal With Operations II"]
     Cat1 --> P3474["3474. Lexicographically Smallest Generated String"]
+    Cat1 --> P2075["2075. Decode the Slanted Ciphertext"]
 
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
@@ -746,6 +747,8 @@ graph TD
 - [3129. Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I)
 - [3130. Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II)
 - [1888. Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating)
+- [2075. Decode the Slanted Ciphertext](./2075.%20Decode%20the%20Slanted%20Ciphertext)
+
 
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
 - [226. Invert Binary Tree](./226.%20Invert%20Binary%20Tree)
