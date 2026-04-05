@@ -140,6 +140,7 @@ graph TD
     Cat1 --> P2840["2840. Check if Strings Can Be Made Equal With Operations II"]
     Cat1 --> P3474["3474. Lexicographically Smallest Generated String"]
     Cat1 --> P2075["2075. Decode the Slanted Ciphertext"]
+    Cat1 --> P657["657. Robot Return to Origin"]
 
     Cat2 --> P12["12. Integer to Roman"]
     Cat2 --> P129["129. Sum Root to Leaf Numbers"]
@@ -940,6 +941,7 @@ graph TD
 - [481. Magical String](./481.%20Magical%20String)
 - [482. License Key Formatting](./482.%20License%20Key%20Formatting)
 - [483. Smallest Good Base](./483.%20Smallest%20Good%20Base)
+- [657. Robot Return to Origin](./657.%20Robot%20Return%20to%20Origin)
 - [693. Binary Number with Alternating Bits](./693.%20Binary%20Number%20with%20Alternating%20Bits)
 - [696. Count Binary Substrings](./696.%20Count%20Binary%20Substrings)
 - [761. Special Binary String](./761.%20Special%20Binary%20String)
@@ -1234,6 +1236,9 @@ graph TD
 ## Day 90: 2026-04-03
 
 - [3661. Maximum Walls Destroyed by Robots](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots)
+
+## Day 92: 2026-04-05
+- [657. Robot Return to Origin](./657.%20Robot%20Return%20to%20Origin)
 
 
 
