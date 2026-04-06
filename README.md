@@ -82,6 +82,7 @@ graph TD
     Cat0 --> P3546["3546. Equal Sum Grid Partition I"]
     Cat0 --> P3548["3548. Equal Sum Grid Partition II"]
     Cat0 --> P2751["2751. Robot Collisions"]
+    Cat0 --> P874["874. Walking Robot Simulation"]
     Cat1 --> P125["125. Valid Palindrome"]
     Cat1 --> P126["126. Word Ladder II"]
     Cat1 --> P127["127. Word Ladder"]
@@ -948,6 +949,7 @@ graph TD
 - [762. Prime Number of Set Bits in Binary Representation](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation)
 - [799. Champagne Tower](./799.%20Champagne%20Tower)
 - [868. Binary Gap](./868.%20Binary%20Gap)
+- [874. Walking Robot Simulation](./874.%20Walking%20Robot%20Simulation)
 - [3379. Transformed Array](./3379.%20Transformed%20Array)
 - [3013. Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II)
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
@@ -1239,6 +1241,9 @@ graph TD
 
 ## Day 92: 2026-04-05
 - [657. Robot Return to Origin](./657.%20Robot%20Return%20to%20Origin)
+
+## Day 93: 2026-04-06
+- [874. Walking Robot Simulation](./874.%20Walking%20Robot%20Simulation)
 
 
 
