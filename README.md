@@ -495,6 +495,7 @@ graph TD
     Cat11 --> P89["89. Gray Code"]
     Cat11 --> P93["93. Restore IP Addresses"]
     Cat13 --> P1622["1622. Fancy Sequence"]
+    Cat13 --> P2069["2069. Walking Robot Simulation II"]
 ```
 
 ## Solved Problems
@@ -749,6 +750,7 @@ graph TD
 - [3129. Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I)
 - [3130. Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II)
 - [1888. Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating)
+- [2069. Walking Robot Simulation II](./2069.%20Walking%20Robot%20Simulation%20II)
 - [2075. Decode the Slanted Ciphertext](./2075.%20Decode%20the%20Slanted%20Ciphertext)
 
 
@@ -1244,6 +1246,9 @@ graph TD
 
 ## Day 93: 2026-04-06
 - [874. Walking Robot Simulation](./874.%20Walking%20Robot%20Simulation)
+
+## Day 94: 2026-04-07
+- [2069. Walking Robot Simulation II](./2069.%20Walking%20Robot%20Simulation%20II)
 
 
 
