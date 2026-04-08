@@ -77,6 +77,7 @@ graph TD
     Cat0 --> P3212["3212. Count Submatrices With Equal Frequency of X and Y"]
     Cat0 --> P3567["3567. Minimum Absolute Difference in Sliding Submatrix"]
     Cat0 --> P3643["3643. Flip Square Submatrix Vertically"]
+    Cat0 --> P3653["3653. XOR After Range Multiplication Queries I"]
     Cat0 --> P2906["2906. Construct Product Matrix"]
     Cat0 --> P2946["2946. Matrix Similarity After Cyclic Shifts"]
     Cat0 --> P3546["3546. Equal Sum Grid Partition I"]
@@ -957,6 +958,7 @@ graph TD
 - [3640. Trionic Array II](./3640.%20Trionic%20Array%20II)
 - [3643. Flip Square Submatrix Vertically](./3643.%20Flip%20Square%20Submatrix%20Vertically)
 - [3650. Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals)
+- [3653. XOR After Range Multiplication Queries I](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I)
 - [3719. Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Subarray%20I)
 - [3721. Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II)
 - [3713. Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I)
@@ -1249,6 +1251,10 @@ graph TD
 
 ## Day 94: 2026-04-07
 - [2069. Walking Robot Simulation II](./2069.%20Walking%20Robot%20Simulation%20II)
+
+## Day 95: 2026-04-08
+- [3653. XOR After Range Multiplication Queries I](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I)
+
 
 
 
