@@ -80,6 +80,7 @@ graph TD
     Cat0 --> P3653["3653. XOR After Range Multiplication Queries I"]
     Cat0 --> P3655["3655. XOR After Range Multiplication Queries II"]
     Cat0 --> P3740["3740. Minimum Distance Between Three Equal Elements I"]
+    Cat0 --> P3741["3741. Minimum Distance Between Three Equal Elements II"]
     Cat0 --> P2906["2906. Construct Product Matrix"]
     Cat0 --> P2946["2946. Matrix Similarity After Cyclic Shifts"]
     Cat0 --> P3546["3546. Equal Sum Grid Partition I"]
@@ -976,6 +977,7 @@ graph TD
 - [3418. Maximum Amount of Money Robot Can Earn](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn)
 - [3661. Maximum Walls Destroyed by Robots](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots)
 - [3740. Minimum Distance Between Three Equal Elements I](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I)
+- [3741. Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II)
 
 
 
@@ -1263,3 +1265,6 @@ graph TD
 
 ## Day 97: 2026-04-10
 - [3740. Minimum Distance Between Three Equal Elements I](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I)
+
+## Day 98: 2026-04-11
+- [3741. Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II)
