@@ -327,6 +327,8 @@ graph TD
     Cat6 --> P1594["1594. Maximum Non Negative Product in a Matrix"]
     Cat6 --> P3418["3418. Maximum Amount of Money Robot Can Earn"]
     Cat6 --> P3661["3661. Maximum Walls Destroyed by Robots"]
+    Cat6 --> P1320["1320. Minimum Distance to Type a Word Using Two Fingers"]
+
 
 
     Cat7 --> P216["216. Combination Sum III"]
@@ -732,6 +734,8 @@ graph TD
 - [2619. Array Prototype Last](./2619.%20Array%20Prototype%20Last)
 - [1022. Sum of Root To Leaf Binary Numbers](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)
 - [1161. Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
+- [1320. Minimum Distance to Type a Word Using Two Fingers](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers)
+
 - [1339. Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)
 - [1356. Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits)
 - [1382. Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree)
@@ -1268,3 +1272,7 @@ graph TD
 
 ## Day 98: 2026-04-11
 - [3741. Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II)
+
+## Day 99: 2026-04-12
+- [1320. Minimum Distance to Type a Word Using Two Fingers](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers)
+
