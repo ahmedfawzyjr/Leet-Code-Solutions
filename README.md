@@ -81,6 +81,7 @@ graph TD
     Cat0 --> P3655["3655. XOR After Range Multiplication Queries II"]
     Cat0 --> P3740["3740. Minimum Distance Between Three Equal Elements I"]
     Cat0 --> P3741["3741. Minimum Distance Between Three Equal Elements II"]
+    Cat0 --> P1848["1848. Minimum Distance to the Target Element"]
     Cat0 --> P2906["2906. Construct Product Matrix"]
     Cat0 --> P2946["2946. Matrix Similarity After Cyclic Shifts"]
     Cat0 --> P3546["3546. Equal Sum Grid Partition I"]
@@ -760,6 +761,7 @@ graph TD
 - [1888. Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating)
 - [2069. Walking Robot Simulation II](./2069.%20Walking%20Robot%20Simulation%20II)
 - [2075. Decode the Slanted Ciphertext](./2075.%20Decode%20the%20Slanted%20Ciphertext)
+- [1848. Minimum Distance to the Target Element](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element)
 
 
 - [225. Implement Stack using Queues](./225.%20Implement%20Stack%20using%20Queues)
@@ -1275,4 +1277,7 @@ graph TD
 
 ## Day 99: 2026-04-12
 - [1320. Minimum Distance to Type a Word Using Two Fingers](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers)
+
+## Day 100: 2026-04-13
+- [1848. Minimum Distance to the Target Element](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element)
 
