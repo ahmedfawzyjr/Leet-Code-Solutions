@@ -328,7 +328,9 @@ graph TD
     Cat6 --> P1594["1594. Maximum Non Negative Product in a Matrix"]
     Cat6 --> P3418["3418. Maximum Amount of Money Robot Can Earn"]
     Cat6 --> P3661["3661. Maximum Walls Destroyed by Robots"]
+    Cat6 --> P2463["2463. Minimum Total Distance Traveled"]
     Cat6 --> P1320["1320. Minimum Distance to Type a Word Using Two Fingers"]
+
 
 
 
@@ -1281,3 +1283,5 @@ graph TD
 ## Day 100: 2026-04-13
 - [1848. Minimum Distance to the Target Element](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element)
 
+## Day 101: 2026-04-14
+- [2463. Minimum Total Distance Traveled](./2463.%20Minimum%20Total%20Distance%20Traveled)
