@@ -82,6 +82,7 @@ graph TD
     Cat0 --> P3740["3740. Minimum Distance Between Three Equal Elements I"]
     Cat0 --> P3741["3741. Minimum Distance Between Three Equal Elements II"]
     Cat0 --> P1848["1848. Minimum Distance to the Target Element"]
+    Cat0 --> P2515["2515. Shortest Distance to Target String in a Circular Array"]
     Cat0 --> P2906["2906. Construct Product Matrix"]
     Cat0 --> P2946["2946. Matrix Similarity After Cyclic Shifts"]
     Cat0 --> P3546["3546. Equal Sum Grid Partition I"]
@@ -748,6 +749,7 @@ graph TD
 - [1545. Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String)
 - [1582. Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix)
 - [1594. Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix)
+- [2515. Shortest Distance to Target String in a Circular Array](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array)
 - [2840. Check if Strings Can Be Made Equal With Operations II](./2840.%20Check%20if%20Strings%20Can%20Be%20Made%20Equal%20With%20Operations%20II)
 - [2906. Construct Product Matrix](./2906.%20Construct%20Product%20Matrix)
 - [2946. Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts)
