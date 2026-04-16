@@ -81,6 +81,7 @@ graph TD
     Cat0 --> P3655["3655. XOR After Range Multiplication Queries II"]
     Cat0 --> P3740["3740. Minimum Distance Between Three Equal Elements I"]
     Cat0 --> P3741["3741. Minimum Distance Between Three Equal Elements II"]
+    Cat0 --> P3488["3488. Closest Equal Element Queries"]
     Cat0 --> P1848["1848. Minimum Distance to the Target Element"]
     Cat0 --> P2515["2515. Shortest Distance to Target String in a Circular Array"]
     Cat0 --> P2906["2906. Construct Product Matrix"]
@@ -988,6 +989,7 @@ graph TD
 - [3661. Maximum Walls Destroyed by Robots](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots)
 - [3740. Minimum Distance Between Three Equal Elements I](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I)
 - [3741. Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II)
+- [3488. Closest Equal Element Queries](./3488.%20Closest%20Equal%20Element%20Queries)
 
 
 
@@ -1287,3 +1289,6 @@ graph TD
 
 ## Day 101: 2026-04-14
 - [2463. Minimum Total Distance Traveled](./2463.%20Minimum%20Total%20Distance%20Traveled)
+
+## Day 103: 2026-04-16
+- [3488. Closest Equal Element Queries](./3488.%20Closest%20Equal%20Element%20Queries)
