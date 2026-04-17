@@ -219,8 +219,8 @@ graph TD
     Cat2 --> P85["85. Maximal Rectangle"]
     Cat2 --> P868["868. Binary Gap"]
     Cat2 --> P1404["1404. Number of Steps to Reduce a Number in Binary Representation to One"]
-    Cat2 --> P1680["1680. Concatenation of Consecutive Binary Numbers"]
     Cat2 --> P1689["1689. Partitioning Into Minimum Number Of Deci-Binary Numbers"]
+    Cat2 --> P3761["3761. Minimum Absolute Distance Between Mirror Pairs"]
 
     Cat3 --> P138["138. Copy List with Random Pointer"]
     Cat3 --> P141["141. Linked List Cycle"]
@@ -989,6 +989,7 @@ graph TD
 - [3661. Maximum Walls Destroyed by Robots](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots)
 - [3740. Minimum Distance Between Three Equal Elements I](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I)
 - [3741. Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II)
+- [3761. Minimum Absolute Distance Between Mirror Pairs](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs)
 - [3488. Closest Equal Element Queries](./3488.%20Closest%20Equal%20Element%20Queries)
 
 
@@ -1292,3 +1293,6 @@ graph TD
 
 ## Day 103: 2026-04-16
 - [3488. Closest Equal Element Queries](./3488.%20Closest%20Equal%20Element%20Queries)
+
+## Day 104: 2026-04-17
+- [3761. Minimum Absolute Distance Between Mirror Pairs](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs)
