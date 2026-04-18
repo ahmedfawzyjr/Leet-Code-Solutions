@@ -252,6 +252,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1009 | [Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer) | Easy |
 | 1390 | [Four Divisors](./1390.%20Four%20Divisors) | Medium |
 | 1680 | [Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers) | Medium |
+| 3783 | [Mirror Distance of an Integer](./3783.%20Mirror%20Distance%20of%20an%20Integer) | Easy |
 
 ---
 
@@ -584,7 +585,7 @@ LeetCode Solutions
 │   ├── Calculator: 224, 227
 │   └── Binary String: 67, 190, 191, 693, 868, 1009, 1404, 1545, 1758
 │
-├── Math & Bit Manipulation (64 problems)
+├── Math & Bit Manipulation (65 problems)
 │   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342
 │   ├── Bitwise: 136, 137, 191, 201, 260, 338, 371, 421, 461, 476, 477
 │   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258
@@ -709,3 +710,4 @@ LeetCode Solutions
 | 101 | 2026-04-14 | 2463 |
 | 103 | 2026-04-16 | 3488 |
 | 104 | 2026-04-17 | 3761 |
+| 105 | 2026-04-18 | 3783 |
