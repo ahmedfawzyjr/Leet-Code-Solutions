@@ -68,7 +68,6 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1727 | [Largest Submatrix With Rearrangements](./1727.%20Largest%20Submatrix%20With%20Rearrangements) | Medium |
 | 1848 | [Minimum Distance to the Target Element](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element) | Easy |
 | 1855 | [Maximum Distance Between a Pair of Values](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values) | Medium |
-
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid) | Medium |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | Easy |
 | 1975 | [Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum) | Medium |
