@@ -360,6 +360,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 403 | [Frog Jump](./403.%20Frog%20Jump) | Hard |
 | 417 | [Pacific Atlantic Water Flow](./417.%20Pacific%20Atlantic%20Water%20Flow) | Medium |
 | 433 | [Minimum Genetic Mutation](./433.%20Minimum%20Genetic%20Mutation) | Medium |
+| 1722 | [Minimize Hamming Distance After Swap Operations](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations) | Medium |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades) | Hard |
 | 3650 | [Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals) | Hard |
 
@@ -605,10 +606,10 @@ LeetCode Solutions
 │   ├── Path: 112, 113, 124, 129, 257, 404, 437
 │   └── Special: 100, 101, 104, 110, 111, 226, 297, 1339
 │
-├── Graphs (15 problems)
+├── Graphs (16 problems)
 │   ├── BFS/DFS: 130, 133, 200, 207, 210, 305, 417
 │   ├── Shortest Path: 127, 126, 317, 3650
-│   └── Special: 332, 399, 403, 3600
+│   └── Special: 332, 399, 403, 1722, 3600
 │
 ├── Dynamic Programming (51 problems)
 │   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322
@@ -715,3 +716,4 @@ LeetCode Solutions
 | 105 | 2026-04-18 | 3783 |
 | 106 | 2026-04-19 | 1855 |
 | 107 | 2026-04-20 | 2078 |
+| 108 | 2026-04-21 | 1722 |
