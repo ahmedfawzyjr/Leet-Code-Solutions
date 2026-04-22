@@ -177,6 +177,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating) | Medium |
 | 1980 | [Find Unique Binary String](./1980.%20Find%20Unique%20Binary%20String) | Medium |
 | 2075 | [Decode the Slanted Ciphertext](./2075.%20Decode%20the%20Slanted%20Ciphertext) | Medium |
+| 2452 | [Words Within Two Edits of Dictionary](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary) | Medium |
 | 2573 | [Find the String with LCP](./2573.%20Find%20the%20String%20with%20LCP) | Hard |
 | 2840 | [Check if Strings Can Be Made Equal With Operations II](./2840.%20Check%20if%20Strings%20Can%20Be%20Made%20Equal%20With%20Operations%20II) | Medium |
 | 2977 | [Minimum Cost to Convert String II](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II) | Hard |
