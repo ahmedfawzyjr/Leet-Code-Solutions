@@ -74,6 +74,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2078 | [Two Furthest Houses With Different Colors](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors) | Easy |
 | 2463 | [Minimum Total Distance Traveled](./2463.%20Minimum%20Total%20Distance%20Traveled) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array) | Easy |
+| 2615 | [Sum of Distances](./2615.%20Sum%20of%20Distances) | Medium |
 | 2751 | [Robot Collisions](./2751.%20Robot%20Collisions) | Hard |
 | 2906 | [Construct Product Matrix](./2906.%20Construct%20Product%20Matrix) | Medium |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts) | Easy |
