@@ -82,6 +82,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y) | Medium |
 | 3379 | [Transformed Array](./3379.%20Transformed%20Array) | Easy |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn) | Hard |
+| 3464 | [Maximize the Distance Between Points on a Square](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square) | Hard |
 | 3488 | [Closest Equal Element Queries](./3488.%20Closest%20Equal%20Element%20Queries) | Medium |
 | 3546 | [Equal Sum Grid Partition I](./3546.%20Equal%20Sum%20Grid%20Partition%20I) | Easy |
 | 3548 | [Equal Sum Grid Partition II](./3548.%20Equal%20Sum%20Grid%20Partition%20II) | Hard |
@@ -479,6 +480,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 480 | [Sliding Window Median](./480.%20Sliding%20Window%20Median) | Hard |
 | 215 | [Kth Largest Element in an Array](./215.%20Kth%20Largest%20Element%20in%20an%20Array) | Medium |
 | 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero) | Hard |
+| 3464 | [Maximize the Distance Between Points on a Square](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square) | Hard |
 
 ---
 
@@ -630,7 +632,7 @@ LeetCode Solutions
 │
 ├── Binary Search & Sorting (26 problems)
 │   ├── Basic Binary Search: 33, 34, 35, 74, 81, 153, 154
-│   ├── Answer Binary Search: 278, 374, 410, 3296
+│   ├── Answer Binary Search: 278, 374, 410, 3296, 3464
 │   └── Sorting: 75, 88, 147, 148, 215, 451
 │
 ├── Stack & Queue (12 problems)
@@ -720,3 +722,4 @@ LeetCode Solutions
 | 106 | 2026-04-19 | 1855 |
 | 107 | 2026-04-20 | 2078 |
 | 108 | 2026-04-21 | 1722 |
+| 112 | 2026-04-25 | 3464 |
