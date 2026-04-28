@@ -71,6 +71,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid) | Medium |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | Easy |
 | 1975 | [Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum) | Medium |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid) | Medium |
 | 2078 | [Two Furthest Houses With Different Colors](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors) | Easy |
 | 2463 | [Minimum Total Distance Traveled](./2463.%20Minimum%20Total%20Distance%20Traveled) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array) | Easy |
@@ -578,7 +579,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (78 problems)
+├── Arrays & Hashing (79 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
@@ -723,3 +724,4 @@ LeetCode Solutions
 | 107 | 2026-04-20 | 2078 |
 | 108 | 2026-04-21 | 1722 |
 | 112 | 2026-04-25 | 3464 |
+| 113 | 2026-04-28 | 2033 |
