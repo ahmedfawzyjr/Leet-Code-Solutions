@@ -81,6 +81,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2946 | [Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts) | Easy |
 | 3070 | [Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k) | Medium |
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y) | Medium |
+| 3225 | [Maximum Score From Grid Operations](./3225.%20Maximum%20Score%20From%20Grid%20Operations) | Hard |
 | 3379 | [Transformed Array](./3379.%20Transformed%20Array) | Easy |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn) | Hard |
 | 3464 | [Maximize the Distance Between Points on a Square](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square) | Hard |
@@ -583,7 +584,7 @@ LeetCode Solutions
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
-│   ├── Matrix: 54, 59, 73, 85, 130, 200, 1727, 1886, 2946
+│   ├── Matrix: 54, 59, 73, 85, 130, 200, 1727, 1886, 2946, 3225
 │   └── Intervals: 56, 57, 228, 352, 435, 452
 │
 ├── Strings (84 problems)
@@ -622,7 +623,7 @@ LeetCode Solutions
 │   ├── 2D DP: 10, 44, 64, 72, 85, 115, 120, 123, 174, 221
 │   ├── Interval DP: 87, 96, 312, 375
 │   ├── Stock DP: 121, 122, 123, 188, 309
-│   └── Advanced: 329, 354, 446, 3129, 3130
+│   └── Advanced: 329, 354, 446, 3129, 3130, 3225
 │
 ├── Backtracking (18 problems)
 │   ├── Permutations: 31, 46, 47, 60
@@ -725,3 +726,4 @@ LeetCode Solutions
 | 108 | 2026-04-21 | 1722 |
 | 112 | 2026-04-25 | 3464 |
 | 113 | 2026-04-28 | 2033 |
+| 114 | 2026-04-29 | 3225 |
