@@ -97,6 +97,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3721 | [Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II) | Hard |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I) | Easy |
 | 3741 | [Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II) | Medium |
+| 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
 
 ---
 
@@ -426,6 +427,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II) | Hard |
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
 | 3130 | [Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II) | Hard |
+| 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
 
 ---
 
@@ -580,11 +582,11 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (79 problems)
+├── Arrays & Hashing (80 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
-│   ├── Matrix: 54, 59, 73, 85, 130, 200, 1727, 1886, 2946, 3225
+│   ├── Matrix: 54, 59, 73, 85, 130, 200, 1727, 1886, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452
 │
 ├── Strings (84 problems)
@@ -618,12 +620,12 @@ LeetCode Solutions
 │   ├── Shortest Path: 127, 126, 317, 3650
 │   └── Special: 332, 399, 403, 1722, 3600
 │
-├── Dynamic Programming (51 problems)
+├── Dynamic Programming (52 problems)
 │   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322
 │   ├── 2D DP: 10, 44, 64, 72, 85, 115, 120, 123, 174, 221
 │   ├── Interval DP: 87, 96, 312, 375
 │   ├── Stock DP: 121, 122, 123, 188, 309
-│   └── Advanced: 329, 354, 446, 3129, 3130, 3225
+│   └── Advanced: 329, 354, 446, 3129, 3130, 3225, 3742
 │
 ├── Backtracking (18 problems)
 │   ├── Permutations: 31, 46, 47, 60
@@ -727,3 +729,4 @@ LeetCode Solutions
 | 112 | 2026-04-25 | 3464 |
 | 113 | 2026-04-28 | 2033 |
 | 114 | 2026-04-29 | 3225 |
+| 115 | 2026-04-30 | 3742 |
