@@ -52,6 +52,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 349 | [Intersection of Two Arrays](./349.%20Intersection%20of%20Two%20Arrays) | Easy |
 | 350 | [Intersection of Two Arrays II](./350.%20Intersection%20of%20Two%20Arrays%20II) | Easy |
 | 352 | [Data Stream as Disjoint Intervals](./352.%20Data%20Stream%20as%20Disjoint%20Intervals) | Hard |
+| 396 | [Rotate Function](./396.%20Rotate%20Function) | Medium |
 | 410 | [Split Array Largest Sum](./410.%20Split%20Array%20Largest%20Sum) | Hard |
 | 435 | [Non-overlapping Intervals](./435.%20Non-overlapping%20Intervals) | Medium |
 | 442 | [Find All Duplicates in an Array](./442.%20Find%20All%20Duplicates%20in%20an%20Array) | Medium |
@@ -582,7 +583,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (80 problems)
+├── Arrays & Hashing (81 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
@@ -730,3 +731,4 @@ LeetCode Solutions
 | 113 | 2026-04-28 | 2033 |
 | 114 | 2026-04-29 | 3225 |
 | 115 | 2026-04-30 | 3742 |
+| 116 | 2026-05-01 | 396 |
