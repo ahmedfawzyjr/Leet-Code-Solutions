@@ -12,3 +12,15 @@ class Solution:
             max_val = max(max_val, f)
             
         return max_val
+
+if __name__ == "__main__":
+    sol = Solution()
+    
+    # Example 1
+    nums1 = [4,3,2,6]
+    print(f"Test 1: {sol.maxRotateFunction(nums1)} (Expected: 26)")
+    
+    # Example 2
+    nums2 = [100]
+    print(f"Test 2: {sol.maxRotateFunction(nums2)} (Expected: 0)")
+

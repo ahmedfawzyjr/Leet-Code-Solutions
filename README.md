@@ -258,6 +258,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 483 | [Smallest Good Base](./483.%20Smallest%20Good%20Base) | Hard |
 | 693 | [Binary Number with Alternating Bits](./693.%20Binary%20Number%20with%20Alternating%20Bits) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation) | Easy |
+| 788 | [Rotated Digits](./788.%20Rotated%20Digits) | Medium |
 | 868 | [Binary Gap](./868.%20Binary%20Gap) | Easy |
 | 1009 | [Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer) | Easy |
 | 1390 | [Four Divisors](./1390.%20Four%20Divisors) | Medium |
@@ -598,10 +599,10 @@ LeetCode Solutions
 │   ├── Calculator: 224, 227
 │   └── Binary String: 67, 190, 191, 693, 868, 1009, 1404, 1545, 1758
 │
-├── Math & Bit Manipulation (65 problems)
+├── Math & Bit Manipulation (66 problems)
 │   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342
 │   ├── Bitwise: 136, 137, 191, 201, 260, 338, 371, 421, 461, 476, 477
-│   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258
+│   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258, 788
 │
 ├── Linked Lists (26 problems)
 │   ├── Traversal: 2, 19, 141, 160, 203
@@ -732,3 +733,4 @@ LeetCode Solutions
 | 114 | 2026-04-29 | 3225 |
 | 115 | 2026-04-30 | 3742 |
 | 116 | 2026-05-01 | 396 |
+| 117 | 2026-05-02 | 788 |
