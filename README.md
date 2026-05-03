@@ -172,6 +172,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 481 | [Magical String](./481.%20Magical%20String) | Medium |
 | 657 | [Robot Return to Origin](./657.%20Robot%20Return%20to%20Origin) | Easy |
 | 696 | [Count Binary Substrings](./696.%20Count%20Binary%20Substrings) | Easy |
+| 796 | [Rotate String](./796.%20Rotate%20String) | Easy |
 | 761 | [Special Binary String](./761.%20Special%20Binary%20String) | Hard |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One) | Medium |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n) | Medium |
@@ -591,7 +592,7 @@ LeetCode Solutions
 │   ├── Matrix: 54, 59, 73, 85, 130, 200, 1727, 1886, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452
 │
-├── Strings (84 problems)
+├── Strings (85 problems)
 │   ├── Parsing: 8, 65, 166, 273, 385, 394, 468
 │   ├── Palindrome: 5, 9, 125, 131, 132, 214, 336, 409
 │   ├── Pattern Matching: 10, 44, 28, 459, 290
@@ -734,3 +735,4 @@ LeetCode Solutions
 | 115 | 2026-04-30 | 3742 |
 | 116 | 2026-05-01 | 396 |
 | 117 | 2026-05-02 | 788 |
+| 118 | 2026-05-03 | 796 |
