@@ -22,6 +22,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 26 | [Remove Duplicates from Sorted Array](./26.%20Remove%20Duplicates%20from%20Sorted%20Array) | Easy |
 | 27 | [Remove Element](./27.%20Remove%20Element) | Easy |
 | 41 | [First Missing Positive](./41.%20First%20Missing%20Positive) | Hard |
+| 48 | [Rotate Image](./48.%20Rotate%20Image) | Medium |
 | 54 | [Spiral Matrix](./54.%20Spiral%20Matrix) | Medium |
 | 56 | [Merge Intervals](./56.%20Merge%20Intervals) | Medium |
 | 57 | [Insert Interval](./57.%20Insert%20Interval) | Medium |
@@ -589,7 +590,7 @@ LeetCode Solutions
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
-│   ├── Matrix: 54, 59, 73, 85, 130, 200, 1727, 1886, 2946, 3225, 3742
+│   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1886, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452
 │
 ├── Strings (85 problems)
@@ -736,3 +737,5 @@ LeetCode Solutions
 | 116 | 2026-05-01 | 396 |
 | 117 | 2026-05-02 | 788 |
 | 118 | 2026-05-03 | 796 |
+| 119 | 2026-05-04 | 48 |
+
