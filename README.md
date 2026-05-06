@@ -70,6 +70,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1727 | [Largest Submatrix With Rearrangements](./1727.%20Largest%20Submatrix%20With%20Rearrangements) | Medium |
 | 1848 | [Minimum Distance to the Target Element](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element) | Easy |
 | 1855 | [Maximum Distance Between a Pair of Values](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values) | Medium |
+| 1861 | [Rotating the Box](./1861.%20Rotating%20the%20Box) | Medium |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid) | Medium |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | Easy |
 | 1975 | [Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum) | Medium |
@@ -586,11 +587,11 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (81 problems)
+├── Arrays & Hashing (82 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
-│   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1886, 2946, 3225, 3742
+│   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452
 │
 ├── Strings (85 problems)
@@ -739,4 +740,4 @@ LeetCode Solutions
 | 118 | 2026-05-03 | 796 |
 | 119 | 2026-05-04 | 48 |
 | 120 | 2026-05-05 | 61 |
-
+| 121 | 2026-05-06 | 1861 |
