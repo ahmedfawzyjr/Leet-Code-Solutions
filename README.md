@@ -101,6 +101,8 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3740 | [Minimum Distance Between Three Equal Elements I](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I) | Easy |
 | 3741 | [Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II) | Medium |
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
+| 3660 | [Jump Game IX](./3660.%20Jump%20Game%20IX) | Medium |
+
 
 ---
 
@@ -587,7 +589,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (82 problems)
+├── Arrays & Hashing (83 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
@@ -741,3 +743,5 @@ LeetCode Solutions
 | 119 | 2026-05-04 | 48 |
 | 120 | 2026-05-05 | 61 |
 | 121 | 2026-05-06 | 1861 |
+| 122 | 2026-05-07 | 3660 |
+
