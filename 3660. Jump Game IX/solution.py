@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution:
-    def jumpGameIX(self, nums: List[int]) -> List[int]:
+    def maxValue(self, nums: List[int]) -> List[int]:
         """
         Find the maximum value reachable from each index i.
         
@@ -53,12 +53,12 @@ if __name__ == "__main__":
     
     # Example 1
     nums1 = [2, 1, 3]
-    print(sol.jumpGameIX(nums1))  # Output: [2, 2, 3]
+    print(sol.maxValue(nums1))  # Output: [2, 2, 3]
     
     # Example 2
     nums2 = [2, 3, 1]
-    print(sol.jumpGameIX(nums2))  # Output: [3, 3, 3]
+    print(sol.maxValue(nums2))  # Output: [3, 3, 3]
     
     # Custom Example
     nums3 = [2, 3, 3, 1]
-    print(sol.jumpGameIX(nums3))  # Output: [3, 3, 3, 3]
+    print(sol.maxValue(nums3))  # Output: [3, 3, 3, 3]
