@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 500+
+- **Total Problems Solved**: 501+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -102,6 +102,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3741 | [Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II) | Medium |
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
 | 3660 | [Jump Game IX](./3660.%20Jump%20Game%20IX) | Medium |
+| 3629 | [Minimum Jumps to Reach End via Prime Teleportation](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation) | Medium |
 
 
 ---
@@ -589,7 +590,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (83 problems)
+├── Arrays & Hashing (84 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
@@ -622,9 +623,9 @@ LeetCode Solutions
 │   ├── Path: 112, 113, 124, 129, 257, 404, 437
 │   └── Special: 100, 101, 104, 110, 111, 226, 297, 1339
 │
-├── Graphs (16 problems)
+├── Graphs (17 problems)
 │   ├── BFS/DFS: 130, 133, 200, 207, 210, 305, 417
-│   ├── Shortest Path: 127, 126, 317, 3650
+│   ├── Shortest Path: 127, 126, 317, 3650, 3629
 │   └── Special: 332, 399, 403, 1722, 3600
 │
 ├── Dynamic Programming (52 problems)
@@ -744,4 +745,5 @@ LeetCode Solutions
 | 120 | 2026-05-05 | 61 |
 | 121 | 2026-05-06 | 1861 |
 | 122 | 2026-05-07 | 3660 |
+| 123 | 2026-05-08 | 3629 |
 
