@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 501+
+- **Total Problems Solved**: 502+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -73,6 +73,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1861 | [Rotating the Box](./1861.%20Rotating%20the%20Box) | Medium |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid) | Medium |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | Easy |
+| 1914 | [Cyclically Rotating a Grid](./1914.%20Cyclically%20Rotating%20a%20Grid) | Medium |
 | 1975 | [Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum) | Medium |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid) | Medium |
 | 2078 | [Two Furthest Houses With Different Colors](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors) | Easy |
@@ -594,7 +595,7 @@ LeetCode Solutions
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
-│   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 2946, 3225, 3742
+│   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 1914, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452
 │
 ├── Strings (85 problems)
@@ -746,4 +747,5 @@ LeetCode Solutions
 | 121 | 2026-05-06 | 1861 |
 | 122 | 2026-05-07 | 3660 |
 | 123 | 2026-05-08 | 3629 |
+| 124 | 2026-05-09 | 1914 |
 
