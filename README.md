@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 502+
+- **Total Problems Solved**: 503+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -104,7 +104,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
 | 3660 | [Jump Game IX](./3660.%20Jump%20Game%20IX) | Medium |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation) | Medium |
-
+| 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) | Medium |
 
 ---
 
@@ -437,6 +437,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
 | 3130 | [Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II) | Hard |
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
+| 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) | Medium |
 
 ---
 
@@ -748,4 +749,4 @@ LeetCode Solutions
 | 122 | 2026-05-07 | 3660 |
 | 123 | 2026-05-08 | 3629 |
 | 124 | 2026-05-09 | 1914 |
-
+| 125 | 2026-05-10 | 2770 |
