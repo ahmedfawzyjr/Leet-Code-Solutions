@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 503+
+- **Total Problems Solved**: 504+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -105,6 +105,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3660 | [Jump Game IX](./3660.%20Jump%20Game%20IX) | Medium |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation) | Medium |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) | Medium |
+| 2553 | [Separate the Digits in an Array](./2553.%20Separate%20the%20Digits%20in%20an%20Array) | Easy |
 
 ---
 
@@ -592,7 +593,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (84 problems)
+├── Arrays & Hashing (85 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
@@ -750,3 +751,4 @@ LeetCode Solutions
 | 123 | 2026-05-08 | 3629 |
 | 124 | 2026-05-09 | 1914 |
 | 125 | 2026-05-10 | 2770 |
+| 126 | 2026-05-11 | 2553 |
