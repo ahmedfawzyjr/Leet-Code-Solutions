@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 504+
+- **Total Problems Solved**: 505+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -530,6 +530,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 452 | [Minimum Number of Arrows to Burst Balloons](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons) | Medium |
 | 455 | [Assign Cookies](./455.%20Assign%20Cookies) | Easy |
 | 475 | [Heaters](./475.%20Heaters) | Medium |
+| 1665 | [Minimum Initial Energy to Finish Tasks](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks) | Hard |
 
 ---
 
@@ -752,3 +753,4 @@ LeetCode Solutions
 | 124 | 2026-05-09 | 1914 |
 | 125 | 2026-05-10 | 2770 |
 | 126 | 2026-05-11 | 2553 |
+| 127 | 2026-05-12 | 1665 |
