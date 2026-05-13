@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 505+
+- **Total Problems Solved**: 506+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -106,6 +106,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation) | Medium |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) | Medium |
 | 2553 | [Separate the Digits in an Array](./2553.%20Separate%20the%20Digits%20in%20an%20Array) | Easy |
+| 1674 | [Minimum Moves to Make Array Complementary](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary) | Medium |
 
 ---
 
@@ -594,10 +595,10 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (85 problems)
+├── Arrays & Hashing (86 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
-│   ├── Prefix Sum: 303, 304, 307, 308, 327, 3070, 3212
+│   ├── Prefix Sum: 303, 304, 307, 308, 327, 1674, 3070, 3212
 │   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 1914, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452
 │
@@ -754,3 +755,4 @@ LeetCode Solutions
 | 125 | 2026-05-10 | 2770 |
 | 126 | 2026-05-11 | 2553 |
 | 127 | 2026-05-12 | 1665 |
+| 128 | 2026-05-13 | 1674 |
