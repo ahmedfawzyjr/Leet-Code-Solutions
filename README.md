@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 507+
+- **Total Problems Solved**: 508+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -97,8 +97,8 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3643 | [Flip Square Submatrix Vertically](./3643.%20Flip%20Square%20Submatrix%20Vertically) | Medium |
 | 3653 | [XOR After Range Multiplication Queries I](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I) | Medium |
 | 3655 | [XOR After Range Multiplication Queries II](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II) | Hard |
-| 3719 | [Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Subarray%20I) | Medium |
-| 3721 | [Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II) | Hard |
+| 3719 | [Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Substring%20I) | Medium |
+| 3721 | [Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Substring%20II) | Hard |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I) | Easy |
 | 3741 | [Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II) | Medium |
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
@@ -397,7 +397,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 63 | [Unique Paths II](./63.%20Unique%20Paths%20II) | Medium |
 | 64 | [Minimum Path Sum](./64.%20Minimum%20Path%20Sum) | Medium |
 | 70 | [Climbing Stairs](./70.%20Climbing%20Stairs) | Easy |
-| 72 | [Edit Distance](./72.%20Edit%20Distance) | Medium |
+| 400 | [Edit Distance](./72.%20Edit%20Distance) | Medium |
 | 85 | [Maximal Rectangle](./85.%20Maximal%20Rectangle) | Hard |
 | 96 | [Unique Binary Search Trees](./96.%20Unique%20Binary%20Search%20Trees) | Medium |
 | 115 | [Distinct Subsequences](./115-Distinct-Subsequences) | Hard |
@@ -758,3 +758,4 @@ LeetCode Solutions
 | 127 | 2026-05-12 | 1665 |
 | 128 | 2026-05-13 | 1674 |
 | 129 | 2026-05-14 | 2784 |
+| 130 | 2026-05-15 | 153 |
