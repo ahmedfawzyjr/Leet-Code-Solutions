@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 510+
+- **Total Problems Solved**: 511+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -110,6 +110,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2553 | [Separate the Digits in an Array](./2553.%20Separate%20the%20Digits%20in%20an%20Array) | Easy |
 | 1674 | [Minimum Moves to Make Array Complementary](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary) | Medium |
 | 2784 | [Check if Array is Good](./2784.%20Check%20if%20Array%20is%20Good) | Easy |
+| 3043 | [Find the Length of the Longest Common Prefix](./3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix) | Medium |
 
 ---
 
