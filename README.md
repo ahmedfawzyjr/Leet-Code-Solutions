@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 511+
+- **Total Problems Solved**: 512+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -68,6 +68,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid) | Medium |
 | 1582 | [Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix) | Easy |
 | 1727 | [Largest Submatrix With Rearrangements](./1727.%20Largest%20Submatrix%20With%20Rearrangements) | Medium |
+| 1752 | [Check if Array Is Sorted and Rotated](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated) | Easy |
 | 1848 | [Minimum Distance to the Target Element](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element) | Easy |
 | 1855 | [Maximum Distance Between a Pair of Values](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values) | Medium |
 | 1861 | [Rotating the Box](./1861.%20Rotating%20the%20Box) | Medium |
