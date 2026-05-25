@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 513+
+- **Total Problems Solved**: 514+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -72,6 +72,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1848 | [Minimum Distance to the Target Element](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element) | Easy |
 | 1855 | [Maximum Distance Between a Pair of Values](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values) | Medium |
 | 1861 | [Rotating the Box](./1861.%20Rotating%20the%20Box) | Medium |
+| 1871 | [Jump Game VII](./1871.%20Jump%20Game%20VII) | Medium |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid) | Medium |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | Easy |
 | 1914 | [Cyclically Rotating a Grid](./1914.%20Cyclically%20Rotating%20a%20Grid) | Medium |
