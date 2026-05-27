@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 515+
+- **Total Problems Solved**: 516+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -204,6 +204,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2840 | [Check if Strings Can Be Made Equal With Operations II](./2840.%20Check%20if%20Strings%20Can%20Be%20Made%20Equal%20With%20Operations%20II) | Medium |
 | 2977 | [Minimum Cost to Convert String II](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II) | Hard |
 | 3120 | [Count the Number of Special Characters I](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I) | Easy |
+| 3121 | [Count the Number of Special Characters II](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II) | Medium |
 | 3474 | [Lexicographically Smallest Generated String](./3474.%20Lexicographically%20Smallest%20Generated%20String) | Hard |
 | 3713 | [Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I) | Medium |
 | 3714 | [Longest Balanced Substring II](./3714.%20Longest%20Balanced%20Substring%20II) | Hard |
