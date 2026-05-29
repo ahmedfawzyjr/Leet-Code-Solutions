@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 517+
+- **Total Problems Solved**: 518+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -281,6 +281,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1009 | [Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer) | Easy |
 | 1390 | [Four Divisors](./1390.%20Four%20Divisors) | Medium |
 | 1680 | [Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers) | Medium |
+| 3300 | [Minimum Element After Replacement With Digit Sum](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) | Easy |
 | 3783 | [Mirror Distance of an Integer](./3783.%20Mirror%20Distance%20of%20an%20Integer) | Easy |
 
 ---
