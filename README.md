@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 518+
+- **Total Problems Solved**: 519+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -88,6 +88,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2906 | [Construct Product Matrix](./2906.%20Construct%20Product%20Matrix) | Medium |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts) | Easy |
 | 3070 | [Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k) | Medium |
+| 3161 | [Block Placement Queries](./3161.%20Block%20Placement%20Queries) | Hard |
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y) | Medium |
 | 3225 | [Maximum Score From Grid Operations](./3225.%20Maximum%20Score%20From%20Grid%20Operations) | Hard |
 | 3379 | [Transformed Array](./3379.%20Transformed%20Array) | Easy |
