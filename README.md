@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 519+
+- **Total Problems Solved**: 520+
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -546,6 +546,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 455 | [Assign Cookies](./455.%20Assign%20Cookies) | Easy |
 | 475 | [Heaters](./475.%20Heaters) | Medium |
 | 1665 | [Minimum Initial Energy to Finish Tasks](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks) | Hard |
+| 2126 | [Destroying Asteroids](./2126.%20Destroying%20Asteroids) | Medium |
 
 ---
 
@@ -667,7 +668,7 @@ LeetCode Solutions
 │   └── Sorting: 75, 88, 147, 148, 215, 451
 │
 ├── Stack & Queue (12 problems)
-├── Greedy (10 problems)
+├── Greedy (11 problems)
 ├── Design (14 problems)
 ├── Database/SQL (13 problems)
 ├── Shell (4 problems)
