@@ -547,6 +547,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 475 | [Heaters](./475.%20Heaters) | Medium |
 | 1665 | [Minimum Initial Energy to Finish Tasks](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks) | Hard |
 | 2126 | [Destroying Asteroids](./2126.%20Destroying%20Asteroids) | Medium |
+| 2144 | [Minimum Cost of Buying Candies With Discount](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount) | Easy |
 
 ---
 
