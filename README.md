@@ -81,6 +81,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2078 | [Two Furthest Houses With Different Colors](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors) | Easy |
 | 2463 | [Minimum Total Distance Traveled](./2463.%20Minimum%20Total%20Distance%20Traveled) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array) | Easy |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I) | Easy |
 | 2540 | [Minimum Common Value](./2540.%20Minimum%20Common%20Value) | Easy |
 | 2615 | [Sum of Distances](./2615.%20Sum%20of%20Distances) | Medium |
 | 2657 | [Find the Prefix Common Array of Two Arrays](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays) | Medium |
