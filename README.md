@@ -286,6 +286,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1680 | [Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers) | Medium |
 | 3300 | [Minimum Element After Replacement With Digit Sum](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) | Easy |
 | 3783 | [Mirror Distance of an Integer](./3783.%20Mirror%20Distance%20of%20an%20Integer) | Easy |
+| 3751 | [Total Waviness of Numbers in Range I](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I) | Medium |
 
 ---
 
