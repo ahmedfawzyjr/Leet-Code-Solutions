@@ -79,6 +79,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1975 | [Maximum Matrix Sum](./1975.%20Maximum%20Matrix%20Sum) | Medium |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid) | Medium |
 | 2078 | [Two Furthest Houses With Different Colors](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors) | Easy |
+| 2161 | [Partition Array According to Given Pivot](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot) | Medium |
 | 2463 | [Minimum Total Distance Traveled](./2463.%20Minimum%20Total%20Distance%20Traveled) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array) | Easy |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I) | Easy |
@@ -617,8 +618,8 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (89 problems)
-│   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283, 2540, 2657
+├── Arrays & Hashing (90 problems)
+│   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283, 2161, 2540, 2657
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 1674, 3070, 3212
 │   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 1914, 2946, 3225, 3742
@@ -784,3 +785,4 @@ LeetCode Solutions
 | 132 | 2026-05-18 | 1345 |
 | 133 | 2026-05-19 | 2540 |
 | 134 | 2026-05-20 | 2657 |
+| 135 | 2026-06-08 | 2161 |
