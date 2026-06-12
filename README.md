@@ -164,6 +164,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 214 | [Shortest Palindrome](./214.%20Shortest%20Palindrome) | Hard |
 | 224 | [Basic Calculator](./224.%20Basic%20Calculator) | Hard |
 | 227 | [Basic Calculator II](./227.%20Basic%20Calculator%20II) | Medium |
+| 770 | [Basic Calculator IV](./770.%20Basic%20Calculator%20IV) | Hard |
 | 242 | [Valid Anagram](./242.%20Valid%20Anagram) | Easy |
 | 273 | [Integer to English Words](./273.%20Integer%20to%20English%20Words) | Hard |
 | 290 | [Word Pattern](./290.%20Word%20Pattern) | Easy |
