@@ -326,6 +326,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 382 | [Linked List Random Node](./382.%20Linked%20List%20Random%20Node) | Medium |
 | 430 | [Flatten a Multilevel Doubly Linked List](./430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List) | Medium |
 | 445 | [Add Two Numbers II](./445.%20Add%20Two%20Numbers%20II) | Medium |
+| 2130 | [Maximum Twin Sum of a Linked List](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List) | Medium |
 
 ---
 
