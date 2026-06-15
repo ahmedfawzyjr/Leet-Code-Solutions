@@ -121,6 +121,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3689 | [Maximum Total Subarray Value I](./3689.%20Maximum%20Total%20Subarray%20Value%20I) | Medium |
 | 3691 | [Maximum Total Subarray Value II](./3691.%20Maximum%20Total%20Subarray%20Value%20II) | Hard |
 | 675 | [Cut Off Trees for Golf Event](./675.%20Cut%20Off%20Trees%20for%20Golf%20Event) | Hard |
+| 810 | [Chalkboard XOR Game](./810.%20Chalkboard%20XOR%20Game) | Hard |
 
 ---
 
