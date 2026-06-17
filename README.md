@@ -168,6 +168,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 224 | [Basic Calculator](./224.%20Basic%20Calculator) | Hard |
 | 227 | [Basic Calculator II](./227.%20Basic%20Calculator%20II) | Medium |
 | 770 | [Basic Calculator IV](./770.%20Basic%20Calculator%20IV) | Hard |
+| 3614 | [Process String with Special Operations II](./3614.%20Process%20String%20with%20Special%20Operations%20II) | Medium |
 | 242 | [Valid Anagram](./242.%20Valid%20Anagram) | Easy |
 | 273 | [Integer to English Words](./273.%20Integer%20to%20English%20Words) | Hard |
 | 290 | [Word Pattern](./290.%20Word%20Pattern) | Easy |
