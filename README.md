@@ -123,6 +123,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 675 | [Cut Off Trees for Golf Event](./675.%20Cut%20Off%20Trees%20for%20Golf%20Event) | Hard |
 | 810 | [Chalkboard XOR Game](./810.%20Chalkboard%20XOR%20Game) | Hard |
 | 850 | [Rectangle Area II](./850.%20Rectangle%20Area%20II) | Hard |
+| 964 | [Least Operators to Express Number](./964.%20Least%20Operators%20to%20Express%20Number) | Hard |
 
 ---
 
