@@ -126,6 +126,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 964 | [Least Operators to Express Number](./964.%20Least%20Operators%20to%20Express%20Number) | Hard |
 | 1074 | [Number of Submatrices That Sum to Target](./1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target) | Hard |
 | 1732 | [Find the Highest Altitude](./1732.%20Find%20the%20Highest%20Altitude) | Easy |
+| 1833 | [Maximum Ice Cream Bars](./1833.%20Maximum%20Ice%20Cream%20Bars) | Medium |
 
 ---
 
