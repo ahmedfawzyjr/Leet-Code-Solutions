@@ -411,6 +411,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 433 | [Minimum Genetic Mutation](./433.%20Minimum%20Genetic%20Mutation) | Medium |
 | 1306 | [Jump Game III](./1306.%20Jump%20Game%20III) | Medium |
 | 1345 | [Jump Game IV](./1345.%20Jump%20Game%20IV) | Hard |
+| 1203 | [Sort Items by Groups Respecting Dependencies](./1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies) | Hard |
 | 1722 | [Minimize Hamming Distance After Swap Operations](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations) | Medium |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades) | Hard |
 | 3650 | [Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals) | Hard |
