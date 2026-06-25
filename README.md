@@ -204,6 +204,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 696 | [Count Binary Substrings](./696.%20Count%20Binary%20Substrings) | Easy |
 | 796 | [Rotate String](./796.%20Rotate%20String) | Easy |
 | 761 | [Special Binary String](./761.%20Special%20Binary%20String) | Hard |
+| 1397 | [Find All Good Strings](./1397.%20Find%20All%20Good%20Strings) | Hard |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One) | Medium |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n) | Medium |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K) | Medium |
@@ -802,3 +803,4 @@ LeetCode Solutions
 | 134 | 2026-05-20 | 2657 |
 | 135 | 2026-06-08 | 2161 |
 | 136 | 2026-06-24 | 1326 |
+| 137 | 2026-06-25 | 1397 |
