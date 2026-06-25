@@ -297,6 +297,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 868 | [Binary Gap](./868.%20Binary%20Gap) | Easy |
 | 1009 | [Complement of Base 10 Integer](./1009.%20Complement%20of%20Base%2010%20Integer) | Easy |
 | 1390 | [Four Divisors](./1390.%20Four%20Divisors) | Medium |
+| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./1467.%20Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls) | Hard |
 | 1680 | [Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers) | Medium |
 | 3300 | [Minimum Element After Replacement With Digit Sum](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) | Easy |
 | 3783 | [Mirror Distance of an Integer](./3783.%20Mirror%20Distance%20of%20an%20Integer) | Easy |
@@ -470,6 +471,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 799 | [Champagne Tower](./799.%20Champagne%20Tower) | Medium |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers) | Hard |
 | 1340 | [Jump Game V](./1340.%20Jump%20Game%20V) | Hard |
+| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./1467.%20Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls) | Hard |
 | 1594 | [Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix) | Medium |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II) | Hard |
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
@@ -672,12 +674,12 @@ LeetCode Solutions
 │   ├── Shortest Path: 127, 126, 317, 3650, 3629
 │   └── Special: 332, 399, 403, 1722, 3600
 │
-├── Dynamic Programming (52 problems)
+├── Dynamic Programming (53 problems)
 │   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322
 │   ├── 2D DP: 10, 44, 64, 72, 85, 115, 120, 123, 174, 221
 │   ├── Interval DP: 87, 96, 312, 375
 │   ├── Stock DP: 121, 122, 123, 188, 309
-│   └── Advanced: 329, 354, 446, 3129, 3130, 3225, 3742
+│   └── Advanced: 329, 354, 446, 1467, 3129, 3130, 3225, 3742
 │
 ├── Backtracking (18 problems)
 │   ├── Permutations: 31, 46, 47, 60
@@ -804,3 +806,4 @@ LeetCode Solutions
 | 135 | 2026-06-08 | 2161 |
 | 136 | 2026-06-24 | 1326 |
 | 137 | 2026-06-25 | 1397 |
+| 138 | 2026-06-26 | 1467 |
