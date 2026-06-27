@@ -292,6 +292,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 477 | [Total Hamming Distance](./477.%20Total%20Hamming%20Distance) | Medium |
 | 479 | [Largest Palindrome Product](./479.%20Largest%20Palindrome%20Product) | Hard |
 | 483 | [Smallest Good Base](./483.%20Smallest%20Good%20Base) | Hard |
+| 556 | [Next Greater Element III](./556.%20Next%20Greater%20Element%20III) | Medium |
 | 693 | [Binary Number with Alternating Bits](./693.%20Binary%20Number%20with%20Alternating%20Bits) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation) | Easy |
 | 788 | [Rotated Digits](./788.%20Rotated%20Digits) | Medium |
@@ -652,10 +653,10 @@ LeetCode Solutions
 │   ├── Calculator: 224, 227
 │   └── Binary String: 67, 190, 191, 693, 868, 1009, 1404, 1545, 1758
 │
-├── Math & Bit Manipulation (66 problems)
+├── Math & Bit Manipulation (67 problems)
 │   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342
 │   ├── Bitwise: 136, 137, 191, 201, 260, 338, 371, 421, 461, 476, 477
-│   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258, 788
+│   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258, 556, 788
 │
 ├── Linked Lists (26 problems)
 │   ├── Traversal: 2, 19, 141, 160, 203
@@ -808,3 +809,4 @@ LeetCode Solutions
 | 136 | 2026-06-24 | 1326 |
 | 137 | 2026-06-25 | 1397 |
 | 138 | 2026-06-26 | 1467 |
+| 139 | 2026-06-28 | 556 |
