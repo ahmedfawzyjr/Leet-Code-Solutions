@@ -474,6 +474,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers) | Hard |
 | 1340 | [Jump Game V](./1340.%20Jump%20Game%20V) | Hard |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./1467.%20Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls) | Hard |
+| 1473 | [Paint House III](./1473.%20Paint%20House%20III) | Hard |
 | 1594 | [Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix) | Medium |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II) | Hard |
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
