@@ -475,6 +475,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1340 | [Jump Game V](./1340.%20Jump%20Game%20V) | Hard |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./1467.%20Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls) | Hard |
 | 1473 | [Paint House III](./1473.%20Paint%20House%20III) | Hard |
+| 1563 | [Stone Game V](./1563.%20Stone%20Game%20V) | Hard |
 | 1594 | [Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix) | Medium |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II) | Hard |
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
@@ -677,10 +678,10 @@ LeetCode Solutions
 │   ├── Shortest Path: 127, 126, 317, 3650, 3629
 │   └── Special: 332, 399, 403, 1722, 3600
 │
-├── Dynamic Programming (53 problems)
+├── Dynamic Programming (54 problems)
 │   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322
 │   ├── 2D DP: 10, 44, 64, 72, 85, 115, 120, 123, 174, 221
-│   ├── Interval DP: 87, 96, 312, 375
+│   ├── Interval DP: 87, 96, 312, 375, 1563
 │   ├── Stock DP: 121, 122, 123, 188, 309
 │   └── Advanced: 329, 354, 446, 1467, 3129, 3130, 3225, 3742
 │
@@ -811,3 +812,5 @@ LeetCode Solutions
 | 137 | 2026-06-25 | 1397 |
 | 138 | 2026-06-26 | 1467 |
 | 139 | 2026-06-28 | 556 |
+| 140 | 2026-06-30 | 1563 |
+
