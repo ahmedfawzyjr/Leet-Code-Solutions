@@ -128,6 +128,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1074 | [Number of Submatrices That Sum to Target](./1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target) | Hard |
 | 1732 | [Find the Highest Altitude](./1732.%20Find%20the%20Highest%20Altitude) | Easy |
 | 1833 | [Maximum Ice Cream Bars](./1833.%20Maximum%20Ice%20Cream%20Bars) | Medium |
+| 1610 | [Maximum Number of Visible Points](./1610.%20Maximum%20Number%20of%20Visible%20Points) | Hard |
 
 ---
 
@@ -640,9 +641,9 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (90 problems)
+├── Arrays & Hashing (91 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283, 2161, 2540, 2657
-│   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480
+│   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480, 1610
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 1674, 3070, 3212
 │   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 1914, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452
@@ -813,4 +814,5 @@ LeetCode Solutions
 | 138 | 2026-06-26 | 1467 |
 | 139 | 2026-06-28 | 556 |
 | 140 | 2026-06-30 | 1563 |
+| 141 | 2026-07-01 | 1610 |
 
