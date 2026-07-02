@@ -202,6 +202,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 468 | [Validate IP Address](./468.%20Validate%20IP%20Address) | Medium |
 | 472 | [Concatenated Words](./472.%20Concatenated%20Words) | Hard |
 | 481 | [Magical String](./481.%20Magical%20String) | Medium |
+| 557 | [Reverse Words in a String III](./557.%20Reverse%20Words%20in%20a%20String%20III) | Easy |
 | 657 | [Robot Return to Origin](./657.%20Robot%20Return%20to%20Origin) | Easy |
 | 696 | [Count Binary Substrings](./696.%20Count%20Binary%20Substrings) | Easy |
 | 796 | [Rotate String](./796.%20Rotate%20String) | Easy |
