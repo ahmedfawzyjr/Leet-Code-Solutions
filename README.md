@@ -62,6 +62,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 454 | [4Sum II](./454.%204Sum%20II) | Medium |
 | 457 | [Circular Array Loop](./457.%20Circular%20Array%20Loop) | Medium |
 | 462 | [Minimum Moves to Equal Array Elements II](./462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | Medium |
+| 565 | [Array Nesting](./565.%20Array%20Nesting) | Medium |
 | 874 | [Walking Robot Simulation](./874.%20Walking%20Robot%20Simulation) | Medium |
 | 961 | [N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array) | Easy |
 | 1356 | [Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) | Easy |
