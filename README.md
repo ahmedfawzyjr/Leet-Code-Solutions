@@ -481,6 +481,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1563 | [Stone Game V](./1563.%20Stone%20Game%20V) | Hard |
 | 1594 | [Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix) | Medium |
 | 1681 | [Minimum Incompatibility](./1681.%20Minimum%20Incompatibility) | Hard |
+| 1815 | [Maximum Number of Groups Getting Fresh Donuts](./1815.%20Maximum%20Number%20of%20Groups%20Getting%20Fresh%20Donuts) | Hard |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II) | Hard |
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
 | 3130 | [Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II) | Hard |
@@ -682,12 +683,12 @@ LeetCode Solutions
 │   ├── Shortest Path: 127, 126, 317, 3650, 3629
 │   └── Special: 332, 399, 403, 1722, 3600
 │
-├── Dynamic Programming (55 problems)
+├── Dynamic Programming (56 problems)
 │   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322
 │   ├── 2D DP: 10, 44, 64, 72, 85, 115, 120, 123, 174, 221
 │   ├── Interval DP: 87, 96, 312, 375, 1563
 │   ├── Stock DP: 121, 122, 123, 188, 309
-│   └── Advanced: 329, 354, 446, 1467, 1681, 3129, 3130, 3225, 3742
+│   └── Advanced: 329, 354, 446, 1467, 1681, 1815, 3129, 3130, 3225, 3742
 │
 ├── Backtracking (18 problems)
 │   ├── Permutations: 31, 46, 47, 60
@@ -819,4 +820,5 @@ LeetCode Solutions
 | 140 | 2026-06-30 | 1563 |
 | 141 | 2026-07-01 | 1610 |
 | 142 | 2026-07-02 | 1681 |
+| 143 | 2026-07-05 | 1815 |
 
