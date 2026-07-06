@@ -65,6 +65,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 565 | [Array Nesting](./565.%20Array%20Nesting) | Medium |
 | 874 | [Walking Robot Simulation](./874.%20Walking%20Robot%20Simulation) | Medium |
 | 961 | [N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array) | Easy |
+| 1288 | [Remove Covered Intervals](./1288.%20Remove%20Covered%20Intervals) | Medium |
 | 1356 | [Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) | Easy |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array) | Hard |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid) | Medium |
@@ -645,12 +646,12 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (91 problems)
+├── Arrays & Hashing (92 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283, 2161, 2540, 2657
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480, 1610
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 1674, 3070, 3212
 │   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 1914, 2946, 3225, 3742
-│   └── Intervals: 56, 57, 228, 352, 435, 452
+│   └── Intervals: 56, 57, 228, 352, 435, 452, 1288
 │
 ├── Strings (85 problems)
 │   ├── Parsing: 8, 65, 166, 273, 385, 394, 468
