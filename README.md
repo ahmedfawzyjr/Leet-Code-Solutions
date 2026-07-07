@@ -512,6 +512,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 216 | [Combination Sum III](./216.%20Combination%20Sum%20III) | Medium |
 | 282 | [Expression Add Operators](./282.%20Expression%20Add%20Operators) | Hard |
 | 320 | [Generalized Abbreviation](./320.%20Generalized%20Abbreviation) | Medium |
+| 1982 | [Find Array Given Subset Sums](./1982.%20Find%20Array%20Given%20Subset%20Sums) | Hard |
 
 ---
 
