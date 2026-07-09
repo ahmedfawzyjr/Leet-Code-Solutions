@@ -421,6 +421,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1345 | [Jump Game IV](./1345.%20Jump%20Game%20IV) | Hard |
 | 1203 | [Sort Items by Groups Respecting Dependencies](./1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies) | Hard |
 | 1722 | [Minimize Hamming Distance After Swap Operations](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations) | Medium |
+| 3532 | [Path Existence Queries in a Graph I](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I) | Medium |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades) | Hard |
 | 3650 | [Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals) | Hard |
 
@@ -680,10 +681,10 @@ LeetCode Solutions
 │   ├── Path: 112, 113, 124, 129, 257, 404, 437
 │   └── Special: 100, 101, 104, 110, 111, 226, 297, 1339
 │
-├── Graphs (19 problems)
+├── Graphs (20 problems)
 │   ├── BFS/DFS: 130, 133, 200, 207, 210, 305, 417, 1306, 1345
 │   ├── Shortest Path: 127, 126, 317, 3650, 3629
-│   └── Special: 332, 399, 403, 1722, 3600
+│   └── Special: 332, 399, 403, 1722, 3532, 3600
 │
 ├── Dynamic Programming (56 problems)
 │   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322
@@ -823,4 +824,5 @@ LeetCode Solutions
 | 141 | 2026-07-01 | 1610 |
 | 142 | 2026-07-02 | 1681 |
 | 143 | 2026-07-05 | 1815 |
+| 144 | 2026-07-09 | 3532 |
 
