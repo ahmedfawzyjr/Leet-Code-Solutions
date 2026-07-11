@@ -585,6 +585,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](./1326.%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden) | Hard |
 | 1665 | [Minimum Initial Energy to Finish Tasks](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks) | Hard |
 | 2126 | [Destroying Asteroids](./2126.%20Destroying%20Asteroids) | Medium |
+| 2136 | [Earliest Possible Day of Full Bloom](./2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom) | Hard |
 | 2144 | [Minimum Cost of Buying Candies With Discount](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount) | Easy |
 
 ---
@@ -707,7 +708,7 @@ LeetCode Solutions
 │   └── Sorting: 75, 88, 147, 148, 215, 451
 │
 ├── Stack & Queue (12 problems)
-├── Greedy (12 problems)
+├── Greedy (15 problems)
 ├── Design (14 problems)
 ├── Database/SQL (13 problems)
 ├── Shell (4 problems)
@@ -827,4 +828,5 @@ LeetCode Solutions
 | 143 | 2026-07-05 | 1815 |
 | 144 | 2026-07-09 | 3532 |
 | 145 | 2026-07-10 | 2092 |
+| 146 | 2026-07-11 | 2136 |
 
