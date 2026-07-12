@@ -220,6 +220,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating) | Medium |
 | 1980 | [Find Unique Binary String](./1980.%20Find%20Unique%20Binary%20String) | Medium |
 | 2075 | [Decode the Slanted Ciphertext](./2075.%20Decode%20the%20Slanted%20Ciphertext) | Medium |
+| 2416 | [Sum of Prefix Scores of Strings](./2416.%20Sum%20of%20Prefix%20Scores%20of%20Strings) | Hard |
 | 2452 | [Words Within Two Edits of Dictionary](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary) | Medium |
 | 2573 | [Find the String with LCP](./2573.%20Find%20the%20String%20with%20LCP) | Hard |
 | 2833 | [Furthest Point From Origin](./2833.%20Furthest%20Point%20From%20Origin) | Easy |
@@ -657,7 +658,7 @@ LeetCode Solutions
 │   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 1914, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452, 1288
 │
-├── Strings (85 problems)
+├── Strings (86 problems)
 │   ├── Parsing: 8, 65, 166, 273, 385, 394, 468
 │   ├── Palindrome: 5, 9, 125, 131, 132, 214, 336, 409
 │   ├── Pattern Matching: 10, 44, 28, 459, 290
@@ -829,4 +830,6 @@ LeetCode Solutions
 | 144 | 2026-07-09 | 3532 |
 | 145 | 2026-07-10 | 2092 |
 | 146 | 2026-07-11 | 2136 |
+| 147 | 2026-07-12 | 2416 |
+
 
