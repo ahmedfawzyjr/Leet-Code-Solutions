@@ -83,6 +83,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid) | Medium |
 | 2078 | [Two Furthest Houses With Different Colors](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot) | Medium |
+| 2179 | [Count Good Triplets in an Array](./2179.%20Count%20Good%20Triplets%20in%20an%20Array) | Hard |
 | 2463 | [Minimum Total Distance Traveled](./2463.%20Minimum%20Total%20Distance%20Traveled) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array) | Easy |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I) | Easy |
