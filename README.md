@@ -487,6 +487,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1594 | [Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix) | Medium |
 | 1681 | [Minimum Incompatibility](./1681.%20Minimum%20Incompatibility) | Hard |
 | 1815 | [Maximum Number of Groups Getting Fresh Donuts](./1815.%20Maximum%20Number%20of%20Groups%20Getting%20Fresh%20Donuts) | Hard |
+| 2262 | [Total Appeal of A String](./2262.%20Total%20Appeal%20of%20A%20String) | Hard |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II) | Hard |
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
 | 3130 | [Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II) | Hard |
@@ -690,8 +691,8 @@ LeetCode Solutions
 │   ├── Shortest Path: 127, 126, 317, 3650, 3629
 │   └── Special: 332, 399, 403, 1722, 2092, 3532, 3600
 │
-├── Dynamic Programming (56 problems)
-│   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322
+├── Dynamic Programming (57 problems)
+│   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322, 2262
 │   ├── 2D DP: 10, 44, 64, 72, 85, 115, 120, 123, 174, 221
 │   ├── Interval DP: 87, 96, 312, 375, 1563
 │   ├── Stock DP: 121, 122, 123, 188, 309
@@ -832,5 +833,4 @@ LeetCode Solutions
 | 145 | 2026-07-10 | 2092 |
 | 146 | 2026-07-11 | 2136 |
 | 147 | 2026-07-12 | 2416 |
-
-
+| 148 | 2026-07-14 | 2262 |
