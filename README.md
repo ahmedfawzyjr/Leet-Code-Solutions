@@ -300,6 +300,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 479 | [Largest Palindrome Product](./479.%20Largest%20Palindrome%20Product) | Hard |
 | 483 | [Smallest Good Base](./483.%20Smallest%20Good%20Base) | Hard |
 | 556 | [Next Greater Element III](./556.%20Next%20Greater%20Element%20III) | Medium |
+| 593 | [Valid Square](./593.%20Valid%20Square) | Medium |
 | 693 | [Binary Number with Alternating Bits](./693.%20Binary%20Number%20with%20Alternating%20Bits) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation) | Easy |
 | 788 | [Rotated Digits](./788.%20Rotated%20Digits) | Medium |
