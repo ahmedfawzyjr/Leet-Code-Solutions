@@ -592,6 +592,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2126 | [Destroying Asteroids](./2126.%20Destroying%20Asteroids) | Medium |
 | 2136 | [Earliest Possible Day of Full Bloom](./2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom) | Hard |
 | 2144 | [Minimum Cost of Buying Candies With Discount](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount) | Easy |
+| 2402 | [Meeting Rooms III](./2402.%20Meeting%20Rooms%20III) | Hard |
 
 ---
 
@@ -713,7 +714,7 @@ LeetCode Solutions
 │   └── Sorting: 75, 88, 147, 148, 215, 451
 │
 ├── Stack & Queue (12 problems)
-├── Greedy (15 problems)
+├── Greedy (16 problems)
 ├── Design (14 problems)
 ├── Database/SQL (13 problems)
 ├── Shell (4 problems)
@@ -836,3 +837,4 @@ LeetCode Solutions
 | 146 | 2026-07-11 | 2136 |
 | 147 | 2026-07-12 | 2416 |
 | 148 | 2026-07-14 | 2262 |
+| 149 | 2026-07-17 | 2402 |
