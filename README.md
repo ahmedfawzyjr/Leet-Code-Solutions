@@ -572,6 +572,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 341 | [Flatten Nested List Iterator](./341.%20Flatten%20Nested%20List%20Iterator) | Medium |
 | 402 | [Remove K Digits](./402.%20Remove%20K%20Digits) | Medium |
 | 456 | [132 Pattern](./456.%20132%20Pattern) | Medium |
+| 1081 | [Smallest Subsequence of Distinct Characters](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters) | Medium |
 
 ---
 
