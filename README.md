@@ -65,6 +65,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 565 | [Array Nesting](./565.%20Array%20Nesting) | Medium |
 | 874 | [Walking Robot Simulation](./874.%20Walking%20Robot%20Simulation) | Medium |
 | 961 | [N-Repeated Element in Size 2N Array](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array) | Easy |
+| 1260 | [Shift 2D Grid](./1260.%20Shift%202D%20Grid) | Easy |
 | 1288 | [Remove Covered Intervals](./1288.%20Remove%20Covered%20Intervals) | Medium |
 | 1356 | [Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) | Easy |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array) | Hard |
