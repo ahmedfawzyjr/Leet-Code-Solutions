@@ -398,12 +398,13 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 437 | [Path Sum III](./437.%20Path%20Sum%20III) | Medium |
 | 449 | [Serialize and Deserialize BST](./449.%20Serialize%20and%20Deserialize%20BST) | Medium |
 | 450 | [Delete Node in a BST](./450.%20Delete%20Node%20in%20a%20BST) | Medium |
+| 606 | [Construct String from Binary Tree](./606.%20Construct%20String%20from%20Binary%20Tree) | Easy |
+| 637 | [Average of Levels in Binary Tree](./637.%20Average%20of%20Levels%20in%20Binary%20Tree) | Easy |
 | 1022 | [Sum of Root To Leaf Binary Numbers](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers) | Easy |
 | 1161 | [Maximum Level Sum of a Binary Tree](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree) | Medium |
 | 1339 | [Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree) | Medium |
 | 1382 | [Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree) | Medium |
 | 2196 | [Create Binary Tree From Descriptions](./2196.%20Create%20Binary%20Tree%20From%20Descriptions) | Medium |
-| 637 | [Average of Levels in Binary Tree](./637.%20Average%20of%20Levels%20in%20Binary%20Tree) | Easy |
 
 ---
 
