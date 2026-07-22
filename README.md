@@ -233,6 +233,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3120 | [Count the Number of Special Characters I](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I) | Easy |
 | 3121 | [Count the Number of Special Characters II](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II) | Medium |
 | 3474 | [Lexicographically Smallest Generated String](./3474.%20Lexicographically%20Smallest%20Generated%20String) | Hard |
+| 3501 | [Maximize Active Section with Trade II](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II) | Hard |
 | 3713 | [Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I) | Medium |
 | 3714 | [Longest Balanced Substring II](./3714.%20Longest%20Balanced%20Substring%20II) | Hard |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs) | Medium |
@@ -842,3 +843,4 @@ LeetCode Solutions
 | 147 | 2026-07-12 | 2416 |
 | 148 | 2026-07-14 | 2262 |
 | 149 | 2026-07-17 | 2402 |
+| 150 | 2026-07-22 | 3501 |
