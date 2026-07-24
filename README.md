@@ -599,6 +599,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2136 | [Earliest Possible Day of Full Bloom](./2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom) | Hard |
 | 2144 | [Minimum Cost of Buying Candies With Discount](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount) | Easy |
 | 2402 | [Meeting Rooms III](./2402.%20Meeting%20Rooms%20III) | Hard |
+| 2818 | [Apply Operations to Maximize Score](./2818.%20Apply%20Operations%20to%20Maximize%20Score) | Hard |
 
 ---
 
