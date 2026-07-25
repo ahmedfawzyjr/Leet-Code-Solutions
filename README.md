@@ -94,6 +94,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2657 | [Find the Prefix Common Array of Two Arrays](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays) | Medium |
 | 2751 | [Robot Collisions](./2751.%20Robot%20Collisions) | Hard |
 | 2906 | [Construct Product Matrix](./2906.%20Construct%20Product%20Matrix) | Medium |
+| 2931 | [Maximum Spending After Buying Items](./2931.%20Maximum%20Spending%20After%20Buying%20Items) | Hard |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts) | Easy |
 | 2972 | [Count the Number of Incremovable Subarrays II](./2972.%20Count%20the%20Number%20of%20Incremovable%20Subarrays%20II) | Hard |
 | 3070 | [Count Submatrices with Top Left Element and Sum Less Than k](./3070.%20Count%20Submatrices%20with%20Top%20Left%20Element%20and%20Sum%20Less%20Than%20k) | Medium |
