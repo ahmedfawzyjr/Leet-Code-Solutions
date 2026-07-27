@@ -68,6 +68,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1260 | [Shift 2D Grid](./1260.%20Shift%202D%20Grid) | Easy |
 | 1288 | [Remove Covered Intervals](./1288.%20Remove%20Covered%20Intervals) | Medium |
 | 1356 | [Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) | Easy |
+| 1464 | [Maximum Product of Two Elements in an Array](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | Easy |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array) | Hard |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid) | Medium |
 | 1582 | [Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix) | Easy |
