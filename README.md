@@ -318,6 +318,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./1467.%20Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls) | Hard |
 | 1680 | [Concatenation of Consecutive Binary Numbers](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers) | Medium |
 | 2862 | [Maximum Element-Sum of a Complete Subset of Indices](./2862.%20Maximum%20Element-Sum%20of%20a%20Complete%20Subset%20of%20Indices) | Hard |
+| 3145 | [Find Products of Elements of Big Array](./3145.%20Find%20Products%20of%20Elements%20of%20Big%20Array) | Hard |
 | 3300 | [Minimum Element After Replacement With Digit Sum](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) | Easy |
 | 3783 | [Mirror Distance of an Integer](./3783.%20Mirror%20Distance%20of%20an%20Integer) | Easy |
 | 3751 | [Total Waviness of Numbers in Range I](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I) | Medium |
@@ -683,9 +684,9 @@ LeetCode Solutions
 │   ├── Calculator: 224, 227
 │   └── Binary String: 67, 190, 191, 693, 868, 1009, 1404, 1545, 1758
 │
-├── Math & Bit Manipulation (68 problems)
+├── Math & Bit Manipulation (69 problems)
 │   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342
-│   ├── Bitwise: 136, 137, 191, 201, 260, 338, 371, 421, 461, 476, 477
+│   ├── Bitwise: 136, 137, 191, 201, 260, 338, 371, 421, 461, 476, 477, 3145
 │   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258, 556, 788
 │
 ├── Linked Lists (26 problems)
@@ -852,3 +853,5 @@ LeetCode Solutions
 | 149 | 2026-07-17 | 2402 |
 | 150 | 2026-07-22 | 3501 |
 | 151 | 2026-07-23 | 2862 |
+| 152 | 2026-07-30 | 3145 |
+
