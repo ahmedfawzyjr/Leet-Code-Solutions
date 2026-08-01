@@ -504,6 +504,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II) | Hard |
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
 | 3130 | [Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II) | Hard |
+| 3276 | [Select Cells in Grid With Maximum Score](./3276.%20Select%20Cells%20in%20Grid%20With%20Maximum%20Score) | Hard |
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) | Medium |
 
@@ -708,12 +709,12 @@ LeetCode Solutions
 │   ├── Shortest Path: 127, 126, 317, 3650, 3629
 │   └── Special: 332, 399, 403, 1722, 2092, 3532, 3600
 │
-├── Dynamic Programming (57 problems)
+├── Dynamic Programming (58 problems)
 │   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322, 2262
 │   ├── 2D DP: 10, 44, 64, 72, 85, 115, 120, 123, 174, 221
 │   ├── Interval DP: 87, 96, 312, 375, 1563
 │   ├── Stock DP: 121, 122, 123, 188, 309
-│   └── Advanced: 329, 354, 446, 1467, 1681, 1815, 3129, 3130, 3225, 3742
+│   └── Advanced: 329, 354, 446, 1467, 1681, 1815, 3129, 3130, 3225, 3276, 3742
 │
 ├── Backtracking (18 problems)
 │   ├── Permutations: 31, 46, 47, 60
@@ -856,4 +857,5 @@ LeetCode Solutions
 | 151 | 2026-07-23 | 2862 |
 | 152 | 2026-07-30 | 3145 |
 | 153 | 2026-07-31 | 3016 |
+| 154 | 2026-08-01 | 3276 |
 
