@@ -505,6 +505,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3129 | [Find All Possible Stable Binary Arrays I](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) | Hard |
 | 3130 | [Find All Possible Stable Binary Arrays II](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II) | Hard |
 | 3276 | [Select Cells in Grid With Maximum Score](./3276.%20Select%20Cells%20in%20Grid%20With%20Maximum%20Score) | Hard |
+| 3363 | [Find the Maximum Number of Fruits Collected](./3363.%20Find%20the%20Maximum%20Number%20of%20Fruits%20Collected) | Hard |
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) | Medium |
 
