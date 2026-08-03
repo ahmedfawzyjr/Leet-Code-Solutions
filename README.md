@@ -648,6 +648,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 196 | [Delete Duplicate Emails](./196.%20Delete%20Duplicate%20Emails) | Easy |
 | 197 | [Rising Temperature](./197.%20Rising%20Temperature) | Easy |
 | 262 | [Trips and Users](./262.%20Trips%20and%20Users) | Hard |
+| 3451 | [Find Invalid IP Addresses](./3451.%20Find%20Invalid%20IP%20Addresses) | Hard |
 
 ---
 
@@ -732,7 +733,7 @@ LeetCode Solutions
 ├── Stack & Queue (12 problems)
 ├── Greedy (17 problems)
 ├── Design (14 problems)
-├── Database/SQL (13 problems)
+├── Database/SQL (14 problems)
 ├── Shell (4 problems)
 └── JavaScript (1 problem)
 ```
@@ -859,4 +860,5 @@ LeetCode Solutions
 | 152 | 2026-07-30 | 3145 |
 | 153 | 2026-07-31 | 3016 |
 | 154 | 2026-08-01 | 3276 |
+| 155 | 2026-08-03 | 3451 |
 
