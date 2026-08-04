@@ -136,6 +136,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1732 | [Find the Highest Altitude](./1732.%20Find%20the%20Highest%20Altitude) | Easy |
 | 1833 | [Maximum Ice Cream Bars](./1833.%20Maximum%20Ice%20Cream%20Bars) | Medium |
 | 1610 | [Maximum Number of Visible Points](./1610.%20Maximum%20Number%20of%20Visible%20Points) | Hard |
+| 3731 | [Find Missing Elements](./3731.%20Find%20Missing%20Elements) | Easy |
 
 ---
 
@@ -861,4 +862,5 @@ LeetCode Solutions
 | 153 | 2026-07-31 | 3016 |
 | 154 | 2026-08-01 | 3276 |
 | 155 | 2026-08-03 | 3451 |
+| 156 | 2026-08-04 | 3731 |
 
