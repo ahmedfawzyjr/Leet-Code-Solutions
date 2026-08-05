@@ -492,6 +492,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 464 | [Can I Win](./464.%20Can%20I%20Win) | Medium |
 | 466 | [Count The Repetitions](./466.%20Count%20The%20Repetitions) | Hard |
 | 474 | [Ones and Zeroes](./474.%20Ones%20and%20Zeroes) | Medium |
+| 688 | [Knight Probability in Chessboard](./688.%20Knight%20Probability%20in%20Chessboard) | Medium |
 | 799 | [Champagne Tower](./799.%20Champagne%20Tower) | Medium |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers) | Hard |
 | 1340 | [Jump Game V](./1340.%20Jump%20Game%20V) | Hard |
