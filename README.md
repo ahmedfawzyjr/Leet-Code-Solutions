@@ -137,6 +137,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1833 | [Maximum Ice Cream Bars](./1833.%20Maximum%20Ice%20Cream%20Bars) | Medium |
 | 1610 | [Maximum Number of Visible Points](./1610.%20Maximum%20Number%20of%20Visible%20Points) | Hard |
 | 3731 | [Find Missing Elements](./3731.%20Find%20Missing%20Elements) | Easy |
+| 4013 | [Count Subarrays With Even Odd Ratio II](./4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II) | Hard |
 
 ---
 
