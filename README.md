@@ -324,6 +324,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3300 | [Minimum Element After Replacement With Digit Sum](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) | Easy |
 | 3783 | [Mirror Distance of an Integer](./3783.%20Mirror%20Distance%20of%20an%20Integer) | Easy |
 | 3751 | [Total Waviness of Numbers in Range I](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I) | Medium |
+| 3348 | [Smallest Divisible Digit Product II](./3348.%20Smallest%20Divisible%20Digit%20Product%20II) | Hard |
 | 3753 | [Total Waviness of Numbers in Range II](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II) | Hard |
 
 ---
@@ -865,4 +866,5 @@ LeetCode Solutions
 | 154 | 2026-08-01 | 3276 |
 | 155 | 2026-08-03 | 3451 |
 | 156 | 2026-08-04 | 3731 |
+| 157 | 2026-08-07 | 3348 |
 
