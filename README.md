@@ -237,6 +237,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3093 | [Longest Common Suffix Queries](./3093.%20Longest%20Common%20Suffix%20Queries) | Hard |
 | 3120 | [Count the Number of Special Characters I](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I) | Easy |
 | 3121 | [Count the Number of Special Characters II](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II) | Medium |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](./3302.%20Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence) | Medium |
 | 3474 | [Lexicographically Smallest Generated String](./3474.%20Lexicographically%20Smallest%20Generated%20String) | Hard |
 | 3501 | [Maximize Active Section with Trade II](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II) | Hard |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517.%20Smallest%20Palindromic%20Rearrangement%20I) | Medium |
