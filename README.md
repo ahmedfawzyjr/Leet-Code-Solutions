@@ -497,6 +497,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 474 | [Ones and Zeroes](./474.%20Ones%20and%20Zeroes) | Medium |
 | 688 | [Knight Probability in Chessboard](./688.%20Knight%20Probability%20in%20Chessboard) | Medium |
 | 799 | [Champagne Tower](./799.%20Champagne%20Tower) | Medium |
+| 1140 | [Stone Game II](./1140.%20Stone%20Game%20II) | Medium |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers) | Hard |
 | 1340 | [Jump Game V](./1340.%20Jump%20Game%20V) | Hard |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./1467.%20Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls) | Hard |
