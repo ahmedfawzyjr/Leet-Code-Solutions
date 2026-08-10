@@ -502,6 +502,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1340 | [Jump Game V](./1340.%20Jump%20Game%20V) | Hard |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./1467.%20Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls) | Hard |
 | 1473 | [Paint House III](./1473.%20Paint%20House%20III) | Hard |
+| 1510 | [Stone Game IV](./1510.%20Stone%20Game%20IV) | Hard |
 | 1563 | [Stone Game V](./1563.%20Stone%20Game%20V) | Hard |
 | 1594 | [Maximum Non Negative Product in a Matrix](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix) | Medium |
 | 1681 | [Minimum Incompatibility](./1681.%20Minimum%20Incompatibility) | Hard |
