@@ -138,6 +138,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1610 | [Maximum Number of Visible Points](./1610.%20Maximum%20Number%20of%20Visible%20Points) | Hard |
 | 3731 | [Find Missing Elements](./3731.%20Find%20Missing%20Elements) | Easy |
 | 4013 | [Count Subarrays With Even Odd Ratio II](./4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II) | Hard |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) | Easy |
 
 ---
 
