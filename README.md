@@ -328,6 +328,8 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3751 | [Total Waviness of Numbers in Range I](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I) | Medium |
 | 3348 | [Smallest Divisible Digit Product II](./3348.%20Smallest%20Divisible%20Digit%20Product%20II) | Hard |
 | 3753 | [Total Waviness of Numbers in Range II](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II) | Hard |
+| 3704 | [Count No-Zero Pairs That Sum to N](./3704.%20Count%20No-Zero%20Pairs%20That%20Sum%20to%20N) | Hard |
+
 
 ---
 
