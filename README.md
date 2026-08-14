@@ -447,6 +447,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3532 | [Path Existence Queries in a Graph I](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I) | Medium |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades) | Hard |
 | 3650 | [Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals) | Hard |
+| 3873 | [Maximum Points Activated with One Addition](./3873.%20Maximum%20Points%20Activated%20with%20One%20Addition) | Hard |
 
 ---
 
