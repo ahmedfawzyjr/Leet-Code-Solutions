@@ -420,6 +420,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1339 | [Maximum Product of Splitted Binary Tree](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree) | Medium |
 | 1382 | [Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree) | Medium |
 | 2196 | [Create Binary Tree From Descriptions](./2196.%20Create%20Binary%20Tree%20From%20Descriptions) | Medium |
+| 3812 | [Minimum Edge Toggles on a Tree](./3812.%20Minimum%20Edge%20Toggles%20on%20a%20Tree) | Hard |
 
 ---
 
