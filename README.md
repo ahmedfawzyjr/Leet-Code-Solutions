@@ -521,6 +521,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3500 | [Minimum Cost to Divide Array Into Subarrays](./3500.%20Minimum%20Cost%20to%20Divide%20Array%20Into%20Subarrays) | Hard |
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) | Medium |
+| 3797 | [Count Routes to Climb a Rectangular Grid](./3797.%20Count%20Routes%20to%20Climb%20a%20Rectangular%20Grid) | Hard |
 
 ---
 
@@ -724,12 +725,12 @@ LeetCode Solutions
 │   ├── Shortest Path: 127, 126, 317, 3650, 3629
 │   └── Special: 332, 399, 403, 1722, 2092, 3532, 3600
 │
-├── Dynamic Programming (58 problems)
+├── Dynamic Programming (59 problems)
 │   ├── 1D DP: 53, 55, 62, 63, 70, 91, 121, 198, 279, 300, 322, 2262
 │   ├── 2D DP: 10, 44, 64, 72, 85, 115, 120, 123, 174, 221
 │   ├── Interval DP: 87, 96, 312, 375, 1563
 │   ├── Stock DP: 121, 122, 123, 188, 309
-│   └── Advanced: 329, 354, 446, 1467, 1681, 1815, 3129, 3130, 3225, 3276, 3742
+│   └── Advanced: 329, 354, 446, 1467, 1681, 1815, 3129, 3130, 3225, 3276, 3742, 3797
 │
 ├── Backtracking (18 problems)
 │   ├── Permutations: 31, 46, 47, 60
@@ -876,4 +877,5 @@ LeetCode Solutions
 | 155 | 2026-08-03 | 3451 |
 | 156 | 2026-08-04 | 3731 |
 | 157 | 2026-08-07 | 3348 |
+| 158 | 2026-08-16 | 3797 |
 
