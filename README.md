@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 550+
+- **Total Problems Solved**: 592
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -113,8 +113,8 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3643 | [Flip Square Submatrix Vertically](./3643.%20Flip%20Square%20Submatrix%20Vertically) | Medium |
 | 3653 | [XOR After Range Multiplication Queries I](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I) | Medium |
 | 3655 | [XOR After Range Multiplication Queries II](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II) | Hard |
-| 3719 | [Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Substring%20I) | Medium |
-| 3721 | [Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Substring%20II) | Hard |
+| 3719 | [Longest Balanced Subarray I](./3719.%20Longest%20Balanced%20Subarray%20I) | Medium |
+| 3721 | [Longest Balanced Subarray II](./3721.%20Longest%20Balanced%20Subarray%20II) | Hard |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I) | Easy |
 | 3741 | [Minimum Distance Between Three Equal Elements II](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II) | Medium |
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
@@ -139,6 +139,13 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3731 | [Find Missing Elements](./3731.%20Find%20Missing%20Elements) | Easy |
 | 4013 | [Count Subarrays With Even Odd Ratio II](./4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II) | Hard |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) | Easy |
+| 36 | [Valid Sudoku](./36.%20Valid%20Sudoku) | Medium |
+| 289 | [Game of Life](./289.%20Game%20of%20Life) | Medium |
+| 347 | [Top K Frequent Elements](./347.%20Top%20K%20Frequent%20Elements) | Medium |
+| 391 | [Perfect Rectangle](./391.%20Perfect%20Rectangle) | Hard |
+| 419 | [Battleships in a Board](./419.%20Battleships%20in%20a%20Board) | Medium |
+| 463 | [Island Perimeter](./463.%20Island%20Perimeter) | Easy |
+| 3661 | [Maximum Walls Destroyed by Robots](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots) | Hard |
 
 ---
 
@@ -246,6 +253,10 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3713 | [Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I) | Medium |
 | 3714 | [Longest Balanced Substring II](./3714.%20Longest%20Balanced%20Substring%20II) | Hard |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs) | Medium |
+| 299 | [Bulls and Cows](./299.%20Bulls%20and%20Cows) | Medium |
+| 389 | [Find the Difference](./389.%20Find%20the%20Difference) | Easy |
+| 482 | [License Key Formatting](./482.%20License%20Key%20Formatting) | Easy |
+| 3666 | [Minimum Operations to Equalize Binary String](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String) | Medium |
 
 ---
 
@@ -329,7 +340,13 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3348 | [Smallest Divisible Digit Product II](./3348.%20Smallest%20Divisible%20Digit%20Product%20II) | Hard |
 | 3753 | [Total Waviness of Numbers in Range II](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II) | Hard |
 | 3704 | [Count No-Zero Pairs That Sum to N](./3704.%20Count%20No-Zero%20Pairs%20That%20Sum%20to%20N) | Hard |
-
+| 89 | [Gray Code](./89.%20Gray%20Code) | Medium |
+| 149 | [Max Points on a Line](./149.%20Max%20Points%20on%20a%20Line) | Hard |
+| 292 | [Nim Game](./292.%20Nim%20Game) | Easy |
+| 335 | [Self Crossing](./335.%20Self%20Crossing) | Hard |
+| 393 | [UTF-8 Validation](./393.%20UTF-8%20Validation) | Medium |
+| 401 | [Binary Watch](./401.%20Binary%20Watch) | Easy |
+| 412 | [Fizz Buzz](./412.%20Fizz%20Buzz) | Easy |
 
 ---
 
@@ -421,6 +438,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1382 | [Balance a Binary Search Tree](./1382.%20Balance%20a%20Binary%20Search%20Tree) | Medium |
 | 2196 | [Create Binary Tree From Descriptions](./2196.%20Create%20Binary%20Tree%20From%20Descriptions) | Medium |
 | 3812 | [Minimum Edge Toggles on a Tree](./3812.%20Minimum%20Edge%20Toggles%20on%20a%20Tree) | Hard |
+| 331 | [Verify Preorder Serialization of a Binary Tree](./331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree) | Medium |
 
 ---
 
@@ -449,6 +467,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades) | Hard |
 | 3650 | [Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals) | Hard |
 | 3873 | [Maximum Points Activated with One Addition](./3873.%20Maximum%20Points%20Activated%20with%20One%20Addition) | Hard |
+| 1559 | [Detect Cycles in 2D Grid](./1559.%20Detect%20Cycles%20in%202D%20Grid) | Medium |
 
 ---
 
@@ -522,6 +541,8 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3742 | [Maximum Path Score in a Grid](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid) | Medium |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) | Medium |
 | 3797 | [Count Routes to Climb a Rectangular Grid](./3797.%20Count%20Routes%20to%20Climb%20a%20Rectangular%20Grid) | Hard |
+| 363 | [Max Sum of Rectangle No Larger Than K](./363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K) | Hard |
+| 3699 | [Number of ZigZag Arrays I](./3699.%20Number%20of%20ZigZag%20Arrays%20I) | Medium |
 
 ---
 
@@ -547,6 +568,8 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 282 | [Expression Add Operators](./282.%20Expression%20Add%20Operators) | Hard |
 | 320 | [Generalized Abbreviation](./320.%20Generalized%20Abbreviation) | Medium |
 | 1982 | [Find Array Given Subset Sums](./1982.%20Find%20Array%20Given%20Subset%20Sums) | Hard |
+| 306 | [Additive Number](./306.%20Additive%20Number) | Medium |
+| 473 | [Matchsticks to Square](./473.%20Matchsticks%20to%20Square) | Medium |
 
 ---
 
@@ -573,13 +596,16 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 373 | [Find K Pairs with Smallest Sums](./373.%20Find%20K%20Pairs%20with%20Smallest%20Sums) | Medium |
 | 374 | [Guess Number Higher or Lower](./374.%20Guess%20Number%20Higher%20or%20Lower) | Easy |
 | 375 | [Guess Number Higher or Lower II](./375.%20Guess%20Number%20Higher%20or%20Lower%20II) | Medium |
-| 378 | [Kth Smallest Element in a Sorted Matrix](./378.%20Kth%20Largest%20Element%20in%20an%20Array) | Medium |
+| 378 | [Kth Smallest Element in a Sorted Matrix](./378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | Medium |
 | 436 | [Find Right Interval](./436.%20Find%20Right%20Interval) | Medium |
 | 451 | [Sort Characters By Frequency](./451.%20Sort%20Characters%20By%20Frequency) | Medium |
 | 480 | [Sliding Window Median](./480.%20Sliding%20Window%20Median) | Hard |
 | 215 | [Kth Largest Element in an Array](./215.%20Kth%20Largest%20Element%20in%20an%20Array) | Medium |
 | 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero) | Hard |
 | 3464 | [Maximize the Distance Between Points on a Square](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square) | Hard |
+| 164 | [Maximum Gap](./164.%20Maximum%20Gap) | Medium |
+| 302 | [Smallest Rectangle Enclosing Black Pixels](./302.%20Smallest%20Rectangle%20Enclosing%20Black%20Pixels) | Hard |
+| 440 | [K-th Smallest in Lexicographical Order](./440.%20K-th%20Smallest%20in%20Lexicographical%20Order) | Hard |
 
 ---
 
@@ -599,6 +625,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 402 | [Remove K Digits](./402.%20Remove%20K%20Digits) | Medium |
 | 456 | [132 Pattern](./456.%20132%20Pattern) | Medium |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters) | Medium |
+| 407 | [Trapping Rain Water II](./407.%20Trapping%20Rain%20Water%20II) | Hard |
 
 ---
 
@@ -623,6 +650,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2402 | [Meeting Rooms III](./2402.%20Meeting%20Rooms%20III) | Hard |
 | 2818 | [Apply Operations to Maximize Score](./2818.%20Apply%20Operations%20to%20Maximize%20Score) | Hard |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | Medium |
+| 321 | [Create Maximum Number](./321.%20Create%20Maximum%20Number) | Hard |
 
 ---
 
