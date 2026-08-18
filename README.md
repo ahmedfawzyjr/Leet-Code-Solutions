@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 592
+- **Total Problems Solved**: 593
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -347,6 +347,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 393 | [UTF-8 Validation](./393.%20UTF-8%20Validation) | Medium |
 | 401 | [Binary Watch](./401.%20Binary%20Watch) | Easy |
 | 412 | [Fizz Buzz](./412.%20Fizz%20Buzz) | Easy |
+| 3953 | [Maximum Score with Co-Prime Element](./3953.%20Maximum%20Score%20with%20Co-Prime%20Element) | Hard |
 
 ---
 
@@ -730,8 +731,8 @@ LeetCode Solutions
 │   ├── Calculator: 224, 227
 │   └── Binary String: 67, 190, 191, 693, 868, 1009, 1404, 1545, 1758
 │
-├── Math & Bit Manipulation (69 problems)
-│   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342
+├── Math & Bit Manipulation (70 problems)
+│   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342, 3953
 │   ├── Bitwise: 136, 137, 191, 201, 260, 338, 371, 421, 461, 476, 477, 3145
 │   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258, 556, 788
 │
@@ -906,4 +907,5 @@ LeetCode Solutions
 | 156 | 2026-08-04 | 3731 |
 | 157 | 2026-08-07 | 3348 |
 | 158 | 2026-08-16 | 3797 |
+| 159 | 2026-08-18 | 3953 |
 
