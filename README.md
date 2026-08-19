@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 593
+- **Total Problems Solved**: 594
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -652,6 +652,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 2818 | [Apply Operations to Maximize Score](./2818.%20Apply%20Operations%20to%20Maximize%20Score) | Hard |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II) | Medium |
 | 321 | [Create Maximum Number](./321.%20Create%20Maximum%20Number) | Hard |
+| 1386 | [Cinema Seat Allocation](./1386.%20Cinema%20Seat%20Allocation) | Medium |
 
 ---
 
