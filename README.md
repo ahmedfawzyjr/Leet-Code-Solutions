@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 594
+- **Total Problems Solved**: 595
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -146,6 +146,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 419 | [Battleships in a Board](./419.%20Battleships%20in%20a%20Board) | Medium |
 | 463 | [Island Perimeter](./463.%20Island%20Perimeter) | Easy |
 | 3661 | [Maximum Walls Destroyed by Robots](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots) | Hard |
+| 3069 | [Distribute Elements Into Two Arrays I](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I) | Easy |
 
 ---
 
