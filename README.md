@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 595
+- **Total Problems Solved**: 596
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -608,6 +608,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 164 | [Maximum Gap](./164.%20Maximum%20Gap) | Medium |
 | 302 | [Smallest Rectangle Enclosing Black Pixels](./302.%20Smallest%20Rectangle%20Enclosing%20Black%20Pixels) | Hard |
 | 440 | [K-th Smallest in Lexicographical Order](./440.%20K-th%20Smallest%20in%20Lexicographical%20Order) | Hard |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) | Hard |
 
 ---
 
@@ -770,9 +771,9 @@ LeetCode Solutions
 │   ├── Board: 36, 37, 51, 52, 79
 │   └── String: 131, 282, 320
 │
-├── Binary Search & Sorting (26 problems)
+├── Binary Search & Sorting (27 problems)
 │   ├── Basic Binary Search: 33, 34, 35, 74, 81, 153, 154
-│   ├── Answer Binary Search: 278, 374, 410, 3296, 3464
+│   ├── Answer Binary Search: 278, 374, 410, 3116, 3296, 3464
 │   └── Sorting: 75, 88, 147, 148, 215, 451
 │
 ├── Stack & Queue (12 problems)
@@ -910,4 +911,7 @@ LeetCode Solutions
 | 157 | 2026-08-07 | 3348 |
 | 158 | 2026-08-16 | 3797 |
 | 159 | 2026-08-18 | 3953 |
+| 160 | 2026-08-19 | 1386 |
+| 161 | 2026-08-20 | 3069 |
+| 162 | 2026-08-21 | 3116 |
 
