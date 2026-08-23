@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 597
+- **Total Problems Solved**: 598
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -350,6 +350,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 412 | [Fizz Buzz](./412.%20Fizz%20Buzz) | Easy |
 | 3953 | [Maximum Score with Co-Prime Element](./3953.%20Maximum%20Score%20with%20Co-Prime%20Element) | Hard |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | Easy |
+| 1927 | [Sum Game](./1927.%20Sum%20Game) | Medium |
 
 ---
 
@@ -735,8 +736,8 @@ LeetCode Solutions
 │   ├── Calculator: 224, 227
 │   └── Binary String: 67, 190, 191, 693, 868, 1009, 1404, 1545, 1758
 │
-├── Math & Bit Manipulation (71 problems)
-│   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342, 3953
+├── Math & Bit Manipulation (72 problems)
+│   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342, 1927, 3953
 │   ├── Bitwise: 136, 137, 191, 201, 260, 338, 371, 421, 461, 476, 477, 3145
 │   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258, 556, 788, 3622
 │
@@ -916,4 +917,5 @@ LeetCode Solutions
 | 161 | 2026-08-20 | 3069 |
 | 162 | 2026-08-21 | 3116 |
 | 163 | 2026-08-22 | 3622 |
+| 164 | 2026-08-23 | 1927 |
 
