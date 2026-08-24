@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 598
+- **Total Problems Solved**: 599
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -258,6 +258,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 389 | [Find the Difference](./389.%20Find%20the%20Difference) | Easy |
 | 482 | [License Key Formatting](./482.%20License%20Key%20Formatting) | Easy |
 | 3666 | [Minimum Operations to Equalize Binary String](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String) | Medium |
+| 1002 | [Find Common Characters](./1002.%20Find%20Common%20Characters) | Easy |
 
 ---
 
@@ -728,11 +729,11 @@ LeetCode Solutions
 │   ├── Matrix: 48, 54, 59, 73, 85, 130, 200, 1727, 1861, 1886, 1914, 2946, 3225, 3742
 │   └── Intervals: 56, 57, 228, 352, 435, 452, 1288
 │
-├── Strings (86 problems)
+├── Strings (87 problems)
 │   ├── Parsing: 8, 65, 166, 273, 385, 394, 468
 │   ├── Palindrome: 5, 9, 125, 131, 132, 214, 336, 409
 │   ├── Pattern Matching: 10, 44, 28, 459, 290
-│   ├── Anagram: 49, 242, 438, 567
+│   ├── Anagram: 49, 242, 438, 567, 1002
 │   ├── Calculator: 224, 227
 │   └── Binary String: 67, 190, 191, 693, 868, 1009, 1404, 1545, 1758
 │
@@ -918,4 +919,5 @@ LeetCode Solutions
 | 162 | 2026-08-21 | 3116 |
 | 163 | 2026-08-22 | 3622 |
 | 164 | 2026-08-23 | 1927 |
+| 165 | 2026-08-24 | 1002 |
 
