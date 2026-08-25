@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 599
+- **Total Problems Solved**: 600
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -147,6 +147,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 463 | [Island Perimeter](./463.%20Island%20Perimeter) | Easy |
 | 3661 | [Maximum Walls Destroyed by Robots](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots) | Hard |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I) | Easy |
+| 3718 | [Smallest Missing Multiple of K](./3718.%20Smallest%20Missing%20Multiple%20of%20K) | Easy |
 
 ---
 
@@ -722,7 +723,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (92 problems)
+├── Arrays & Hashing (93 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283, 2161, 2540, 2657
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480, 1610
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 1674, 3070, 3212
@@ -920,4 +921,5 @@ LeetCode Solutions
 | 163 | 2026-08-22 | 3622 |
 | 164 | 2026-08-23 | 1927 |
 | 165 | 2026-08-24 | 1002 |
+| 166 | 2026-08-25 | 3718 |
 
