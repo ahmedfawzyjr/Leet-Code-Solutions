@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 600
+- **Total Problems Solved**: 601
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -178,6 +178,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 93 | [Restore IP Addresses](./93.%20Restore%20IP%20Addresses) | Medium |
 | 97 | [Interleaving String](./97.%20Interleaving%20String) | Medium |
 | 125 | [Valid Palindrome](./125.%20Valid%20Palindrome) | Easy |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) | Medium |
 | 126 | [Word Ladder II](./126.%20Word%20Ladder%20II) | Hard |
 | 127 | [Word Ladder](./127.%20Word%20Ladder) | Hard |
 | 131 | [Palindrome Partitioning](./131.%20Palindrome%20Partitioning) | Medium |
