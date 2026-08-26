@@ -34,5 +34,5 @@ Output: ""
 
 ## Complexity
 
-- Time: `O(n)`
+- Time: `O(n^2)`
 - Space: `O(n)`
