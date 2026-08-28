@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 602
+- **Total Problems Solved**: 603
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -256,6 +256,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3518 | [Smallest Palindromic Rearrangement II](./3518.%20Smallest%20Palindromic%20Rearrangement%20II) | Hard |
 | 3713 | [Longest Balanced Substring I](./3713.%20Longest%20Balanced%20Substring%20I) | Medium |
 | 3714 | [Longest Balanced Substring II](./3714.%20Longest%20Balanced%20Substring%20II) | Hard |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target) | Hard |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs) | Medium |
 | 299 | [Bulls and Cows](./299.%20Bulls%20and%20Cows) | Medium |
 | 389 | [Find the Difference](./389.%20Find%20the%20Difference) | Easy |
