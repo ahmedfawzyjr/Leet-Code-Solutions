@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 603
+- **Total Problems Solved**: 604
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -70,6 +70,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1356 | [Sort Integers by The Number of 1 Bits](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | Easy |
 | 1496 | [Path Crossing](./1496.%20Path%20Crossing) | Easy |
+| 1512 | [Number of Good Pairs](./1512.%20Number%20of%20Good%20Pairs) | Easy |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array) | Hard |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid) | Medium |
 | 1582 | [Special Positions in a Binary Matrix](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix) | Easy |
@@ -925,4 +926,6 @@ LeetCode Solutions
 | 164 | 2026-08-23 | 1927 |
 | 165 | 2026-08-24 | 1002 |
 | 166 | 2026-08-25 | 3718 |
+| 167 | 2026-08-28 | 3734 |
+| 168 | 2026-08-29 | 1512 |
 
