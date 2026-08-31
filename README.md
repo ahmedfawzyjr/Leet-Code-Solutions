@@ -496,7 +496,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 63 | [Unique Paths II](./63.%20Unique%20Paths%20II) | Medium |
 | 64 | [Minimum Path Sum](./64.%20Minimum%20Path%20Sum) | Medium |
 | 70 | [Climbing Stairs](./70.%20Climbing%20Stairs) | Easy |
-| 400 | [Edit Distance](./72.%20Edit%20Distance) | Medium |
+| 72 | [Edit Distance](./72.%20Edit%20Distance) | Medium |
 | 85 | [Maximal Rectangle](./85.%20Maximal%20Rectangle) | Hard |
 | 96 | [Unique Binary Search Trees](./96.%20Unique%20Binary%20Search%20Trees) | Medium |
 | 115 | [Distinct Subsequences](./115-Distinct-Subsequences) | Hard |
