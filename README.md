@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 606
+- **Total Problems Solved**: 607
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -480,6 +480,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3650 | [Minimum Cost Path with Edge Reversals](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals) | Hard |
 | 3873 | [Maximum Points Activated with One Addition](./3873.%20Maximum%20Points%20Activated%20with%20One%20Addition) | Hard |
 | 1559 | [Detect Cycles in 2D Grid](./1559.%20Detect%20Cycles%20in%202D%20Grid) | Medium |
+| 3568 | [Minimum Moves to Clean the Classroom](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom) | Medium |
 
 ---
 
@@ -762,9 +763,9 @@ LeetCode Solutions
 │   ├── Path: 112, 113, 124, 129, 257, 404, 437
 │   └── Special: 100, 101, 104, 110, 111, 226, 297, 1339
 │
-├── Graphs (21 problems)
+├── Graphs (22 problems)
 │   ├── BFS/DFS: 130, 133, 200, 207, 210, 305, 417, 1306, 1345
-│   ├── Shortest Path: 127, 126, 317, 3650, 3629
+│   ├── Shortest Path: 127, 126, 317, 3650, 3629, 3568
 │   └── Special: 332, 399, 403, 1722, 2092, 3532, 3600
 │
 ├── Dynamic Programming (59 problems)
@@ -931,5 +932,5 @@ LeetCode Solutions
 | 167 | 2026-08-28 | 3734 |
 | 168 | 2026-08-29 | 1512 |
 | 169 | 2026-08-30 | 1619 |
-| 170 | 2026-08-31 | 1832 |
+| 170 | 2026-08-31 | 1832, 3568 |
 
