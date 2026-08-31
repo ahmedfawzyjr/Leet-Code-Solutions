@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 605
+- **Total Problems Solved**: 606
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -238,6 +238,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers) | Medium |
 | 1758 | [Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String) | Easy |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones) | Easy |
+| 1832 | [Check if the Sentence Is Pangram](./1832.%20Check%20if%20the%20Sentence%20Is%20Pangram) | Easy |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating) | Medium |
 | 1980 | [Find Unique Binary String](./1980.%20Find%20Unique%20Binary%20String) | Medium |
 | 2075 | [Decode the Slanted Ciphertext](./2075.%20Decode%20the%20Slanted%20Ciphertext) | Medium |
@@ -929,4 +930,6 @@ LeetCode Solutions
 | 166 | 2026-08-25 | 3718 |
 | 167 | 2026-08-28 | 3734 |
 | 168 | 2026-08-29 | 1512 |
+| 169 | 2026-08-30 | 1619 |
+| 170 | 2026-08-31 | 1832 |
 
