@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 607
+- **Total Problems Solved**: 608
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -151,6 +151,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3069 | [Distribute Elements Into Two Arrays I](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I) | Easy |
 | 3718 | [Smallest Missing Multiple of K](./3718.%20Smallest%20Missing%20Multiple%20of%20K) | Easy |
 | 1619 | [Mean of Array After Removing Some Elements](./1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements) | Easy |
+| 3875 | [Construct Uniform Parity Array I](./3875.%20Construct%20Uniform%20Parity%20Array%20I) | Easy |
 
 ---
 
@@ -730,7 +731,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ```
 LeetCode Solutions
-├── Arrays & Hashing (93 problems)
+├── Arrays & Hashing (94 problems)
 │   ├── Two Pointers: 11, 15, 16, 18, 42, 167, 283, 2161, 2540, 2657
 │   ├── Sliding Window: 3, 76, 209, 239, 424, 438, 480, 1610
 │   ├── Prefix Sum: 303, 304, 307, 308, 327, 1674, 3070, 3212
@@ -933,4 +934,5 @@ LeetCode Solutions
 | 168 | 2026-08-29 | 1512 |
 | 169 | 2026-08-30 | 1619 |
 | 170 | 2026-08-31 | 1832, 3568 |
+| 171 | 2026-09-02 | 3875 |
 
