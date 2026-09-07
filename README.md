@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 608
+- **Total Problems Solved**: 609
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -267,6 +267,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 482 | [License Key Formatting](./482.%20License%20Key%20Formatting) | Easy |
 | 3666 | [Minimum Operations to Equalize Binary String](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String) | Medium |
 | 1002 | [Find Common Characters](./1002.%20Find%20Common%20Characters) | Easy |
+| 2085 | [Count Common Words With One Occurrence](./2085.%20Count%20Common%20Words%20With%20One%20Occurrence) | Easy |
 
 ---
 
