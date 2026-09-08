@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 609
+- **Total Problems Solved**: 610
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -361,6 +361,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3953 | [Maximum Score with Co-Prime Element](./3953.%20Maximum%20Score%20with%20Co-Prime%20Element) | Hard |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | Easy |
 | 1927 | [Sum Game](./1927.%20Sum%20Game) | Medium |
+| 3870 | [Count Commas in Range](./3870.%20Count%20Commas%20in%20Range) | Easy |
 
 ---
 
@@ -747,7 +748,7 @@ LeetCode Solutions
 │   ├── Calculator: 224, 227
 │   └── Binary String: 67, 190, 191, 693, 868, 1009, 1404, 1545, 1758
 │
-├── Math & Bit Manipulation (72 problems)
+├── Math & Bit Manipulation (73 problems)
 │   ├── Number Theory: 7, 204, 231, 263, 264, 292, 326, 342, 1927, 3953
 │   ├── Bitwise: 136, 137, 191, 201, 260, 338, 371, 421, 461, 476, 477, 3145
 │   └── Arithmetic: 12, 13, 29, 50, 60, 69, 172, 202, 258, 556, 788, 3622
@@ -937,4 +938,5 @@ LeetCode Solutions
 | 170 | 2026-08-31 | 1832, 3568 |
 | 171 | 2026-09-02 | 3875 |
 | 172 | 2026-09-06 | 115 |
+| 173 | 2026-09-08 | 3870 |
 
