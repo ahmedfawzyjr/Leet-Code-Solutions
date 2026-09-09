@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 610
+- **Total Problems Solved**: 611
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -362,6 +362,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | Easy |
 | 1927 | [Sum Game](./1927.%20Sum%20Game) | Medium |
 | 3870 | [Count Commas in Range](./3870.%20Count%20Commas%20in%20Range) | Easy |
+| 1837 | [Sum of Digits in Base K](./1837.%20Sum%20of%20Digits%20in%20Base%20K) | Easy |
 
 ---
 
