@@ -4,7 +4,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 
 ## 📊 Stats
 
-- **Total Problems Solved**: 611
+- **Total Problems Solved**: 612
 - **Languages**: Python, SQL, JavaScript, Shell (Bash/Awk)
 - **Difficulty**: Easy, Medium, Hard
 
@@ -237,6 +237,7 @@ A comprehensive collection of LeetCode solutions organized by category, implemen
 | 1461 | [Check If a String Contains All Binary Codes of Size K](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K) | Medium |
 | 1545 | [Find Kth Bit in Nth Binary String](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String) | Medium |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers) | Medium |
+| 1704 | [Determine if String Halves Are Alike](./1704.%20Determine%20if%20String%20Halves%20Are%20Alike) | Easy |
 | 1758 | [Minimum Changes To Make Alternating Binary String](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String) | Easy |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones) | Easy |
 | 1832 | [Check if the Sentence Is Pangram](./1832.%20Check%20if%20the%20Sentence%20Is%20Pangram) | Easy |
